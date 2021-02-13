@@ -38,7 +38,12 @@ body {
 
 .content {
     width: 100% auto;
-    height: 50% auto;
+    height: 30% auto;
+}
+
+.text {
+    width: 100% auto;
+    height: 30% auto;
 }
 
 #universe {
