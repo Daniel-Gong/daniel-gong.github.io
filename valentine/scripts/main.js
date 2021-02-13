@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['LOVE YOU, NING']
+  let texts = ['如果我爱你\n\n如果我爱你\n就像风儿和星星依偎在一起\n风儿在低语，星星在淘气\n\n如果我爱你\n风儿在田野里呼啸\n星星在夜空中闪耀\n我循着你的眼睛飞翔\n就像黑夜中升起暖阳\n\n如果我爱你\n每一天都风和日丽\n每一晚都星光旖旎\n我枕着你的温柔入眠\n在梦中甜蜜地嬉戏\n\n当我爱上你\n风儿环游了天南地北\n星星转遍了晨东暮西\n我会亲吻着你的额头说\n我只要你']
 
   let canvas,
     ctx,
