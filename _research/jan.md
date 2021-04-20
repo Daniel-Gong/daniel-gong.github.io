@@ -1,7 +1,7 @@
 ---
 title: "Saliency-Specific Mechanism of Distractor Suppression "
 collection: research
-type: "research"
+type: "Visiting Researcher"
 permalink: /research/2020-jan-lab
 venue: "Department of Experimental and Applied Psychology, VU Amsterdam"
 date: 2020-01-16

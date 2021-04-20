@@ -1,7 +1,7 @@
 ---
 title: "Relationship between Selective Attention and Ensemble Perception"
 collection: research
-type: "research"
+type: "Research Intern"
 permalink: /research/2020-wolfe-lab
 venue: "Visual Attention Lab, Harvard University"
 date: 2020-07-01
