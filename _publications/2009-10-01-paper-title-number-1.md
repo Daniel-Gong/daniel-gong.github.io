@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "A saliency-specific and dimension-independent mechanism of distractor suppression"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-10-06-saliency-specific-suppression
+excerpt: 'This paper is about how the visual system learns to supress distractors in a saliency-specific way.'
+date: 2020-10-06
+venue: 'Attention, Perception, & Psychophysics'
+paperurl: 'http://daniel-gong.github.io/files/Gong&Theeuwes_2020.pdf'
+citation: 'Gong, D., Theeuwes, J. A saliency-specific and dimension-independent mechanism of distractor suppression. *Atten Percept Psychophys* **83, **292–307 (2021). https://doi.org/10.3758/s13414-020-02142-8'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**This paper is about how the visual system learns to supress distractors in a saliency-specific way.**
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Previous studies have shown that we can extract spatial and feature regularities from the visual environment, which in turn leads to optimized attentional control. In the current study, we show that suppression at a particular location can be selectively adjusted to the saliency level of the distractor presented at that location. In other words, the amount of suppression at a particular location is contingent on the saliency of the distractor appearing at that location. It is argued in favor of saliency-dependent suppression that modulates suppression on a trial-by-trial basis, contingent on the saliency of the actual distractor presented.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://daniel-gong.github.io/files/Gong&Theeuwes_2020.pdf)
+
+Recommended citation: Gong, D., Theeuwes, J. A saliency-specific and dimension-independent mechanism of distractor suppression. *Atten Percept Psychophys* **83, **292–307 (2021). https://doi.org/10.3758/s13414-020-02142-8

@@ -6,54 +6,72 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=========
+
+* B.S. in Psychology, Tsinghua University, 2021 (expected)
+* Ph.D in Experimental Psychology, University of Oxford, 2025 (expected)
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+===============
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2019: Research Assistant
+
+  * Perception and Action Lab at University of California, Berkeley
+  * Duties included: Coding and conducting experiments; Collecting and analyzing data
+  * Supervisor: Dr. Alison Yamanashi Leib and Professor David Whitney
+* Winter 2019: Visiting Researcher
+
+  * Department of Experimental and Applied Psychology, VU Amsterdam
+  * Research Topic: Mechanisms of distractor suppression elicited by visual statistical learning
+  * Supervisor: Professor Jan Theeuwes
+* Summer 2020: Research Intern (work remotely)
+
+  * Visual Attention Lab at Harvard University
+  * Duties included: Investigating the literature; Conceptualizing, coding and conducting experiments; Collecting and analyzing data
+  * Supervisor: Professor Jeremy Wolfe
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming
+  * MATLAB
+  * Python
+  * OpenSesame
+* Statistical analysis
+  * JASP
+  * SPSS
+  * R
 
 Publications
-======
-  <ul>{% for post in site.publications %}
+============
+
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
-======
-  <ul>{% for post in site.talks %}
+=====
+
+<ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+
+Research Projects
+=================
+
+<ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+======================
+
+* President of Student Association for Science and Technology, School of Social Sciences, Tsinghua University
+  May 2020 – May 2021
+* Member of Undergraduate Curriculum Advisory Committee, Tsinghua University
+  Mar 2020 – Present
+* Coordinator of the Love for Our Alma Mater Volunteer Activity, Tsinghua University
+  Dec 2017 – Apr 2018
