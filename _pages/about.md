@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dongyu Gong's Homepage'"
+title: "Dongyu Gong's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

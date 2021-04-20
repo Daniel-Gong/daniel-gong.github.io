@@ -6,7 +6,7 @@ excerpt: 'This paper is about how the visual system learns to supress distractor
 date: 2020-10-06
 venue: 'Attention, Perception, & Psychophysics'
 paperurl: 'http://daniel-gong.github.io/files/Gong&Theeuwes_2020.pdf'
-citation: 'Gong, D., Theeuwes, J. A saliency-specific and dimension-independent mechanism of distractor suppression. *Atten Percept Psychophys* **83, **292–307 (2021). https://doi.org/10.3758/s13414-020-02142-8'
+citation: 'Gong, D., & Theeuwes, J. (2021). A saliency-specific and dimension-independent mechanism of distractor suppression. Attention, Perception, & Psychophysics, 83(1), 292-307.'
 ---
 **This paper is about how the visual system learns to supress distractors in a saliency-specific way.**
 
@@ -14,4 +14,4 @@ Previous studies have shown that we can extract spatial and feature regularities
 
 [Download paper here](http://daniel-gong.github.io/files/Gong&Theeuwes_2020.pdf)
 
-Recommended citation: Gong, D., Theeuwes, J. A saliency-specific and dimension-independent mechanism of distractor suppression. *Atten Percept Psychophys* **83, **292–307 (2021). https://doi.org/10.3758/s13414-020-02142-8
+Recommended citation: Gong, D., & Theeuwes, J. (2021). A saliency-specific and dimension-independent mechanism of distractor suppression. Attention, Perception, & Psychophysics, 83(1), 292-307.
