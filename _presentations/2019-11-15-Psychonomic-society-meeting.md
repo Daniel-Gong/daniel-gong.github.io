@@ -1,7 +1,7 @@
 ---
 title: "The effect of distractor saliency on attentional capture"
 collection: presentations
-type: "presentation"
+type: "Poster presentation"
 permalink: /presentations/2019-11-15-Montreal
 venue: "60th Annual Meeting of the Psychonomic Society"
 date: 2019-11-15

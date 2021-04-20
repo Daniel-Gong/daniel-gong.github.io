@@ -7,7 +7,4 @@ tags:
   - events
   - milestones
 ---
-My New Website Launched Today
-=============================
-
 My new website launched today! I will work hard to keep it updated! Hooray!
