@@ -99,12 +99,13 @@ Grants
 
   * amount: ¥60,000, equivalent to over $9,000
 
-Service and leadership
+Service and Leadership
 ======================
-
+* Leturer at "The Road to Academia" Studio, Tsinghua University
+  * May 2021 - now
 * President of Student Association for Science and Technology, School of Social Sciences, Tsinghua University
-  May 2020 – May 2021
+  * May 2020 – May 2021
 * Member of Undergraduate Curriculum Advisory Committee, Tsinghua University
-  Mar 2020 – September 2020
-* Coordinator of the Love for Our Alma Mater Volunteer Activity, Tsinghua University
-  Dec 2017 – Apr 2018
+  * Mar 2020 – September 2020
+* Coordinator of the _Love for Our Alma Mater_ Volunteer Activity, Tsinghua University
+  * Dec 2017 – Apr 2018
