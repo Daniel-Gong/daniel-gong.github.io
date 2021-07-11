@@ -11,8 +11,8 @@ redirect_from:
 Education
 =========
 
-* B.S. in Psychology, Tsinghua University, 2021 (expected)
-* Ph.D in Experimental Psychology, University of Oxford, 2025 (expected)
+* BS in Psychology, Tsinghua University, 2021 （graduated with highest honors）
+* PhD in Experimental Psychology, University of Oxford, 2025 (expected)
 
 Work experience
 ===============
@@ -68,8 +68,9 @@ Research Projects
 
 Honors and Awards
 =================
-
-- **Highest Honor for Undergraduates, Tsinghua University, 2020**
+- Outstanding graduate (2%) at Tsinghua University, 2021 （清华大学优秀毕业生）
+- Outstanding gradaute (5%) among college students in Beijing, 2021 （北京地区高等学校优秀毕业生）
+- **Highest Honor for Undergraduates, Tsinghua University, 2020** (清华大学本科生特等奖学金)
 
   - *known as Top Grade Scholarship, this honor is awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 3,700 students of the Class of 2021*
 - **China National Scholarship**, 2020
@@ -78,14 +79,15 @@ Honors and Awards
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
 - Excellent Oral Presentation Award in 2019 Tsinghua Student Research Conference
 - Excellent Poster Presentation Award in 2019 Tsinghua Student Research Conference
-- Scholarship for **All-Round Excellence**, 2019
-- Scholarship for **Academic Excellence**, 2019
+- Scholarship for **Excellence in Scientific Innovation**,  Tsinghua University, 2019
+- Scholarship for **All-Round Excellence**,  Tsinghua University, 2019
+- Scholarship for **Academic Excellence**,  Tsinghua University, 2019
 - **China National Scholarship**, 2018
 
 Grants
 ======
 
-* **Medical Sciences Graduate School Studentship, University of Oxford, 2021-2024**
+* **Clarendon Fund Scholarship + New College-Yeotown Scholarship + Medical Sciences Graduate School Studentship, University of Oxford, 2021-2024**
 
   * for the Full-time DPhil in Experimental Psychology degree
 * **Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021**
