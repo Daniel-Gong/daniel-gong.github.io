@@ -73,7 +73,7 @@ Honors and Awards
 - Outstanding gradaute (5%) among college students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **Highest Honor for Undergraduates, Tsinghua University, 2020** (清华大学本科生特等奖学金)
 
-  - *known as Top Grade Scholarship, this honor is awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 3,700 students of the Class of 2021*
+  - *known as Tsinghua Top Grade Scholarship, this honor is awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 3,700 students of the Class of 2021*
 - **China National Scholarship**, 2020
 - Scholarship for **Excellence in Scientific Innovation**, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
