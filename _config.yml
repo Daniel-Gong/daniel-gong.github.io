@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongyu Gong"
 title_separator          : "-"
 name                     : &name "Dongyu Gong"
-description              : &description "Undergraduate Student at Tsinghua University"
+description              : &description "Incoming PhD Student at University of Oxford"
 url                      : https://daniel-gong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Daniel-Gong/daniel-gong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dongyu Gong"
   avatar           : "profile.png"
-  bio              : "Undergradaute Student at Department of Psychology, Tsinghua University"
+  bio              : "Incoming PhD Student at University of Oxford"
   location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?user=owYkQOgAAAAJ&hl=en"
   email            : gongdy17@gmail.com
