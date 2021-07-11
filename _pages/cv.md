@@ -68,6 +68,7 @@ Research Projects
 
 Honors and Awards
 =================
+- Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
 - Outstanding graduate (2%) at Tsinghua University, 2021 （清华大学优秀毕业生）
 - Outstanding gradaute (5%) among college students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **Highest Honor for Undergraduates, Tsinghua University, 2020** (清华大学本科生特等奖学金)
