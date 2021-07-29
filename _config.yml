@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dongyu Gong"
 title_separator          : "-"
-name                     : &name "Dongyu Gong"
+name                     : &name "Dongyu Gong（宫栋宇）"
 description              : &description "Incoming PhD Student at University of Oxford"
 url                      : https://daniel-gong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
