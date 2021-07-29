@@ -11,11 +11,11 @@ redirect_from:
 Education
 =========
 
-* BS in Psychology, Tsinghua University, 2021 （graduated with highest honors）
+* BS in Psychology, Tsinghua University, 2021 （graduated with highest honors, GPA:3.90/4.0, ranked #1）
 * PhD in Experimental Psychology, University of Oxford, 2025 (expected)
 
-Work experience
-===============
+Research Experience
+===================
 
 * Summer 2019: Research Assistant
 
@@ -37,13 +37,19 @@ Skills
 ======
 
 * Programming
+
   * MATLAB
   * Python
   * OpenSesame
 * Statistical analysis
+
   * JASP
   * SPSS
   * R
+* Neuroimaging techniques
+
+  * fMRI: knowledge in fMRI basics and data analysis with MATLAB SPM Toolbox
+  * EEG: knowledge in ERP and time-frequency analysis with EEGLAB and Fieldtrip Toolbox
 
 Publications
 ============
@@ -68,18 +74,22 @@ Research Projects
 
 Honors and Awards
 =================
+
+- Clarendon Scholar, University of Oxford, 2021
 - Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
-- Outstanding graduate (2%) at Tsinghua University, 2021 （清华大学优秀毕业生）
-- Outstanding gradaute (5%) among college students in Beijing, 2021 （北京地区高等学校优秀毕业生）
+- Outstanding graduate at Tsinghua University, 2021 （清华大学优秀毕业生）
+- Outstanding gradaute among college students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **Highest Honor for Undergraduates, Tsinghua University, 2020** (清华大学本科生特等奖学金)
 
-  - *known as Tsinghua Top Grade Scholarship, this honor is awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 3,700 students of the Class of 2021*
+  - *known as Tsinghua Top Grade Scholarship, this honor is awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 16,000 students*
 - **China National Scholarship**, 2020
 - Scholarship for **Excellence in Scientific Innovation**, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
 - Excellent Oral Presentation Award in 2019 Tsinghua Student Research Conference
 - Excellent Poster Presentation Award in 2019 Tsinghua Student Research Conference
+- Second Prize (in Beijing Division) in 2019 China Undergraduate Mathematical Contest in
+  Modeling
 - Scholarship for **Excellence in Scientific Innovation**,  Tsinghua University, 2019
 - Scholarship for **All-Round Excellence**,  Tsinghua University, 2019
 - Scholarship for **Academic Excellence**,  Tsinghua University, 2019
@@ -104,6 +114,7 @@ Grants
 
 Service and Leadership
 ======================
+
 * Leturer at "The Road to Academia" Studio, Tsinghua University
   * May 2021 - now
 * President of Student Association for Science and Technology, School of Social Sciences, Tsinghua University
