@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Dongyu Gong"
 title_separator          : "-"
-name                     : &name "Dongyu Gong（宫栋宇）"
-description              : &description "Incoming PhD Student at University of Oxford"
+name                     : &name "Dongyu Gong"
+description              : &description "Incoming PhD Student at University of Oxford. Chinese Name: 宫栋宇"
 url                      : https://daniel-gong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Daniel-Gong/daniel-gong.github.io"
@@ -92,15 +92,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100023962928512"
   foursquare       :
   github           : "Daniel-Gong"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/danielgong0205/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dongyu-gong-6a9b95183/"
   orcid            : "https://orcid.org/0000-0001-8606-3202"
   pinterest        :
   soundcloud       :
