@@ -11,8 +11,8 @@ redirect_from:
 Education
 =========
 
-* BS in Psychology, Tsinghua University, 2021 （graduated with highest honors, GPA:3.90/4.0, ranked #1）
-* PhD in Experimental Psychology, University of Oxford, 2025 (expected)
+* BSc, Psychology, Tsinghua University, 2021 （graduated with highest honors, GPA:3.90/4.0, ranked #1）
+* DPhil, Cognitive Neuroscience, University of Oxford, 2025 (expected)
 
 Research Experience
 ===================
