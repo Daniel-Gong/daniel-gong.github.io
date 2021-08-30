@@ -40,16 +40,12 @@ Skills
 
   * MATLAB
   * Python
-  * OpenSesame
-* Statistical analysis
-
-  * JASP
-  * SPSS
   * R
+  * C
 * Neuroimaging techniques
 
-  * fMRI: knowledge in fMRI basics and data analysis with MATLAB SPM Toolbox
-  * EEG: knowledge in ERP and time-frequency analysis with EEGLAB and Fieldtrip Toolbox
+  * fMRI: knowledge in data analysis with SPM Toolbox
+  * EEG: knowledge in data analysis with EEGLAB and Fieldtrip Toolbox
 
 Publications
 ============
