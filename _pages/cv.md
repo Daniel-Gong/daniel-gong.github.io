@@ -11,27 +11,24 @@ redirect_from:
 Education
 =========
 
-* BSc, Psychology, Tsinghua University, 2021 （graduated with highest honors, GPA:3.90/4.0, ranked #1）
-* DPhil, Cognitive Neuroscience, University of Oxford, 2025 (expected)
+* PhD, Cognitive Neuroscience, University of Oxford, 2025 (expected)
+* BSc, Psychology, Tsinghua University, 2021 (graduated with highest honors, GPA:3.90/4.0, ranked #1)
 
 Research Experience
 ===================
 
-* Summer 2019: Research Assistant
+* Research Intern, Summer 2020
 
-  * Perception and Action Lab at University of California, Berkeley
-  * Duties included: Coding and conducting experiments; Collecting and analyzing data
-  * Supervisor: Dr. Alison Yamanashi Leib and Professor David Whitney
-* Winter 2019: Visiting Researcher
+  * Visual Attention Lab at Harvard Medical School
+  * Supervisor: Professor Jeremy Wolfe
+* Visiting Researcher, Winter 2019
 
   * Department of Experimental and Applied Psychology, VU Amsterdam
-  * Research Topic: Mechanisms of distractor suppression elicited by visual statistical learning
   * Supervisor: Professor Jan Theeuwes
-* Summer 2020: Research Intern (work remotely)
+* Research Assistant, Summer 2019
 
-  * Visual Attention Lab at Harvard University
-  * Duties included: Investigating the literature; Conceptualizing, coding and conducting experiments; Collecting and analyzing data
-  * Supervisor: Professor Jeremy Wolfe
+  * Perception and Action Lab at University of California, Berkeley
+  * Supervisor: Dr. Alison Yamanashi Leib and Professor David Whitney
 
 Skills
 ======
@@ -75,9 +72,9 @@ Honors and Awards
 - Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
 - Outstanding graduate at Tsinghua University, 2021 （清华大学优秀毕业生）
 - Outstanding gradaute among college students in Beijing, 2021 （北京地区高等学校优秀毕业生）
-- **Highest Honor for Undergraduates, Tsinghua University, 2020** (清华大学本科生特等奖学金)
+- **Tsinghua Top Grade Scholarship Tsinghua University, 2020** (清华大学本科生特等奖学金)
 
-  - *known as Tsinghua Top Grade Scholarship, this honor is awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 16,000 students*
+  - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates at Tsinghua among over 16,000 students*
 - **China National Scholarship**, 2020
 - Scholarship for **Excellence in Scientific Innovation**, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
@@ -94,19 +91,17 @@ Honors and Awards
 Grants
 ======
 
-* **Clarendon Fund Scholarship + New College-Yeotown Scholarship + Medical Sciences Graduate School Studentship, University of Oxford, 2021-2024**
-
-  * for the Full-time DPhil in Experimental Psychology degree
+* **Clarendon Fund Scholarship + New College-Yeotown Scholarship  + Medical Research Counsil Studentship, University of Oxford, 2021-2024**
 * **Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021**
 
-  * this grant is highly competitive and is awarded to only 10 undergraduates at Tsinghua each year.
-  * amount: ¥190,000, equivalent to over $28,000
+  * Awarded to only 10 undergraduates at Tsinghua each year.
+  * Amount: ¥190,000, equivalent to over $28,000
 * Grant for Undergraduate Overseas Studies, Tsinghua University, 2019
 
-  * amount: ¥30,000, equivalent to over $4,500
+  * Amount: ¥30,000, equivalent to over $4,500
 * Research Grant for Student-Initiated Project, Tsinghua University, 2018-2019
 
-  * amount: ¥60,000, equivalent to over $9,000
+  * Amount: ¥60,000, equivalent to over $9,000
 
 Service and Leadership
 ======================
