@@ -68,21 +68,21 @@ Research Projects
 Honors and Awards
 =================
 
-- Clarendon Scholar, University of Oxford, 2021
+- **Clarendon Scholar, University of Oxford, 2021**
 - Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
 - Outstanding Graduate at Tsinghua University, 2021 （清华大学优秀毕业生）
 - Outstanding Gradaute among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **Tsinghua Top Grade Scholarship, Tsinghua University, 2020** (清华大学本科生特等奖学金)
 
-  - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates at Tsinghua p.a.*
+  - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates per annum.*
 - **China National Scholarship**, 2020
 - Scholarship for **Excellence in Scientific Innovation**, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
 - Excellent Oral Presentation Award in 2019 Tsinghua Student Research Conference
 - Excellent Poster Presentation Award in 2019 Tsinghua Student Research Conference
-- Second Prize (in Beijing Division) in 2019 China Undergraduate Mathematical Contest in
-  Modeling
+- Second Prize in 2019 China Undergraduate Mathematical Contest in
+  Modeling (in Beijing region)
 - Scholarship for **Excellence in Scientific Innovation**,  Tsinghua University, 2019
 - Scholarship for **All-Round Excellence**,  Tsinghua University, 2019
 - Scholarship for **Academic Excellence**,  Tsinghua University, 2019
@@ -91,7 +91,7 @@ Honors and Awards
 Grants
 ======
 
-* **Clarendon Fund Scholarship + New College-Yeotown Scholarship  + Medical Research Counsil Studentship, University of Oxford, 2021-2024**
+* **Clarendon Fund Scholarship + Medical Research Counsil Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
 * **Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021**
 
   * Awarded to only 10 undergraduates at Tsinghua each year.
