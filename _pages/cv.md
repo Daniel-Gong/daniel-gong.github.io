@@ -74,19 +74,19 @@ Honors and Awards
 - Outstanding Gradaute among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **Tsinghua Top Grade Scholarship, Tsinghua University, 2020** (清华大学本科生特等奖学金)
 
-  - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates per annum.*
-- **China National Scholarship**, 2020
-- Scholarship for **Excellence in Scientific Innovation**, Tsinghua University, 2020
+  - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates annually.*
+- China National Scholarship, 2020
+- Scholarship for Excellence in Scientific Innovation, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
 - Excellent Oral Presentation Award in 2019 Tsinghua Student Research Conference
 - Excellent Poster Presentation Award in 2019 Tsinghua Student Research Conference
 - Second Prize in 2019 China Undergraduate Mathematical Contest in
   Modeling (in Beijing region)
-- Scholarship for **Excellence in Scientific Innovation**,  Tsinghua University, 2019
-- Scholarship for **All-Round Excellence**,  Tsinghua University, 2019
-- Scholarship for **Academic Excellence**,  Tsinghua University, 2019
-- **China National Scholarship**, 2018
+- Scholarship for Excellence in Scientific Innovation,  Tsinghua University, 2019
+- Scholarship for All-Round Excellence,  Tsinghua University, 2019
+- Scholarship for Academic Excellence,  Tsinghua University, 2019
+- China National Scholarship, 2018
 
 Grants
 ======
