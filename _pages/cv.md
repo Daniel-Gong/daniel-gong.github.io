@@ -106,11 +106,11 @@ Grants
 Service and Leadership
 ======================
 
-* Leturer at "The Road to Academia" Studio, Tsinghua University
+* Leturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
   * May 2021 - now
-* President of Student Association for Science and Technology, School of Social Sciences, Tsinghua University
+* President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
   * May 2020 – May 2021
-* Member of Undergraduate Curriculum Advisory Committee, Tsinghua University
+* Member of [Undergraduate Curriculum Advisory Committee](http://www.tuef.tsinghua.edu.cn/info/qhyx/3150), Tsinghua University
   * Mar 2020 – September 2020
 * Coordinator of the _Love for Our Alma Mater_ Volunteer Activity, Tsinghua University
   * Dec 2017 – Apr 2018
