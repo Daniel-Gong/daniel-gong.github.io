@@ -92,7 +92,7 @@ Grants
 ======
 
 * **Clarendon Fund Scholarship + Medical Research Counsil Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
-* **Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021**
+* **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.psych.tsinghua.edu.cn/info/1197/1031.htm)**
 
   * Awarded to only 10 undergraduates at Tsinghua each year.
   * Amount: ¥190,000, equivalent to over $28,000
