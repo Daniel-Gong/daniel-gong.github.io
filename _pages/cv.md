@@ -68,14 +68,14 @@ Research Projects
 Honors and Awards
 =================
 
-- **Clarendon Scholar, University of Oxford, 2021**
+- **[Clarendon Scholar, University of Oxford](https://www.clarendonscholarsassociation.co.uk/2021), 2021**
 - Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
 - Outstanding Graduate at Tsinghua University, 2021 （清华大学优秀毕业生）
 - Outstanding Gradaute among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
-- **Tsinghua Top Grade Scholarship, Tsinghua University, 2020** (清华大学特等奖学金)
+- **[Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020** (清华大学特等奖学金)
 
   - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates annually.*
-- China National Scholarship, 2020
+- [China National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202012/t20201217_506100.html), 2020
 - Scholarship for Excellence in Scientific Innovation, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
@@ -86,7 +86,7 @@ Honors and Awards
 - Scholarship for Excellence in Scientific Innovation,  Tsinghua University, 2019
 - Scholarship for All-Round Excellence,  Tsinghua University, 2019
 - Scholarship for Academic Excellence,  Tsinghua University, 2019
-- China National Scholarship, 2018
+- [China National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html), 2018
 
 Grants
 ======
