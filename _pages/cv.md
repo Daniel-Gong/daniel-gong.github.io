@@ -39,6 +39,7 @@ Skills
   * Python
   * R
   * C
+  * HTML
 * Neuroimaging techniques
 
   * fMRI: knowledge in data analysis with SPM Toolbox
@@ -106,6 +107,7 @@ Grants
 Service and Leadership
 ======================
 
+* Member & Staff of UK Tsinghua Association
 * Leturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
   * May 2021 - now
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
