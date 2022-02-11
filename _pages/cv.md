@@ -76,7 +76,7 @@ Honors and Awards
 - **[Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020** (清华大学特等奖学金)
 
   - *Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates annually.*
-- [China National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202012/t20201217_506100.html), 2020
+- China National Scholarship, 2020
 - Scholarship for Excellence in Scientific Innovation, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
@@ -87,12 +87,12 @@ Honors and Awards
 - Scholarship for Excellence in Scientific Innovation,  Tsinghua University, 2019
 - Scholarship for All-Round Excellence,  Tsinghua University, 2019
 - Scholarship for Academic Excellence,  Tsinghua University, 2019
-- [China National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html), 2018
+- China National Scholarship, 2018
 
 Grants
 ======
 
-* **Clarendon Fund Scholarship + Medical Research Counsil Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
+* **Clarendon Fund Scholarship + Medical Research Council Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
 * **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.psych.tsinghua.edu.cn/info/1197/1031.htm)**
 
   * Awarded to only 10 undergraduates at Tsinghua each year.
@@ -109,7 +109,7 @@ Service and Leadership
 
 * Member & Staff of [UK Tsinghua Association](https://www.tsinghua.org.uk/)
   * January 2022 - now
-* Leturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
+* Lecturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
   * May 2021 - now
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
   * May 2020 – May 2021
