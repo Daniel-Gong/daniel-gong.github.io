@@ -107,7 +107,9 @@ Funding and Grants
 Service and Leadership
 ======================
 
-* Member & Staff of [UK Tsinghua Association](https://www.tsinghua.org.uk/)
+* Co-founder of Polaris Sciences
+  * February 2022 - now
+* Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.uk/)
   * January 2022 - now
 * Lecturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
   * May 2021 - now
