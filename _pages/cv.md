@@ -42,8 +42,8 @@ Skills
   * HTML
 * Neuroimaging techniques
 
-  * fMRI: knowledge in data analysis with SPM Toolbox
-  * EEG: knowledge in data analysis with EEGLAB and Fieldtrip Toolbox
+  * fMRI data analysis with FSL
+  * EEG data analysis with EEGLAB and Fieldtrip Toolbox
 
 Publications
 ============
@@ -107,8 +107,6 @@ Funding and Grants
 Service and Leadership
 ======================
 
-* Co-founder of Polaris Sciences
-  * February 2022 - now
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.uk/)
   * January 2022 - now
 * Lecturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
