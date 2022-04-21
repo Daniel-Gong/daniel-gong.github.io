@@ -15,3 +15,8 @@ Previous studies have shown that we can extract spatial and feature regularities
 [Download paper here](http://daniel-gong.github.io/files/Gong&Theeuwes_2020.pdf)
 
 Recommended citation: Gong, D., & Theeuwes, J. (2021). A saliency-specific and dimension-independent mechanism of distractor suppression. Attention, Perception, & Psychophysics, 83(1), 292-307.
+
+*Cited by 2 articles:*
+
+1. [Exploration of Person-Independent BCIs for Internal and External Attention-Detection in Augmented Reality | Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dl.acm.org/doi/10.1145/3463507)
+2. [Semantic priming and neurobiology in schizophrenia: A theoretical review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0028393221003110)
