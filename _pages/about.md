@@ -13,7 +13,7 @@ My research mainly focuses on the neural mechanisms underlying human visual atte
 
 Before graduate school, I received my degree of Bachelor of Science from [Tsinghua University](https://www.tsinghua.edu.cn) with highest honors. During my undergraduate years, I was supervised by Professor [Pei Sun](http://www.psych.tsinghua.edu.cn/xlxxen/info/1073/1132.htm) and Professor [Nihong Chen](http://www.psych.tsinghua.edu.cn/xlxxen/info/1072/1100.htm) at Tsinghua. In Summer 2019, I visited [Whitney lab](https://whitneylab.berkeley.edu/) at UC Berkeley. In Winter 2019, I visited Professor [Jan Theeuwes](https://www.vupsy.nl/staff-members/jan-theeuwes/)'s lab at VU Amsterdam. In Summer 2020, I worked with Professor [Jeremy Wolfe](http://researchfaculty.brighamandwomens.org/BRIProfile.aspx?id=552), who leads the [Visual Attention Lab](https://search.bwh.harvard.edu/new/index.html) at Harvard Medical School.
 
-In my leisure time, I enjoy cooking, running, playing badminton, and travelling around. I love sci-fi movies and books. I also love piano music although I can play little. I am recently starting a video channel introducing neuroscience research to the general public.
+In my leisure time, I enjoy cooking, running, playing badminton, and travelling. I also love sci-fi movies, sci-fi books, and piano music. I am recently starting a video channel introducing neuroscience research to the general public.
 
 ![Brain](/images/brainbow.png)
 
