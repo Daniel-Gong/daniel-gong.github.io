@@ -16,3 +16,5 @@ Before graduate school, I received my degree of Bachelor of Science from [Tsingh
 In my leisure time, I enjoy cooking, running, playing badminton, and travelling around. I love sci-fi movies and books. I also love piano music although I can play little. I am recently starting a video channel introducing neuroscience research to the general public.
 
 ![Brain](/images/brainbow.png)
+
+*Image from Tamily Weissman, Harvard University*
