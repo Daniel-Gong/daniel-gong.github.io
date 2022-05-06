@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm [Dongyu Gong](https://www.win.ox.ac.uk/people/dongyu-gong). I am a PhD student in Cognitive Neuroscience at the [Brain & Cognition Laboratory](http://www.brainandcognition.org/), University of Oxford. I am supervised by Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre), and I am fully funded by [Clarendon Scholarship](https://en.wikipedia.org/wiki/Clarendon_Fund), [Medical Research Council (MRC) Studentship](https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp), and [New College - Yeotown Scholarship](https://www.new.ox.ac.uk/scholarships).
+Hi, I'm [Dongyu Gong](https://www.win.ox.ac.uk/people/dongyu-gong). I am a PhD student in Cognitive Neuroscience at the [Brain & Cognition Laboratory](http://www.brainandcognition.org/), University of Oxford. I am supervised by Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre), and I am funded by [Clarendon Scholarship](https://en.wikipedia.org/wiki/Clarendon_Fund), [Medical Research Council (MRC) Studentship](https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp), and [New College - Yeotown Scholarship](https://www.new.ox.ac.uk/scholarships).
 
 My research mainly focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior. I use a combination of functional MRI, EEG/MEG, human psychophysics and eye tracking techniques in my research.
 
