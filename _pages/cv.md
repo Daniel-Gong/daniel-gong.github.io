@@ -69,6 +69,7 @@ Research Projects
 Honors and Awards
 =================
 
+- Award Winner in 2022 Oxford-MRC DTP Supplementary Funding Competition, 2022
 - **[Clarendon Scholar, University of Oxford](https://www.clarendonscholarsassociation.co.uk/2021), 2021**
 - Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
 - Outstanding Graduate at Tsinghua University, 2021 （清华大学优秀毕业生）
@@ -92,6 +93,9 @@ Honors and Awards
 Funding and Grants
 ==================
 
+* Oxford-MRC DTP Supplementary Funding for High Cost Training
+
+  * Amount: £ 10505
 * **Clarendon Fund Scholarship + Medical Research Council Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
 * **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.psych.tsinghua.edu.cn/info/1197/1031.htm)**
 
