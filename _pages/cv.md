@@ -74,7 +74,7 @@ Honors and Awards
 - Outstanding Undergraduate Thesis Award, Tsinghua University, 2021
 - Outstanding Graduate at Tsinghua University, 2021 （清华大学优秀毕业生）
 - Outstanding Gradaute among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
-- **[Tsinghua Top Grade Scholarship, Tsinghua University](https://baike.baidu.com/item/%E5%AE%AB%E6%A0%8B%E5%AE%87/54629177), 2020** (清华大学特等奖学金)
+- **[Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020** (清华大学特等奖学金)
 
   - *Presidential Award. Highest Honor for Undergraduates. Awarded to only 10 of the most outstanding undergraduates annually.*
 - China National Scholarship, 2020
@@ -114,7 +114,7 @@ Service and Leadership
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.uk/)
   * January 2022 - now
 * Lecturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
-  * May 2021 - now
+  * May 2021 - June 2022
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
   * May 2020 – May 2021
 * Member of [Undergraduate Curriculum Advisory Committee](http://www.tuef.tsinghua.edu.cn/info/qhyx/3150), Tsinghua University
