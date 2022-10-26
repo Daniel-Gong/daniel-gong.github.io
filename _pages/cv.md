@@ -30,6 +30,17 @@ Research Experience
   * Perception and Action Lab at University of California, Berkeley
   * Supervisor: Dr. Alison Yamanashi Leib and Professor David Whitney
 
+# Teaching Experience
+
+* Tutor for Undergraduates, University of Oxford
+
+  * Oct 2022 - Dec 2022
+  * Tutored undergraduate students for *Cognition* course (Attention, Memory, and Learning)
+* Teaching Assistant at the Perception Science Program, UC Berkeley
+
+  * Summer 2019
+  * Tutored high school students in experimental design and MATLAB programming
+
 Skills
 ======
 
