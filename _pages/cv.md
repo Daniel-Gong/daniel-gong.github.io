@@ -54,7 +54,7 @@ Skills
 * Neuroimaging techniques
 
   * fMRI data analysis with FSL
-  * EEG data analysis with EEGLAB and Fieldtrip Toolbox
+  * EEG data analysis with MNE-Python
 
 Publications
 ============
