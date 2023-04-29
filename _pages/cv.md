@@ -103,7 +103,7 @@ Honors and Awards
 
 # Academic Service
 
-Peer reviewer, [Robotics and Computer-Integrated Manufacturing | Journal by Elsevier](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing) (Impact Factor: 10.103)
+Peer reviewer, [*Robotics and Computer-Integrated Manufacturing*, Journal by Elsevier](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing) (Impact Factor: 10.103)
 
 Peer reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023.ccneuro.org/)
 
