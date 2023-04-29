@@ -101,6 +101,12 @@ Honors and Awards
 - Scholarship for Academic Excellence,  Tsinghua University, 2019
 - China National Scholarship, 2018
 
+# Academic Service
+
+Peer reviewer, [Robotics and Computer-Integrated Manufacturing | Journal by Elsevier](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing) (Impact Factor: 10.103)
+
+Peer reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023.ccneuro.org/)
+
 Funding and Grants
 ==================
 
@@ -119,12 +125,12 @@ Funding and Grants
 
   * Amount: ¥60,000, equivalent to over $9,000
 
-Service and Leadership
-======================
+Leadership
+==========
 
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.cn/info/1158/21603.htm)
   * January 2022 - now
-* Lecturer at ["The Road to Academia" Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
+* Lecturer at [&#34;The Road to Academia&#34; Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
   * May 2021 - June 2022
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
   * May 2020 – May 2021
