@@ -11,7 +11,9 @@ Hi, I'm [Dongyu Gong](https://www.win.ox.ac.uk/people/dongyu-gong). I am a PhD s
 
 I am moving to Yale soon after [my supervisor got her new position at Yale](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
 
-My research mainly focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior. I use a combination of functional MRI, EEG/MEG, human psychophysics and eye tracking techniques in my research.
+I am interested in studying both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience is an important force in driving the development of autonomous machine intelligence with human-level cognitive abilities.
+
+My PhD research mainly focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior. I use a combination of functional MRI, EEG/MEG, human psychophysics and eye tracking techniques in my research.
 
 Before graduate school, I received my degree of Bachelor of Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/) with highest honors. During my undergraduate years, I was supervised by Professor [Pei Sun](http://www.psych.tsinghua.edu.cn/xlxxen/info/1073/1132.htm) and Professor [Nihong Chen](http://www.psych.tsinghua.edu.cn/xlxxen/info/1072/1100.htm) at Tsinghua. In Summer 2019, I visited [Whitney lab](https://whitneylab.berkeley.edu/) at UC Berkeley. In Winter 2019, I visited Professor [Jan Theeuwes](https://research.vu.nl/en/persons/jan-theeuwes/)'s lab at VU Amsterdam. In Summer 2020, I worked with Professor [Jeremy Wolfe](https://eye.hms.harvard.edu/jeremywolfe), who leads the [Visual Attention Lab](https://search.bwh.harvard.edu/new/index.html) at Harvard Medical School.
 
