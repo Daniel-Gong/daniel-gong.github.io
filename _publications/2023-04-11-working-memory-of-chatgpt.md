@@ -7,4 +7,4 @@ paperurl: 'http://daniel-gong.github.io/files/Gong_2023_CCN.pdf'
 ---
 Working memory is a critical aspect of both human intelligence and artificial intelligence (AI), serving as a workspace for the temporary storage and manipulation of information. This paper investigates the working memory capacity of ChatGPT, a state-of-the-art language model, by examining its performance on N-back tasks. We begin by discussing the importance of working memory to humans and AI, followed by the methods employed to assess ChatGPT’s working memory capacity. Our study compares behavioral performance of ChatGPT on verbal and spatial N-back tasks to that of human participants reported in the literature, revealing notable similarities. Our findings offer crucial insights into the current progress in designing AI systems with humanlevel cognitive abilities and hold promise for informing future endeavors aimed at enhancing AI working memory and understanding human working memory through AI models.
 
-See the [paper](http://daniel-gong.github.io/files/Gong_2023_CCN.pdf) here.
+See the [paper](https://arxiv.org/abs/2305.03731) here.
