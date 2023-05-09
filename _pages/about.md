@@ -9,8 +9,6 @@ redirect_from:
 ---
 Hi, I'm [Dongyu Gong](https://www.win.ox.ac.uk/people/dongyu-gong). I am a PhD student in Cognitive Neuroscience at the [Brain &amp; Cognition Laboratory](http://www.brainandcognition.org/), University of Oxford. I am supervised by Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre) and Dr. [Dejan Draschkow](https://www.psych.ox.ac.uk/team/dejan-draschkow), and I am funded by [Clarendon Scholarship](https://en.wikipedia.org/wiki/Clarendon_Fund), [Medical Research Council (MRC) Studentship](https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp), and [New College - Yeotown Scholarship](https://www.new.ox.ac.uk/scholarships).
 
-I am moving to Yale soon after [my supervisor got her new position at Yale](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
-
 I am interested in studying both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience is an important force in driving the development of autonomous machine intelligence with human-level cognitive abilities.
 
 My PhD research mainly focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior. I use a combination of functional MRI, EEG/MEG, human psychophysics and eye tracking techniques in my research.
