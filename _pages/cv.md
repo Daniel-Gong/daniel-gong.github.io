@@ -28,7 +28,7 @@ Research Experience
 * Research Assistant, Summer 2019
 
   * Perception and Action Lab at University of California, Berkeley
-  * Supervisor: Dr. Alison Yamanashi Leib and Professor David Whitney
+  * Supervisors: Dr. Alison Yamanashi Leib and Professor David Whitney
 
 # Teaching Experience
 
