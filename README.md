@@ -1,1 +1,1 @@
-This is the repository for Dongyu Gong's [personal website](daniel-gong.github.io).
+This is the repository for Dongyu Gong's [personal website](https://daniel-gong.github.io).
