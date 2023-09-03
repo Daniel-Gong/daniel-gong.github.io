@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm [Dongyu Gong](https://www.win.ox.ac.uk/people/dongyu-gong). I am currently a PhD student at [Wu Tsai Institute](wti.yale.edu) and Department of Psychology, Yale University. My PhD adviser is Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre). I was also a PhD student at Oxford with Kia, and I moved to Yale after [Kia got her new position at Wu Tsai Institute](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
+Hi, I'm Dongyu Gong. I am currently a PhD student at [Wu Tsai Institute](https://wti.yale.edu) and Department of Psychology, Yale University. My PhD adviser is Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre). I was also a PhD student at Oxford with Kia, and I moved to Yale after [Kia got her new position at Wu Tsai Institute](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
 
 I am interested in studying both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience is an important force in driving the development of autonomous machine intelligence with human-level cognitive abilities.
 
