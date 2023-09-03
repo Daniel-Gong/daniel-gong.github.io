@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongyu Gong（宫栋宇）"
 title_separator          : "-"
 name                     : &name "Dongyu Gong"
-description              : &description "PhD Student at University of Oxford. Chinese Name: 宫栋宇"
+description              : &description "PhD Student at Yale University."
 url                      : https://daniel-gong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Daniel-Gong/daniel-gong.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dongyu Gong"
   avatar           : "profile.png"
-  bio              : "PhD Student at University of Oxford"
-  location         : "Oxford, UK"
+  bio              : "PhD Student at Yale University"
+  location         : "New Haven, CT"
   googlescholar    : "https://scholar.google.com/citations?user=owYkQOgAAAAJ&hl=en"
-  email            : dongyu.gong@new.ox.ac.uk
+  email            : dongyu.gong@yale.edu
   researchgate     : "https://www.researchgate.net/profile/Dongyu_Gong"
   uri              :
   bitbucket        :
