@@ -11,8 +11,9 @@ redirect_from:
 Education
 =========
 
-* PhD in Cognitive Neuroscience, University of Oxford, 2025 (expected)
-* BSc in Psychology (Minor in Computer Science), Tsinghua University, 2021 (graduated with highest honors, GPA:3.90/4.0, ranked #1)
+* PhD student, Cognitive Neuroscience, Yale University, 2023 -
+* PhD student, University of Oxford, 2021 - 2023 (Moved to Yale with my supervisor in 2023)
+* Bachelor of Science, Psychology (Minor in Computer Science), Tsinghua University, 2021 (graduated with highest honors, GPA ranked #1)
 
 Research Experience
 ===================
