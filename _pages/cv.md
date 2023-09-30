@@ -12,7 +12,7 @@ Education
 =========
 
 * PhD student, Cognitive Neuroscience, Yale University, 2023 -
-* PhD student, University of Oxford, 2021 - 2023 (Moved to Yale with my supervisor in 2023)
+* PhD student, University of Oxford, 2021 - 2023 (Moved to Yale with my advisor in 2023)
 * Bachelor of Science, Psychology (Minor in Computer Science), Tsinghua University, 2021 (graduated with highest honors, GPA ranked #1)
 
 Research Experience
