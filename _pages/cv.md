@@ -130,7 +130,7 @@ Leadership
 ==========
 
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.cn/info/1158/21603.htm)
-  * January 2022 - now
+  * January 2022 - August 2023
 * Lecturer at [&#34;The Road to Academia&#34; Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
   * May 2021 - June 2022
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
