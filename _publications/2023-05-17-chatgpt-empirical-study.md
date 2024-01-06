@@ -2,9 +2,7 @@
 title: "Working Memory Capacity of ChatGPT: An Empirical Study"
 collection: publications
 permalink: /publication/2023-12-09-chatgpt-empirical-study
-excerpt: 'Accepted by AAAI 2024 Conference on Artificial Intelligence (AAAI 2024)'
+excerpt: 'Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 38'
 paperurl: 'https://arxiv.org/abs/2305.03731'
 ---
-Authors: Dongyu Gong, Xingchen Wan, Dingmin Wang
-
-See the [paper](https://arxiv.org/abs/2305.03731) here.
+Working memory is a critical aspect of both human intelligence and artificial intelligence, serving as a workspace for the temporary storage and manipulation of information. In this paper, we systematically assess the working memory capacity of ChatGPT, a large language model developed by OpenAI, by examining its performance in verbal and spatial n-back tasks under various conditions. Our experiments reveal that ChatGPT has a working memory capacity limit strikingly similar to that of humans. Furthermore, we investigate the impact of different instruction strategies on ChatGPT's performance and observe that the fundamental patterns of a capacity limit persist. From our empirical findings, we propose that n-back tasks may serve as tools for benchmarking the working memory capacity of large language models and hold potential for informing future efforts aimed at enhancing AI working memory.
