@@ -95,7 +95,7 @@ Honors and Awards
 - China National Scholarship, 2020
 - Scholarship for Excellence in Scientific Innovation, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
-- “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
+- [“Academic Rising Star”in 2020 Undergraduates Psychology Forum](https://www.psy.pku.edu.cn/xwzx/tzgg/344956.htm), Peking University
 - Selected to "Spark" Innovative Talent Cultivation Program （[“星火班”](https://www.tsinghua.edu.cn/info/1182/35332.htm)）, Tsinghua University, 2019
 - Excellent Oral Presentation Award in 2019 Tsinghua Student Research Conference
 - Excellent Poster Presentation Award in 2019 Tsinghua Student Research Conference
