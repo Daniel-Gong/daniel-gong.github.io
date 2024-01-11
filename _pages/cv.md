@@ -96,6 +96,7 @@ Honors and Awards
 - Scholarship for Excellence in Scientific Innovation, Tsinghua University, 2020
 - First Prize in 38th Challenge Cup for Scientific Research, Tsinghua University, 2020
 - “Academic Rising Star”in 2020 Undergraduates Psychology Forum, Peking University
+- Member of "Spark" Innovative Talent Cultivation Program, Tsinghua University, 2019
 - Excellent Oral Presentation Award in 2019 Tsinghua Student Research Conference
 - Excellent Poster Presentation Award in 2019 Tsinghua Student Research Conference
 - Second Prize in 2019 China Undergraduate Mathematical Contest in
