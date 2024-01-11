@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+[See a PDF version of the CV here](https://daniel-gong.github.io/files/CV_DongyuGong_Jan2024.pdf)
+
 Education
 =========
 
