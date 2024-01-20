@@ -84,6 +84,8 @@ Honors and Awards
 =================
 
 - AAAI-24 Student Scholarship and Volunteer Award, 2023
+- New College Sporting and Cultural Award, 2022
+- New College Travel Grant for GRC Neurobiology of Cognition, 2022
 - Award Winner in 2022 Oxford-MRC DTP Supplementary Funding Competition, 2022
 - **[Clarendon Scholar](https://www.ox.ac.uk/clarendon), University of Oxford, 2021**
 - [Gates Cambridge Scholarship](https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship) (extremely competitive), University of Cambridge (declined the offer), 2021
