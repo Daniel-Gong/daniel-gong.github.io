@@ -88,8 +88,8 @@ Honors and Awards
 - New College Travel Grant for GRC Neurobiology of Cognition, 2022
 - Award Winner in 2022 Oxford-MRC DTP Supplementary Funding Competition, 2022
 - **[Clarendon Scholar](https://www.ox.ac.uk/clarendon), University of Oxford, 2021**
-- [Gates Cambridge Scholarship](https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship) (extremely competitive), University of Cambridge (declined the offer), 2021
-- Outstanding Undergraduate Thesis Award (top 1 in the class), Tsinghua University, 2021
+- [Gates Cambridge Scholarship](https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship), University of Cambridge (declined the offer), 2021
+- Outstanding Undergraduate Thesis Award, Tsinghua University, 2021 (清华大学本科优秀毕业论文)
 - Outstanding Graduate at Tsinghua University (top 1 in the class), 2021 （清华大学优秀毕业生）
 - Outstanding Graduate among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **[Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020** (清华大学特等奖学金)
