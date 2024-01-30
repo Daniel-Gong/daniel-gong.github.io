@@ -4,11 +4,10 @@ We all know that kind of feeling when you discover some very interesting paper b
 
 **1.29.2024**
 
-[Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3), Nature Reviews Neuroscience, 2021
-
+[Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3), *Nature Reviews Neuroscience*, 2021
 Nikolaus Kriegeskorte & Xue-Xin Wei
 
 **1.30.2024**
-[Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings](https://www.nature.com/articles/s42256-023-00748-9), Nature Machine Intelligence, 2023
 
+[Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings](https://www.nature.com/articles/s42256-023-00748-9), *Nature Machine Intelligence*, 2023
 Jascha Achterberg et al.
