@@ -11,3 +11,7 @@ Nikolaus Kriegeskorte & Xue-Xin Wei
 
 [Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings](https://www.nature.com/articles/s42256-023-00748-9), *Nature Machine Intelligence*, 2023
 Jascha Achterberg et al.
+
+**2.1.2024**
+[Transformer as a hippocampal memory consolidation
+model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJxplmB), *NeurIPS*, 2023
