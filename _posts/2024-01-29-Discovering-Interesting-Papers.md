@@ -13,5 +13,10 @@ Nikolaus Kriegeskorte & Xue-Xin Wei
 Jascha Achterberg et al.
 
 **2.1.2024**
+
 [Transformer as a hippocampal memory consolidation
 model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJxplmB), *NeurIPS*, 2023
+
+**2.5.2024**
+
+[Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1), *Communications Biology*, 2022
