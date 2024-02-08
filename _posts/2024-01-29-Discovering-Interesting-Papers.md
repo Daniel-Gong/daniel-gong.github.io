@@ -20,3 +20,7 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 **2.5.2024**
 
 [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1), *Communications Biology*, 2022
+
+**2.7.2024**
+
+[No Coincidence, George: Capacity-Limits as the Curse of Compositionality](https://osf.io/preprints/psyarxiv/cjuxb), PsyArXiv, 2022
