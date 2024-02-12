@@ -24,3 +24,7 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 **2.7.2024**
 
 [No Coincidence, George: Capacity-Limits as the Curse of Compositionality](https://osf.io/preprints/psyarxiv/cjuxb), PsyArXiv, 2022
+
+**2.12.2024**
+[Structural constraints on the emergence of oscillations in multi-population neural networks](https://elifesciences.org/reviewed-preprints/88777), eLife, 2024
+[Oscillatory neural networks](https://www.youtube.com/watch?v=RNr7-gHxB4g), YouTube
