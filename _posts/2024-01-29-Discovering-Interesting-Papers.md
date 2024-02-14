@@ -30,3 +30,9 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 [Structural constraints on the emergence of oscillations in multi-population neural networks](https://elifesciences.org/reviewed-preprints/88777), eLife, 2024
 
 [Oscillatory neural networks](https://www.youtube.com/watch?v=RNr7-gHxB4g), YouTube
+
+**2.14**
+
+[Dynamics of Sparsely Connected Networks of Excitatory and Inhibitory Spiking Neurons](https://link.springer.com/article/10.1023/a:1008925309027)
+
+[Mechanisms of Gamma Oscillations](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-062111-150444)
