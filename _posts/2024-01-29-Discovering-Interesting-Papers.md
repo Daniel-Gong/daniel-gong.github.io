@@ -35,4 +35,9 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 
 [Dynamics of Sparsely Connected Networks of Excitatory and Inhibitory Spiking Neurons](https://link.springer.com/article/10.1023/a:1008925309027)
 
+**2.16**
+
+[Using large language models to study human memory for meaningful narratives](https://www.biorxiv.org/content/10.1101/2023.11.03.565484v1.full)
+
+
 [Mechanisms of Gamma Oscillations](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-062111-150444)
