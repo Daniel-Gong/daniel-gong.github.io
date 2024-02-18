@@ -45,3 +45,7 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 **2.17**
 
 [A call for embodied AI](https://arxiv.org/abs/2402.03824)
+
+**2.18**
+
+[Circular and unified analysis in network neuroscience](https://elifesciences.org/articles/79559)
