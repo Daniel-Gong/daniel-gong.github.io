@@ -41,3 +41,7 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 
 
 [Mechanisms of Gamma Oscillations](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-062111-150444)
+
+**2.17**
+
+[A call for embodied AI](https://arxiv.org/abs/2402.03824)
