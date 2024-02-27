@@ -49,3 +49,6 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 **2.18**
 
 [Circular and unified analysis in network neuroscience](https://elifesciences.org/articles/79559)
+
+**2.20-2.27**
+I was at AAAI 2024 for nearly a week. I learned a lot and will share some papers I came across from talks/posters at the conference.
