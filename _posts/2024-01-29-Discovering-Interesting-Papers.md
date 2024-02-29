@@ -53,13 +53,20 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 **2.20-2.27**
 
 I was at AAAI 2024 for nearly a week. I learned a lot and will share some papers I came across from talks/posters at the conference.
+
 [https://arxiv.org/pdf/2205.11502.pdf](On the Paradox of Learning to Reason from Data)
+
 [https://arxiv.org/pdf/2311.04284.pdf](CRAB: Assessing the Strength of Causal Relationships
 Between Real-World Events)
+
 [https://arxiv.org/pdf/2305.16183.pdf](Passive learning of active causal strategies in agents
 and language models)
+
 [https://arxiv.org/pdf/2104.05832.pdf](SPARTQA: A Textual Question Answering Benchmark
 for Spatial Reasoning)
+
 [https://arxiv.org/abs/2402.03824](A call for embodied AI)
+
 [https://arxiv.org/abs/2401.11817](Hallucination is Inevitable: An Innate Limitation of Large Language Models)
+
 [https://arxiv.org/abs/2305.18290](Direct Preference Optimization: Your Language Model is Secretly a Reward Model)
