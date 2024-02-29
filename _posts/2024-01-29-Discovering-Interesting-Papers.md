@@ -54,19 +54,17 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 
 I was at AAAI 2024 for nearly a week. I learned a lot and will share some papers I came across from talks/posters at the conference.
 
-[https://arxiv.org/pdf/2205.11502.pdf](On the Paradox of Learning to Reason from Data)
+[On the Paradox of Learning to Reason from Data](https://arxiv.org/pdf/2205.11502.pdf)
 
-[https://arxiv.org/pdf/2311.04284.pdf](CRAB: Assessing the Strength of Causal Relationships
-Between Real-World Events)
+[CRAB: Assessing the Strength of Causal Relationships
+Between Real-World Events](https://arxiv.org/pdf/2311.04284.pdf)
 
-[https://arxiv.org/pdf/2305.16183.pdf](Passive learning of active causal strategies in agents
-and language models)
+[Passive learning of active causal strategies in agents
+and language models](https://arxiv.org/pdf/2305.16183.pdf)
 
-[https://arxiv.org/pdf/2104.05832.pdf](SPARTQA: A Textual Question Answering Benchmark
-for Spatial Reasoning)
+[SPARTQA: A Textual Question Answering Benchmark
+for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
 
-[https://arxiv.org/abs/2402.03824](A call for embodied AI)
+[Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 
-[https://arxiv.org/abs/2401.11817](Hallucination is Inevitable: An Innate Limitation of Large Language Models)
-
-[https://arxiv.org/abs/2305.18290](Direct Preference Optimization: Your Language Model is Secretly a Reward Model)
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
