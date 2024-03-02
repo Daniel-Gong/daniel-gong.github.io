@@ -75,3 +75,7 @@ for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
 [Redefining "Hallucination" in LLMs: Towards a psychology-informed framework for mitigating misinformation](https://arxiv.org/abs/2402.01769v1)
 
 [Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+
+**3.2**
+
+[Neural Turing Machines](https://arxiv.org/abs/1410.5401)
