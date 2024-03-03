@@ -90,3 +90,10 @@ for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
 [Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762)
 
 [Multiple Object Recognition with Visual Attention](https://arxiv.org/abs/1412.7755)
+
+[Attention is not all you need anymore](https://arxiv.org/pdf/2308.07661.pdf)
+
+[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+[Attention and Memory in Deep Learning](https://www.youtube.com/watch?v=AIiwuClvH6k)
+
