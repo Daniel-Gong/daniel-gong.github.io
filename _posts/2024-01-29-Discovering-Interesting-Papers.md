@@ -82,3 +82,8 @@ for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
 [Neural Turing Machines](https://arxiv.org/abs/1410.5401)
 
 [A Critical Review of Causal Reasoning Benchmarks for Large Language Models](https://openreview.net/pdf?id=mRwgczYZFJ)
+
+**3.3**
+[Recurrent Models of Visual Attention](https://arxiv.org/pdf/1406.6247.pdf)
+[Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762)
+[Multiple Object Recognition with Visual Attention](https://arxiv.org/abs/1412.7755)
