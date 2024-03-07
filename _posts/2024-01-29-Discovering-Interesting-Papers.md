@@ -97,3 +97,7 @@ for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
 
 [Attention and Memory in Deep Learning](https://www.youtube.com/watch?v=AIiwuClvH6k)
 
+**3.7**
+
+[Large language models surpass human experts in
+predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
