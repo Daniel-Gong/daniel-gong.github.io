@@ -10,7 +10,9 @@ author_profile: true
 
 {% for image in site.static_files %}
   {% if image.path contains 'photography' %}
-    <img src='{{ image.path }}'>
+    <img src='{{ image.path }}' alt='{{ image.name }}'>
+    <p>{{ image.name }}</p>
+    <br>
   {% endif %}
 {% endfor %}
 
