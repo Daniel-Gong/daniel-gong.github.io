@@ -105,3 +105,7 @@ predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
 **3.8**
 
 [Encoding and decoding in fMRI](https://doi.org/10.1016/j.neuroimage.2010.07.073)
+
+[My favorite math jokes](https://arxiv.org/pdf/2403.01010v1.pdf)
+
+
