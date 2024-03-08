@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  photography:
     output: true
     permalink: /:collection/:path/
   presentations:
