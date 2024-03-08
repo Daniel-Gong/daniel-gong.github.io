@@ -49,3 +49,55 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 **2.18**
 
 [Circular and unified analysis in network neuroscience](https://elifesciences.org/articles/79559)
+
+**2.20-2.27**
+
+I was at AAAI 2024 for nearly a week. I learned a lot and will share some papers I came across from talks/posters at the conference.
+
+[On the Paradox of Learning to Reason from Data](https://arxiv.org/pdf/2205.11502.pdf)
+
+[CRAB: Assessing the Strength of Causal Relationships
+Between Real-World Events](https://arxiv.org/pdf/2311.04284.pdf)
+
+[Passive learning of active causal strategies in agents
+and language models](https://arxiv.org/pdf/2305.16183.pdf)
+
+[SPARTQA: A Textual Question Answering Benchmark
+for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
+
+[Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
+
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+
+**3.1**
+
+[Three aspects of representation in neuroscience](https://www.sciencedirect.com/science/article/pii/S1364661322002108)
+
+[Redefining "Hallucination" in LLMs: Towards a psychology-informed framework for mitigating misinformation](https://arxiv.org/abs/2402.01769v1)
+
+[Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+
+**3.2**
+
+[Neural Turing Machines](https://arxiv.org/abs/1410.5401)
+
+[A Critical Review of Causal Reasoning Benchmarks for Large Language Models](https://openreview.net/pdf?id=mRwgczYZFJ)
+
+**3.3**
+
+[Recurrent Models of Visual Attention](https://arxiv.org/pdf/1406.6247.pdf)
+
+[Massive Activations in Large Language Models](https://arxiv.org/abs/2402.17762)
+
+[Multiple Object Recognition with Visual Attention](https://arxiv.org/abs/1412.7755)
+
+[Attention is not all you need anymore](https://arxiv.org/pdf/2308.07661.pdf)
+
+[The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+[Attention and Memory in Deep Learning](https://www.youtube.com/watch?v=AIiwuClvH6k)
+
+**3.7**
+
+[Large language models surpass human experts in
+predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
