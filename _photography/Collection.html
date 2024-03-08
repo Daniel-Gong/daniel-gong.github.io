@@ -1,0 +1,10 @@
+---
+title: "Collection"
+excerpt: "Landscape and Nature<br/>
+{% for image in site.static_files %}
+  {% if image.path contains 'photography' %}
+    <img src='{{ image.path }}'>
+  {% endif %}
+{% endfor %}"
+collection: photography
+---
