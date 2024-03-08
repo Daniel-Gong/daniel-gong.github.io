@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.photography %}
-  {% include archive-single.html %}
+{% for image in site.static_files %}
+  {% if image.path contains 'photography' %}
+    <img src='{{ image.path }}'>
+  {% endif %}
 {% endfor %}
 
