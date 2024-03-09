@@ -108,4 +108,6 @@ predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
 
 [My favorite math jokes](https://arxiv.org/pdf/2403.01010v1.pdf)
 
+**3.9**
 
+[Memory in humans and deep language models: Linking hypotheses for model augmentation](https://arxiv.org/abs2210.1869)
