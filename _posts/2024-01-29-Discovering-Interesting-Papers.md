@@ -115,3 +115,6 @@ predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
 **3.11**
 
 [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
+
+[Mathematical introduction to deep learning](https://arxiv.org/pdf/2310.20360.pdf)
+
