@@ -118,3 +118,7 @@ predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
 
 [Mathematical introduction to deep learning](https://arxiv.org/pdf/2310.20360.pdf)
 
+**3.12**
+
+[Memory and attention in deep learning](https://arxiv.org/abs/2107.01390)
+
