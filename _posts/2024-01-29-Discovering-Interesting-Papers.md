@@ -111,3 +111,7 @@ predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
 **3.9**
 
 [Memory in humans and deep language models: Linking hypotheses for model augmentation](https://arxiv.org/abs2210.1869)
+
+**3.11**
+
+[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
