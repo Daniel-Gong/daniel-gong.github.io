@@ -122,3 +122,7 @@ predicting neuroscience results](https://arxiv.org/pdf/2403.03230.pdf)
 
 [Memory and attention in deep learning](https://arxiv.org/abs/2107.01390)
 
+[World Models and Predictive Coding for Cognitive and Developmental Robotics:
+Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
+
+[Mastering Memory Tasks with World Models](https://arxiv.org/pdf/2403.04253v1.pdf)
