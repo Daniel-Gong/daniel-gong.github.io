@@ -130,3 +130,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Mechanism for feature learning in neural networks and backpropagation-free machine learning models](https://www.science.org/doi/10.1126/science.adi5639)
 
 **3.13**
+
+[Brain-inspired intelligent robotics: The intersection of robotics and neuroscience](https://www.science.org/do/10.1126/resource.2375862/full/brain_inspired_robotics_booklet_2016_12_16-1686067069503.pdf)
