@@ -39,7 +39,6 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 
 [Using large language models to study human memory for meaningful narratives](https://www.biorxiv.org/content/10.1101/2023.11.03.565484v1.full)
 
-
 [Mechanisms of Gamma Oscillations](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-062111-150444)
 
 **2.17**
@@ -73,7 +72,7 @@ for Spatial Reasoning](https://arxiv.org/pdf/2104.05832.pdf)
 
 [Three aspects of representation in neuroscience](https://www.sciencedirect.com/science/article/pii/S1364661322002108)
 
-[Redefining "Hallucination" in LLMs: Towards a psychology-informed framework for mitigating misinformation](https://arxiv.org/abs/2402.01769v1)
+[Redefining &#34;Hallucination&#34; in LLMs: Towards a psychology-informed framework for mitigating misinformation](https://arxiv.org/abs/2402.01769v1)
 
 [Distributed representations of words and phrases and their compositionality](https://papers.nips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
@@ -132,3 +131,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.13**
 
 [Brain-inspired intelligent robotics: The intersection of robotics and neuroscience](https://www.science.org/do/10.1126/resource.2375862/full/brain_inspired_robotics_booklet_2016_12_16-1686067069503.pdf)
+
+[Papers mentioned in this article](https://www.jiqizhixin.com/articles/2016-01-04-4)
