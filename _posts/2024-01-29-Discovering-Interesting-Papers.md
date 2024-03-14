@@ -133,3 +133,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Brain-inspired intelligent robotics: The intersection of robotics and neuroscience](https://www.science.org/do/10.1126/resource.2375862/full/brain_inspired_robotics_booklet_2016_12_16-1686067069503.pdf)
 
 [Papers mentioned in this article](https://www.jiqizhixin.com/articles/2016-01-04-4)
+
+**3.14**
+
+[One model for the learning of language](https://www.pnas.org/doi/full/10.1073/pnas.2021865119)
