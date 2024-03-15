@@ -16,4 +16,9 @@ Is it possible to stop browsing social media contents for one month? I really wa
 
 ❎ Well well well, stayed up late and ended up scrolling some social media while waiting for some data processing on the computer to be done:)
 
+**3.15**
+
+❎ Well well well, similar to yesterday, worked until very late and randomly checked some social media.
+
+**3.16**
 
