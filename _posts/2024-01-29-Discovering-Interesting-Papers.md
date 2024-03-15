@@ -137,3 +137,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.14**
 
 [One model for the learning of language](https://www.pnas.org/doi/full/10.1073/pnas.2021865119)
+
+**3.15**
+
+[The pitfalls of next-token prediction](https://arxiv.org/pdf/2403.06963.pdf)
+
+
