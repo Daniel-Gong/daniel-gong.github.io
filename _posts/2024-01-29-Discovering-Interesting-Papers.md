@@ -142,4 +142,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [The pitfalls of next-token prediction](https://arxiv.org/pdf/2403.06963.pdf)
 
+**3.16**
 
+[Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
