@@ -147,3 +147,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
 
 [Using large language models to study human memory for meaningful narratives](https://www.biorxiv.org/content/10.1101/2023.11.03.565484v1.full)
+
+**3.18**
+
+[Neuroscience needs behavior](https://www.cell.com/neuron/pdf/S0896-6273%2816%2931040-6.pdf)
