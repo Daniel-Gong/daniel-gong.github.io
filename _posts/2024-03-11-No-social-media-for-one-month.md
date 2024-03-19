@@ -23,3 +23,11 @@ Is it possible to stop browsing social media contents for one month? I really wa
 **3.16**
 
 ✅
+
+**3.17**
+
+❎ Weekend. Went out for a stroll and posted something. Yes social media is not all bad - we need it to record some life moments and keep connections with friends.
+
+**3.18**
+
+❎ 
