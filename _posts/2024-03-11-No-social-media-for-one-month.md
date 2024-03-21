@@ -31,3 +31,13 @@ Is it possible to stop browsing social media contents for one month? I really wa
 **3.18**
 
 ❎ 
+
+**3.19**
+
+✅ Change the requirement to no excessive use of social media.
+
+**3.20**
+
+✅
+
+**3.21**
