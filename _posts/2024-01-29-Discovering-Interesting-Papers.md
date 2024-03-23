@@ -151,3 +151,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.18**
 
 [Neuroscience needs behavior](https://www.cell.com/neuron/pdf/S0896-6273%2816%2931040-6.pdf)
+
+**3.23**
+
+[Traveling waves shape neural population dynamics enabling predictions and internal model updating](https://www.biorxiv.org/content/10.1101/2024.01.09.574848v1)
+
+[Task interference as a neuronal basis for the cost of cognitive flexibility](https://www.biorxiv.org/content/10.1101/2024.03.04.583375v1.full.pdf)
