@@ -159,3 +159,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Task interference as a neuronal basis for the cost of cognitive flexibility](https://www.biorxiv.org/content/10.1101/2024.03.04.583375v1.full.pdf)
 
 [A Technical Critique of Some Parts of the Free Energy Principle](https://arxiv.org/abs/2001.06408)
+
+**3.24**
+
+[Theories of Error Back-Propagation in the Brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30012-9)
+
+
