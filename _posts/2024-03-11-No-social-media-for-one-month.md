@@ -30,7 +30,7 @@ Is it possible to stop browsing social media contents for one month? I really wa
 
 **3.18**
 
-❎ 
+❎
 
 **3.19**
 
@@ -40,4 +40,6 @@ Is it possible to stop browsing social media contents for one month? I really wa
 
 ✅
 
-**3.21**
+**3.21 - 3.24**
+
+✅
