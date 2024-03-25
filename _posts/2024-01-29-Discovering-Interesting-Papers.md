@@ -164,4 +164,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Theories of Error Back-Propagation in the Brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30012-9)
 
+[Neurosymbolic AI](https://arxiv.org/abs/2305.00813)
 
