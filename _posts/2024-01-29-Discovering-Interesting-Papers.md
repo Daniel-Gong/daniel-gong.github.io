@@ -166,3 +166,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Neurosymbolic AI](https://arxiv.org/abs/2305.00813)
 
+**3.26**
+
+[Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings](https://www.nature.com/articles/s42256-023-00748-9)
