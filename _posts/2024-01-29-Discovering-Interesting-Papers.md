@@ -171,3 +171,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings](https://www.nature.com/articles/s42256-023-00748-9)
 
 [Traveling waves shape neural population dynamics enabling predictions and internal model updating](https://www.biorxiv.org/content/10.1101/2024.01.09.574848v1.full)
+
+**3.27**
+
+[Reconstructing computational system dynamics from neural data with recurrent neural networks](https://www.nature.com/articles/s41583-023-00740-7)
