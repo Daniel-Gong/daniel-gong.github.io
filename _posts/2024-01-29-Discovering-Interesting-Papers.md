@@ -175,3 +175,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.27**
 
 [Reconstructing computational system dynamics from neural data with recurrent neural networks](https://www.nature.com/articles/s41583-023-00740-7)
+
+**3.29**
+
+[A useful guide of how to pronounce common math symbols](http://www.uefap.com/speaking/symbols/symbols.htm)
