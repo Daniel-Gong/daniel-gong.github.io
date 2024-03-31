@@ -179,3 +179,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.29**
 
 [A useful guide of how to pronounce common math symbols](http://www.uefap.com/speaking/symbols/symbols.htm)
+
+**3.30**
+
+[A Review of Neuroscience-Inspired Machine Learning](https://arxiv.org/pdf/2403.18929.pdf)
