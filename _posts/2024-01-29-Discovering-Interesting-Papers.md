@@ -183,3 +183,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.30**
 
 [A Review of Neuroscience-Inspired Machine Learning](https://arxiv.org/pdf/2403.18929.pdf)
+
+**3.31**
+
+[Collective intelligence: A unifying concept for integrating biology across scales and substrates](https://www.nature.com/articles/s42003-024-06037-4)
