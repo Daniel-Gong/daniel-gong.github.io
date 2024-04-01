@@ -17,3 +17,19 @@ For the last 8 or 9 years, I‘ve been keeping the habit of writing down my "min
 **3.23-3.25**
 
 ✅
+
+**3.26-3.27**
+
+✅
+
+**3.28-3.29**
+
+❎
+
+**3.30-3.31**
+
+✅
+
+**4.1**
+
+✅
