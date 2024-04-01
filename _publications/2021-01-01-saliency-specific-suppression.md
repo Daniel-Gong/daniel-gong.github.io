@@ -2,7 +2,7 @@
 title: "A saliency-specific and dimension-independent mechanism of distractor suppression"
 collection: publications
 permalink: /publication/2021-01-01-saliency-specific-suppression
-excerpt: ''
+excerpt: 'Attention, Perception, & Psychophysics'
 paperurl: 'http://daniel-gong.github.io/files/Gong&Theeuwes_2020.pdf'
 ---
 **This paper is about how the visual system learns to supress distractors in a saliency-specific way.**
