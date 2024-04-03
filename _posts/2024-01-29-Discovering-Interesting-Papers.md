@@ -187,3 +187,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **3.31**
 
 [Collective intelligence: A unifying concept for integrating biology across scales and substrates](https://www.nature.com/articles/s42003-024-06037-4)
+
+**4.3**
+
+[An Introduction to Model-Based Cognitive Neuroscience](https://link.springer.com/book/10.1007/978-3-031-45271-0)
