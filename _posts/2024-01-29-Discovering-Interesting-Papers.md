@@ -191,3 +191,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **4.3**
 
 [An Introduction to Model-Based Cognitive Neuroscience](https://link.springer.com/book/10.1007/978-3-031-45271-0)
+
+[What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374)
