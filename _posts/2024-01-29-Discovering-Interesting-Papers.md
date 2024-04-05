@@ -195,3 +195,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374)
 
 [What is a GPT by 3Blue1Brown](https://www.youtube.com/watch?v=wjZofJX0v4M)
+
+**4.5**
+
+[Nonmonotonic Plasticity: How Memory Retrieval Drives Learning](https://www.sciencedirect.com/science/article/pii/S1364661319301597)
+
+
