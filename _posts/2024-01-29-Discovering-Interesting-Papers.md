@@ -200,4 +200,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Nonmonotonic Plasticity: How Memory Retrieval Drives Learning](https://www.sciencedirect.com/science/article/pii/S1364661319301597)
 
+[Single Cortical Neurons as Deep Artificial Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0896627321005018)
+
+
 
