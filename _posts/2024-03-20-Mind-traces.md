@@ -33,3 +33,31 @@ For the last 8 or 9 years, I‘ve been keeping the habit of writing down my "min
 **4.1**
 
 ✅
+
+**4.2-4.3**
+
+✅
+
+**4.4**
+
+❎
+
+**4.5**
+
+✅
+
+**4.6-4.9**
+
+❎
+
+**4.10**
+
+✅
+
+**4.11**
+
+❎
+
+**4.12-4.16**
+
+✅ Conferencing
