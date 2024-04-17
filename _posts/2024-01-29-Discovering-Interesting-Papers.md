@@ -202,5 +202,8 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Single Cortical Neurons as Deep Artificial Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0896627321005018)
 
+**4.17**
+
+[The brain's unique take on algorithms](https://www.nature.com/articles/s41467-023-40535-z)
 
 
