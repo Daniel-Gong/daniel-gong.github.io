@@ -47,3 +47,11 @@ Is it possible to stop browsing social media contents for one month? I really wa
 **3.25 - 4.1**
 
 ✅
+
+**4.2 - 4.11**
+
+✅ Busy working.
+
+**4.12 - 4.16**
+
+✅ Conferencing.
