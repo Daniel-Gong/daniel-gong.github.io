@@ -207,3 +207,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The brain's unique take on algorithms](https://www.nature.com/articles/s41467-023-40535-z)
 
 [Cognition is an emergent property](https://www.sciencedirect.com/science/article/pii/S2352154624000391?via%3Dihub)
+
+**4.18**
+
+[Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x)
