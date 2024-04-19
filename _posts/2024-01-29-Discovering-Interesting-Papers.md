@@ -211,3 +211,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **4.18**
 
 [Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x)
+
+**4.19**
+
+[Toward a formal theory for computing machines made out of whatever physics offers](https://www.nature.com/articles/s41467-023-40533-1)
