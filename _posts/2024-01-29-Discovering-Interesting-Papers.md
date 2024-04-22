@@ -217,3 +217,8 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Toward a formal theory for computing machines made out of whatever physics offers](https://www.nature.com/articles/s41467-023-40533-1)
 
 [Natural and Artificial Intelligence: A brief introduction to the interplay between AI and neuroscience research](https://www.sciencedirect.com/science/article/pii/S0893608021003683)
+
+**4.22**
+
+[Time, Love, Memory](https://en.wikipedia.org/wiki/Time,_Love,_Memory)
+[Thinking About Science](https://www.science.org/doi/10.1126/science.242.4886.1711)
