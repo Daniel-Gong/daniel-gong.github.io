@@ -229,3 +229,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [What Is Life - Wikipedia](https://en.wikipedia.org/wiki/What_Is_Life)
 
 [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)
+
+**4.24**
+
+[Empowering Working Memory for Large Language Model Agents](https://arxiv.org/abs/2312.17259)
