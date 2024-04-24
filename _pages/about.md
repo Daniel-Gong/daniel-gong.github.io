@@ -20,10 +20,9 @@ Before graduate school, I received my degree of Bachelor of Science from [Tsingh
 In my leisure time, I enjoy cooking, running, travelling, and hiking. I also love sci-fi, [photography](https://daniel-gong.github.io/photography), and piano music.
 
 
-**News**
 
---------------
+# **News**
 
-**2024.4** I gave a talk at CNS Annual Meeting!
+**- 2024.4** I gave a talk at CNS Annual Meeting!
 
-**2024.2** I presented my paper at AAAI conference on Artificial Intelligence!
+**- 2024.2** I presented my paper at AAAI conference on Artificial Intelligence!
