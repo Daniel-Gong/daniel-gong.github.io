@@ -204,7 +204,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **4.17**
 
-[The brain's unique take on algorithms](https://www.nature.com/articles/s41467-023-40535-z)
+[The brain&#39;s unique take on algorithms](https://www.nature.com/articles/s41467-023-40535-z)
 
 [Cognition is an emergent property](https://www.sciencedirect.com/science/article/pii/S2352154624000391?via%3Dihub)
 
@@ -236,6 +236,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **4.26**
 
-[Context-dependent computation by recurrent dynamics in prefrontal cortex | Nature](https://www.nature.com/articles/nature12742)
+[Context-dependent computation by recurrent dynamics in prefrontal cortex](https://www.nature.com/articles/nature12742)
 
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
