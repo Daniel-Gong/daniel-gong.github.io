@@ -233,3 +233,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **4.24**
 
 [Empowering Working Memory for Large Language Model Agents](https://arxiv.org/abs/2312.17259)
+
+**4.26**
+
+[Context-dependent computation by recurrent dynamics in prefrontal cortex | Nature](https://www.nature.com/articles/nature12742)
+
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
