@@ -19,7 +19,7 @@ Before graduate school, I received my degree of Bachelor of Science from [Tsingh
 
 In my leisure time, I enjoy cooking, running, travelling, and hiking. I also love sci-fi, [photography](https://daniel-gong.github.io/photography), and piano music.
 
-
+------------------
 
 # **News**
 
