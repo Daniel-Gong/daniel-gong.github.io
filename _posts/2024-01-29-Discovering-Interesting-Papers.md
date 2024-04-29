@@ -239,3 +239,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Context-dependent computation by recurrent dynamics in prefrontal cortex](https://www.nature.com/articles/nature12742)
 
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
+
+**4.29**
+
+[Concurrent maintenance of both veridical and transformed working memory representations within unique coding schemes](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00173/120839/Concurrent-maintenance-of-both-veridical-and)
