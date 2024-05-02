@@ -243,3 +243,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **4.29**
 
 [Concurrent maintenance of both veridical and transformed working memory representations within unique coding schemes](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00173/120839/Concurrent-maintenance-of-both-veridical-and)
+
+**5.1**
+
+[A formal model of capacity limits in working memory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0749596X06000982)
+
+[The Thermodynamics of Mind: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00075-5#%20)
