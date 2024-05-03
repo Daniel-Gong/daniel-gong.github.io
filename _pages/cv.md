@@ -128,13 +128,13 @@ Funding and Grants
 * **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.psych.tsinghua.edu.cn/info/1197/1031.htm)**
 
   * Awarded to only 10 undergraduates at Tsinghua each year.
-  * Amount: ¥190,000, equivalent to over $28,000
+  * Amount: ¥190,000 (over $28,000)
 * Grant for Undergraduate Overseas Studies, Tsinghua University, 2019
 
-  * Amount: ¥30,000, equivalent to over $4,500
+  * Amount: ¥30,000 (over $4,500)
 * Research Grant for Student-Initiated Project, Tsinghua University, 2018-2019
 
-  * Amount: ¥60,000, equivalent to over $9,000
+  * Amount: ¥60,000 (over $9,000)
 
 Leadership
 ==========
