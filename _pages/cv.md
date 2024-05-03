@@ -83,6 +83,7 @@ Research Projects
 Honors and Awards
 =================
 
+- [GSA Conference Travel Fellowship](https://gsa.yale.edu/ctf), Yale University, 2024
 - AAAI-24 Student Scholarship and Volunteer Award, 2023
 - New College Sporting and Cultural Award, University of Oxford, 2022
 - New College Travel Grant for GRC Neurobiology of Cognition, University of Oxford, 2022
@@ -111,7 +112,9 @@ Honors and Awards
 
 # Academic Service
 
-Peer reviewer, [*Robotics and Computer-Integrated Manufacturing*, Journal by Elsevier](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing) (Impact Factor: 10.103)
+Peer reviewer, [ICML 2024 Workshop on LLMs and Cognition](https://llm-cognition.github.io/)
+
+Peer reviewer, *[Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)*, Journal by Elsevier
 
 Peer reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023.ccneuro.org/)
 
