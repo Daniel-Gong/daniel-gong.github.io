@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Dongyu Gong. I am currently a PhD student at [Wu Tsai Institute](https://wti.yale.edu) and Department of Psychology, Yale University. My PhD advisor is Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre). I was a PhD student at the [University of Oxford](https://www.win.ox.ac.uk/people/dongyu-gong) with Kia, and I moved to Yale after [Kia got her new position at Wu Tsai Institute](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
+Hi, I'm Dongyu Gong. I am currently a PhD student at Yale University. Before transferring to Yale, I was a PhD student at the [University of Oxford](https://www.win.ox.ac.uk/people/dongyu-gong) fully funded by [Clarendon Scholarship](ox.ac.uk/clarendon), [UK Medical Research Council](https://www.ukri.org/councils/mrc/), and [New College](https://www.new.ox.ac.uk/). My PhD advisor is Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre) and I moved to Yale after [Kia got her new position at Yale](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
@@ -19,7 +19,7 @@ Before graduate school, I received my degree of Bachelor of Science from [Tsingh
 
 In my leisure time, I enjoy cooking, running, travelling, and hiking. I also love sci-fi, [photography](https://daniel-gong.github.io/photography), and piano music.
 
-------------------
+---
 
 # **News**
 
