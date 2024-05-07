@@ -1,4 +1,4 @@
-Interesting NeuroAI/LLM Cognition/miscellaneous papers
+Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers
 
 We all know that kind of feeling when you discover some very interesting paper but you never really have time to read it. Maybe you just throw it to Zotero and it stays there forever. Pobably posting the interesting/useful papers here will give me some more motivation to revisit them later? Let's try.
 
