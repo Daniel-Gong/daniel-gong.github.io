@@ -249,3 +249,15 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [A formal model of capacity limits in working memory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0749596X06000982)
 
 [The Thermodynamics of Mind: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00075-5#%20)
+
+**5.7**
+
+[Bridging Neuroscience and Robotics: Spiking Neural Networks in Action](https://www.mdpi.com/1424-8220/23/21/8880)
+
+[Combined Sensing, Cognition, Learning, and Control for Developing Future Neuro-Robotics Systems: A Survey](https://ieeexplore.ieee.org/document/8634917)
+
+[AI, Robotics & Neuroengineering | Ken Kennedy Institute | Rice University](https://kenkennedy.rice.edu/research/neuroengineering-ai-robotics)
+
+[Robotics | Special Issue : Applications of Neural Networks in Robot Control](https://www.mdpi.com/journal/robotics/special_issues/194M9AW732)
+
+[Embodied AI Workshop](https://embodied-ai.org/)
