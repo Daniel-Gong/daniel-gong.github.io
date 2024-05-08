@@ -261,3 +261,15 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Robotics | Special Issue : Applications of Neural Networks in Robot Control](https://www.mdpi.com/journal/robotics/special_issues/194M9AW732)
 
 [Embodied AI Workshop](https://embodied-ai.org/)
+
+**5.8**
+
+[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
+
+[A new look at state-space models for neural data | Journal of Computational Neuroscience](https://link.springer.com/article/10.1007/s10827-009-0179-x)
+
+[Latent state-space models for neural decoding | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/6944262)
+
+[State Space Modeling of Neural Spike Train and Behavioral Data - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780123750273000065)
+
+[Switching state-space modeling of neural signal dynamics | PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011395)
