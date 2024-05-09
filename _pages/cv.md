@@ -89,8 +89,8 @@ Honors and Awards
 - New College Travel Grant for GRC Neurobiology of Cognition, University of Oxford, 2022
 - Award Winner in 2022 Oxford-MRC DTP Supplementary Funding Competition, 2022
 - **[Clarendon Scholar](https://www.ox.ac.uk/clarendon), University of Oxford, 2021**
-- [Gates Cambridge Scholarship](https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship), University of Cambridge (declined the offer), 2021
-- Outstanding Undergraduate Thesis Award, Tsinghua University, 2021 (清华大学本科优秀毕业论文)
+- [Gates Cambridge Scholarship](https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship) (declined the offer), University of Cambridge, 2021
+- [Outstanding Undergraduate Thesis Award](https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=UNDERGRADUATE&sysId=815), Tsinghua University, 2021 (清华大学本科优秀毕业论文)
 - Outstanding Graduate at Tsinghua University (top 1 in the class), 2021 （清华大学优秀毕业生）
 - Outstanding Graduate among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
 - **[Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020** (清华大学特等奖学金)
@@ -145,7 +145,7 @@ Leadership
   * May 2021 - June 2022
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
   * May 2020 – May 2021
-* Member of [Undergraduate Curriculum Advisory Committee](https://www.tsinghua.edu.cn/info/2116/81060.htm), Tsinghua University
+* Member of [Undergraduate Curriculum Advisory Committee](https://www.tsinghua.edu.cn/info/1366/81404.htm), Tsinghua University
   * Mar 2020 – September 2020
 * Coordinator of the _Love for Our Alma Mater_ Volunteer Activity, Tsinghua University
   * Dec 2017 – Apr 2018
