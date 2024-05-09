@@ -1,4 +1,4 @@
-Interesting NeuroAI/LLM Cognition/miscellaneous papers
+Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers
 
 We all know that kind of feeling when you discover some very interesting paper but you never really have time to read it. Maybe you just throw it to Zotero and it stays there forever. Pobably posting the interesting/useful papers here will give me some more motivation to revisit them later? Let's try.
 
@@ -249,3 +249,27 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [A formal model of capacity limits in working memory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0749596X06000982)
 
 [The Thermodynamics of Mind: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00075-5#%20)
+
+**5.7**
+
+[Bridging Neuroscience and Robotics: Spiking Neural Networks in Action](https://www.mdpi.com/1424-8220/23/21/8880)
+
+[Combined Sensing, Cognition, Learning, and Control for Developing Future Neuro-Robotics Systems: A Survey](https://ieeexplore.ieee.org/document/8634917)
+
+[AI, Robotics & Neuroengineering | Ken Kennedy Institute | Rice University](https://kenkennedy.rice.edu/research/neuroengineering-ai-robotics)
+
+[Robotics | Special Issue : Applications of Neural Networks in Robot Control](https://www.mdpi.com/journal/robotics/special_issues/194M9AW732)
+
+[Embodied AI Workshop](https://embodied-ai.org/)
+
+**5.8**
+
+[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
+
+[A new look at state-space models for neural data | Journal of Computational Neuroscience](https://link.springer.com/article/10.1007/s10827-009-0179-x)
+
+[Latent state-space models for neural decoding | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/6944262)
+
+[State Space Modeling of Neural Spike Train and Behavioral Data - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780123750273000065)
+
+[Switching state-space modeling of neural signal dynamics | PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011395)

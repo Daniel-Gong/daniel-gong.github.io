@@ -9,11 +9,11 @@ redirect_from:
 ---
 Hi, I'm Dongyu Gong! I am currently a PhD student studying neuroscience at Yale University.
 
-Before transferring to Yale, I started my PhD at the University of Oxford fully funded by [Clarendon Scholarship](https://ox.ac.uk/clarendon), [UK Medical Research Council](https://www.ukri.org/councils/mrc/), and [New College](https://www.new.ox.ac.uk/). My PhD advisor is Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre) and I moved to Yale after [Kia got her new position at Yale](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
+Before transferring to Yale, I started my PhD at the University of Oxford funded by [Clarendon Scholarship](https://ox.ac.uk/clarendon), [UK Medical Research Council](https://www.ukri.org/councils/mrc/), and [New College](https://www.new.ox.ac.uk/). My PhD advisor is Professor [Anna Christina (Kia) Nobre](https://en.wikipedia.org/wiki/Anna_Christina_Nobre) and I moved to Yale after [Kia got her new position at Yale](https://wti.yale.edu/news/kia-nobre-joins-wu-tsai-institute).
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
-I am updating a list of [interesting (NeuroAI/LLM-Cognition/miscellaneous) papers](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
+I am updating a list of [interesting {NeuroAI/LLM-Cognition/Embodied AI/miscellaneous} papers](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
 
 My PhD research currently focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior. I use a combination of fMRI, EEG/MEG, human psychophysics, and computational modelling techniques in my research.
 
