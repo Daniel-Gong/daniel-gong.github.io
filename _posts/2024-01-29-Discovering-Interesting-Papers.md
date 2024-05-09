@@ -273,3 +273,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [State Space Modeling of Neural Spike Train and Behavioral Data - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780123750273000065)
 
 [Switching state-space modeling of neural signal dynamics | PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011395)
+
+[Robotics and artificial intelligence](https://www.nature.com/immersive/robotics-ai/index.html)
