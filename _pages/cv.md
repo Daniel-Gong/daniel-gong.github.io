@@ -17,50 +17,7 @@ Education
 * PhD student, University of Oxford, 2021 - 2023 (Moved to Yale with my advisor in 2023)
 * Bachelor of Science, Psychology (Minor in Computer Science), Tsinghua University, 2021 (graduated with highest honors, GPA ranked #1)
 
-Research Experience
-===================
-
-* Research Intern, Summer 2020
-
-  * Visual Attention Lab at Harvard Medical School
-  * Supervisor: Professor Jeremy Wolfe
-* Visiting Researcher, Winter 2019
-
-  * Department of Experimental and Applied Psychology, VU Amsterdam
-  * Supervisor: Professor Jan Theeuwes
-* Research Assistant, Summer 2019
-
-  * Perception and Action Lab at University of California, Berkeley
-  * Supervisors: Dr. Alison Yamanashi Leib and Professor David Whitney
-
-# Teaching Experience
-
-* Tutor for Undergraduates, University of Oxford
-
-  * Oct 2022 - Dec 2022
-  * Tutored undergraduate students for *Cognition* course (Attention, Memory, and Learning)
-* Teaching Assistant at the Perception Science Program, UC Berkeley
-
-  * Summer 2019
-  * Tutored high school students in experimental design and MATLAB programming
-
-Skills
-======
-
-* Programming
-
-  * MATLAB
-  * Python
-  * R
-  * C
-  * HTML
-* Neuroimaging techniques
-
-  * fMRI data analysis with FSL
-  * EEG data analysis with MNE-Python
-
-Publications
-============
+# Publications
 
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -73,17 +30,10 @@ Presentations
     {% include archive-single-presentation-cv.html %}
   {% endfor %}</ul>
 
-Research Projects
-=================
-
-<ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Honors and Awards
 =================
 
-- [GSA Conference Travel Fellowship](https://gsa.yale.edu/ctf), Yale University, 2024
+- GSA Conference Travel Fellowship, Yale University, 2024
 - AAAI-24 Student Scholarship and Volunteer Award, 2023
 - New College Sporting and Cultural Award, University of Oxford, 2022
 - New College Travel Grant for GRC Neurobiology of Cognition, University of Oxford, 2022
@@ -110,14 +60,6 @@ Honors and Awards
 - Scholarship for Academic Excellence,  Tsinghua University, 2019
 - China National Scholarship, 2018
 
-# Academic Service
-
-Peer reviewer, [ICML 2024 Workshop on LLMs and Cognition](https://llm-cognition.github.io/)
-
-Peer reviewer, *[Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)*, Journal by Elsevier
-
-Peer reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023.ccneuro.org/)
-
 Funding and Grants
 ==================
 
@@ -135,6 +77,40 @@ Funding and Grants
 * Research Grant for Student-Initiated Project, Tsinghua University, 2018-2019
 
   * Amount: ¥60,000 (over $9,000)
+
+# Academic Service
+
+Peer reviewer, [ICML 2024 Workshop on LLMs and Cognition](https://llm-cognition.github.io/)
+
+Peer reviewer, *[Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)*, Journal by Elsevier
+
+Peer reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023.ccneuro.org/)
+
+# Teaching Experience
+
+* Tutor for Undergraduates, University of Oxford
+
+  * Oct 2022 - Dec 2022
+  * Tutored undergraduate students for *Cognition* course (Attention, Memory, and Learning)
+* Teaching Assistant at the Perception Science Program, UC Berkeley
+
+  * Summer 2019
+  * Tutored high school students in experimental design and MATLAB programming
+
+Skills
+======
+
+* Programming
+
+  * MATLAB
+  * Python
+  * R
+  * C
+  * HTML
+* Neuroimaging techniques
+
+  * fMRI data analysis with FSL
+  * EEG data analysis with MNE-Python
 
 Leadership
 ==========
