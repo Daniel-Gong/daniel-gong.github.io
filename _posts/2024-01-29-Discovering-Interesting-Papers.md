@@ -289,3 +289,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **5.14**
 
 [The Computational Lens: from Quantum Physics to Neuroscience](https://arxiv.org/abs/2310.20539)
+
+[Integration of cognitive tasks into artificial general intelligence test for large models: iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)00772-7#secsectitle0050)
+
+[Active Predictive Coding: A Unified Neural Framework for Learning Hierarchical World Models for Perception and Planning](https://arxiv.org/abs/2210.13461)
+
+[From grid cells to place cells: A mathematical model](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.20244)
+
+
