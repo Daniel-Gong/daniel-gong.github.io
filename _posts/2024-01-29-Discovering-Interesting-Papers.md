@@ -285,3 +285,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Ten Simple Rules for Selecting a Postdoctoral Position | PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121)
 
 [Transitioning fields between a Ph.D. and postdoc | Science | AAAS](https://www.science.org/content/article/transitioning-fields-between-phd-and-postdoc)
+
+**5.14**
+
+[The Computational Lens: from Quantum Physics to Neuroscience](https://arxiv.org/abs/2310.20539)
