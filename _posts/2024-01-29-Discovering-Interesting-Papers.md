@@ -277,3 +277,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Robotics and artificial intelligence](https://www.nature.com/immersive/robotics-ai/index.html)
 
 [Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT | Nature Computational Science](https://www.nature.com/articles/s43588-023-00527-x)
+
+**5.13**
+
+[Is it a transition or a continuation? From PhD student to Postdoc. - ECR Community](https://ecrcommunity.plos.org/2020/04/03/is-it-a-transition-or-a-continuation-from-phd-student-to-postdoc/)
+
+[Ten Simple Rules for Selecting a Postdoctoral Position | PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020121)
+
+[Transitioning fields between a Ph.D. and postdoc | Science | AAAS](https://www.science.org/content/article/transitioning-fields-between-phd-and-postdoc)
