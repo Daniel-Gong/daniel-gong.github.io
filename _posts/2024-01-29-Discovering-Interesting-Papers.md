@@ -296,4 +296,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [From grid cells to place cells: A mathematical model](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.20244)
 
+[If deep learning is the answer, what is the question? | Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-020-00395-8)
+
 
