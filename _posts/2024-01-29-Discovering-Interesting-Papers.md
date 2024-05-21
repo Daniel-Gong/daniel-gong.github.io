@@ -298,4 +298,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [If deep learning is the answer, what is the question? | Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-020-00395-8)
 
+**5.21**
 
+[The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers](https://arxiv.org/abs/2210.06313v2)
