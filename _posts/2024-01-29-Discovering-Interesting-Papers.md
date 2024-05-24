@@ -276,4 +276,4 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Robotics and artificial intelligence](https://www.nature.com/immersive/robotics-ai/index.html)
 
-[Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT | Nature Computational Science](https://www.nature.com/articles/s43588-023-00527-x)
+[Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT](https://www.nature.com/articles/s43588-023-00527-x)
