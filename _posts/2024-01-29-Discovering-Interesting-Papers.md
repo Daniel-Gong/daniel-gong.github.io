@@ -302,3 +302,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **5.21**
 
 [The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers](https://arxiv.org/abs/2210.06313v2)
+
+**5.29**
+
+https://www.nature.com/articles/s41562-024-01882-z
+
+https://arxiv.org/pdf/2405.15616
