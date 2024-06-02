@@ -305,6 +305,10 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **5.29**
 
-https://www.nature.com/articles/s41562-024-01882-z
+[Testing theory of mind in large language models and humans | Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01882-z)
 
-https://arxiv.org/pdf/2405.15616
+[Neuromorphic dreaming: A pathway to efficient learning in artificial agents](https://arxiv.org/pdf/2405.15616)
+
+**6.2**
+
+[Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
