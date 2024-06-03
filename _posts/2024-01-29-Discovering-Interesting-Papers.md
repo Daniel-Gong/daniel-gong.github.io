@@ -305,7 +305,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **5.29**
 
-[Testing theory of mind in large language models and humans | Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01882-z)
+[Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z)
 
 [Neuromorphic dreaming: A pathway to efficient learning in artificial agents](https://arxiv.org/pdf/2405.15616)
 
