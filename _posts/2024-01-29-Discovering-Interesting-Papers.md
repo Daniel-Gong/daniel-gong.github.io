@@ -317,4 +317,4 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Biocomputing with organoid intelligence](https://www.nature.com/articles/s44222-024-00200-6)
 
-[Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x#peer-review)
+[Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x#peer-review) (Well, this one has been listed above, but never mind)
