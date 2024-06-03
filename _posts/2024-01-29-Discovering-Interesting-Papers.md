@@ -312,3 +312,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **6.2**
 
 [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588)
+
+**6.3**
+
+[Biocomputing with organoid intelligence](https://www.nature.com/articles/s44222-024-00200-6)
