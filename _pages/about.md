@@ -25,6 +25,8 @@ In my leisure time, I enjoy cooking, running, travelling, and hiking. I also lov
 
 # **News**
 
-**- 2024.4** I gave a talk at CNS Annual Meeting!
+**- 2024.6** I was selected as a participant for the [2024 Analytical Connectionism Summer School](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)! I have also been awarded a travel scholarship to attend the summer school.
 
-**- 2024.2** I presented my paper at AAAI conference on Artificial Intelligence!
+**- 2024.4** I gave a [talk](https://www.cogneurosociety.org/documents/CNS_2024_Program_Booklet.pdf) at CNS Annual Meeting!
+
+**- 2024.2** I presented my [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28868) at AAAI conference on Artificial Intelligence!

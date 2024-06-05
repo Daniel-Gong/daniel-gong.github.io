@@ -107,21 +107,24 @@ Skills
   * R
   * C
   * HTML
+  * LaTex
 * Neuroimaging techniques
 
   * fMRI data analysis with FSL
   * EEG data analysis with MNE-Python
 
-Leadership
-==========
+Leadership and Outreach
+=======================
 
+* Colloquium Committee Member of Department of Psychology, Yale University
+  * Jun 2024 -
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.cn/info/1158/21603.htm)
-  * January 2022 - August 2023
+  * Jan 2022 - Aug 2023
 * Lecturer at [&#34;The Road to Academia&#34; Studio](https://www.tsinghua.edu.cn/xtw/info/1015/1161.htm), Tsinghua University
-  * May 2021 - June 2022
+  * May 2021 - Jun 2022
 * President of [Student Association for Science and Technology](https://www.tsinghua.edu.cn/xtw/sdfg/xskxjsxhd.htm), School of Social Sciences, Tsinghua University
   * May 2020 – May 2021
 * Member of [Undergraduate Curriculum Advisory Committee](https://www.tsinghua.edu.cn/info/1366/81404.htm), Tsinghua University
-  * Mar 2020 – September 2020
+  * Mar 2020 – Sep 2020
 * Coordinator of the _Love for Our Alma Mater_ Volunteer Activity, Tsinghua University
   * Dec 2017 – Apr 2018
