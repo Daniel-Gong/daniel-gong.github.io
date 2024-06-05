@@ -320,3 +320,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x#peer-review) (Well, this one has been listed above, but never mind)
 
 [Disentangling and Integrating Relational and Sensory Information in Transformer Architectures](https://arxiv.org/abs/2405.16727)
+
+**6.5**
+
+[Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/abs/2406.00509)
