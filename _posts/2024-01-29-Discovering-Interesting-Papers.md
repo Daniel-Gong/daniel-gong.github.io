@@ -324,3 +324,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **6.5**
 
 [Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/abs/2406.00509)
+
+**6.12**
+
+[Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
