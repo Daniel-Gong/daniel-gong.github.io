@@ -344,3 +344,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Grid-like and distance codes for representing word meaning in the human brain](https://www.sciencedirect.com/science/article/pii/S1053811921001531)
 
 [Relating transformers to models and neural representations of the hippocampal formation](https://arxiv.org/abs/2112.04035)
+
+[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
