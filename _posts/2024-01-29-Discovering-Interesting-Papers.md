@@ -348,3 +348,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
 [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+
+[Organizing conceptual knowledge in humans with a gridlike code](https://www.science.org/doi/10.1126/science.aaf0941)
