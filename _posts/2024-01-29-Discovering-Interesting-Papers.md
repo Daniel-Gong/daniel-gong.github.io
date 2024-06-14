@@ -346,3 +346,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Relating transformers to models and neural representations of the hippocampal formation](https://arxiv.org/abs/2112.04035)
 
 [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+
+[Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
