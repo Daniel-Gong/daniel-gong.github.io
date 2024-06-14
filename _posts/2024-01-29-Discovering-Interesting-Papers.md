@@ -350,3 +350,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 
 [Organizing conceptual knowledge in humans with a gridlike code](https://www.science.org/doi/10.1126/science.aaf0941)
+
+[The coming decade of digital brain research: A vision for neuroscience at the intersection of technology and computing](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00137/120391/The-coming-decade-of-digital-brain-research-A)
