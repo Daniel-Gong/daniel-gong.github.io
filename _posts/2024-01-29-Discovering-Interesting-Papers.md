@@ -336,3 +336,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/abs/2406.00509)
 
 [Activation Sparsity: An Insight into the Interpretability of Trained Transformers](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/final-reports/final-report-169721612.pdf)
+
+**6.14**
+
+[Inferences on a multidimensional social hierarchy use a grid-like code](https://www.nature.com/articles/s41593-021-00916-3)
+
+[Grid-like and distance codes for representing word meaning in the human brain](https://www.sciencedirect.com/science/article/pii/S1053811921001531)
+
+[Relating transformers to models and neural representations of the hippocampal formation](https://arxiv.org/abs/2112.04035)
