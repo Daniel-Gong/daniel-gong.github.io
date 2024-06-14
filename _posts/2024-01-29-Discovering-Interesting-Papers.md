@@ -328,3 +328,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **6.12**
 
 [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+
+**6.13**
+
+[A virtual rodent predicts the structure of neural activity across behaviors | Nature](https://www.nature.com/articles/s41586-024-07633-4)
+[Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/abs/2406.00509)
+[Activation Sparsity: An Insight into the Interpretability of Trained Transformers](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/final-reports/final-report-169721612.pdf)
