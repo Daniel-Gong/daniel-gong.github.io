@@ -356,3 +356,4 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **6.18**
 
 [Thousand Brains Project](https://www.numenta.com/thousand-brains-project/)
+[千脑智能理论：开启创造机器智能的路线图](https://swarma.org/?p=37892)
