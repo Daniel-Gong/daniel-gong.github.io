@@ -361,3 +361,4 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **6.24**
 [Oxford ML School](https://www.oxfordml.school/)
 [Oxford LLMs](https://www.llmsforsocialsciene.dev/)
+[Large Language Models for Mathematicians](https://arxiv.org/pdf/2312.04556)
