@@ -277,7 +277,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Robotics and artificial intelligence](https://www.nature.com/immersive/robotics-ai/index.html)
 
 [Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT](https://www.nature.com/articles/s43588-023-00527-x)
-[Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT](https://www.nature.com/articles/s43588-023-00527-x)
 
 **5.13**
 
@@ -365,7 +364,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **6.25**
 
-[Language is primarily a tool for communication rather than thought | Nature](https://www.nature.com/articles/s41586-024-07522-w)
+[Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
 [Representation learning for neural population activity with Neural Data Transformers](https://arxiv.org/abs/2108.01210)
 [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2.full)
 
