@@ -355,17 +355,22 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **6.18**
 
 [Thousand Brains Project](https://www.numenta.com/thousand-brains-project/)
+
 [千脑智能理论：开启创造机器智能的路线图](https://swarma.org/?p=37892)
 
 **6.24**
 [Oxford ML School](https://www.oxfordml.school/)
+
 [Oxford LLMs](https://www.llmsforsocialsciene.dev/)
+
 [Large Language Models for Mathematicians](https://arxiv.org/pdf/2312.04556)
 
 **6.25**
 
 [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
+
 [Representation learning for neural population activity with Neural Data Transformers](https://arxiv.org/abs/2108.01210)
+
 [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2.full)
 
 
