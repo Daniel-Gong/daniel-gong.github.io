@@ -368,3 +368,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Language is primarily a tool for communication rather than thought | Nature](https://www.nature.com/articles/s41586-024-07522-w)
 [Representation learning for neural population activity with Neural Data Transformers](https://arxiv.org/abs/2108.01210)
 [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2.full)
+
+
