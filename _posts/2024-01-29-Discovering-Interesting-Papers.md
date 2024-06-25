@@ -362,3 +362,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Oxford ML School](https://www.oxfordml.school/)
 [Oxford LLMs](https://www.llmsforsocialsciene.dev/)
 [Large Language Models for Mathematicians](https://arxiv.org/pdf/2312.04556)
+
+**6.25**
+
+[Language is primarily a tool for communication rather than thought | Nature](https://www.nature.com/articles/s41586-024-07522-w)
