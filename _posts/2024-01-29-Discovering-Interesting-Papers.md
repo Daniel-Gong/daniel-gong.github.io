@@ -375,3 +375,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Towards a Foundation Model of the Mouse Visual Cortex](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v2.full)
 
 [Statistical mechanics of Bayesian inference and learning in neural networks](https://dash.harvard.edu/handle/1/37378715)
+
+[Jascha Achterberg - NeuroAI](https://www.jachterberg.com/neuroai)
