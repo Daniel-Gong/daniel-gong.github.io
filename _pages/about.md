@@ -13,7 +13,7 @@ Before transferring to Yale, I started my PhD at the University of Oxford funded
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
-I am updating a list of [interesting {NeuroAI/LLM-Cognition/Embodied AI/miscellaneous} papers](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
+I am updating a list of [interesting {NeuroAI/CompNeuro/LLM-Cognition/EmbodiedAI/miscellaneous} articles/readings/guides.](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
 
 My PhD research currently focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior.
 
