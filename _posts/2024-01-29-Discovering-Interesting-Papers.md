@@ -377,3 +377,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Statistical mechanics of Bayesian inference and learning in neural networks](https://dash.harvard.edu/handle/1/37378715)
 
 [Jascha Achterberg - NeuroAI](https://www.jachterberg.com/neuroai)
+
+**6.26**
+
+[A Bayesian account of learning and generalising representations in the brain - ORA - Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:2b513340-9558-41dd-8533-0f250df98c66)
+
+[Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
+
+[Fine-tuning can cripple your foundation model; preserving features may be the solution](https://arxiv.org/abs/2308.13320)
