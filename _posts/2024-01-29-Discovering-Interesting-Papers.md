@@ -385,3 +385,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
 
 [Fine-tuning can cripple your foundation model; preserving features may be the solution](https://arxiv.org/abs/2308.13320)
+
+**7.12**
+
+[Working Memory Load Modulates Neuronal Coupling](https://academic.oup.com/cercor/article/29/4/1670/4955775)
+
+[In vivo ephaptic coupling allows memory network formation](https://academic.oup.com/cercor/article/33/17/9877/7220593)
