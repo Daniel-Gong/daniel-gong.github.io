@@ -10,5 +10,5 @@ Working memory is a critical aspect of both human intelligence and artificial in
 [Proceedings of the AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/28868), by Dongyu Gong, Xingchen Wan, & Dingmin Wang
 
 
-
-(Media mentions: [Unraveling ChatGPT's Working Memory Capacity](https://www.azoai.com/news/20230709/Unraveling-ChatGPTs-Working-Memory-Capacity.aspx))
+Media mentions:
+[Unraveling ChatGPT's Working Memory Capacity](https://www.azoai.com/news/20230709/Unraveling-ChatGPTs-Working-Memory-Capacity.aspx)
