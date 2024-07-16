@@ -391,3 +391,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Working Memory Load Modulates Neuronal Coupling](https://academic.oup.com/cercor/article/29/4/1670/4955775)
 
 [In vivo ephaptic coupling allows memory network formation](https://academic.oup.com/cercor/article/33/17/9877/7220593)
+
+**7.16**
+
+[Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
+
+[Heavy-tailed neuronal connectivity arises from Hebbian self-organization](https://www.nature.com/articles/s41567-023-02332-9)
