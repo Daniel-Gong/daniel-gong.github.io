@@ -399,3 +399,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Heavy-tailed neuronal connectivity arises from Hebbian self-organization](https://www.nature.com/articles/s41567-023-02332-9)
 
 [INSTRUCTION-TUNING ALIGNS LLMS TO THE HUMAN BRAIN](https://arxiv.org/pdf/2312.00575)
+
+[The debate over understanding in AI’s large language models](https://www.pnas.org/doi/10.1073/pnas.2215907120)
