@@ -63,19 +63,16 @@ Honors and Awards
 Funding and Grants
 ==================
 
+* Travel scholarship, [2024 Analytical Connectionism Summer School, Flatiron Institute](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)
 * Oxford-MRC DTP Supplementary Funding for High Cost Training
-
   * Amount: £ 10505
 * **Clarendon Fund Scholarship + Medical Research Council Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
 * **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.psych.tsinghua.edu.cn/info/1197/1031.htm)**
-
   * Awarded to only 10 undergraduates at Tsinghua each year.
   * Amount: ¥190,000 (over $28,000)
 * Grant for Undergraduate Overseas Studies, Tsinghua University, 2019
-
   * Amount: ¥30,000 (over $4,500)
 * Research Grant for Student-Initiated Project, Tsinghua University, 2018-2019
-
   * Amount: ¥60,000 (over $9,000)
 
 # Academic Service
@@ -101,17 +98,19 @@ Skills
 ======
 
 * Programming
-
-  * MATLAB
   * Python
+  * MATLAB
   * R
+  * Javascript
   * C
   * HTML
   * LaTex
 * Neuroimaging techniques
-
   * fMRI data analysis with FSL
   * EEG data analysis with MNE-Python
+* Computational modeling
+  * Bayesian modeling
+  * Deep learning
 
 Leadership and Outreach
 =======================
