@@ -401,3 +401,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [INSTRUCTION-TUNING ALIGNS LLMS TO THE HUMAN BRAIN](https://arxiv.org/pdf/2312.00575)
 
 [The debate over understanding in AI’s large language models](https://www.pnas.org/doi/10.1073/pnas.2215907120)
+
+**7.18**
+
+[Shared functional specialization in transformer-based language models and the human brain](https://www.nature.com/articles/s41467-024-49173-5)
