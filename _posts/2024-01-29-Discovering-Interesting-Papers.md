@@ -411,3 +411,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **7.19**
 
 [The expanding horizons of network neuroscience: From description to prediction and control - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1053811922003743?via%3Dihub)
+
+[Modular Brain Networks](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122414-033634)
