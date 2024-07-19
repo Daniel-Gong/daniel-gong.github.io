@@ -407,3 +407,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Shared functional specialization in transformer-based language models and the human brain](https://www.nature.com/articles/s41467-024-49173-5)
 
 [On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745)
+
+**7.19**
+
+[The expanding horizons of network neuroscience: From description to prediction and control - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1053811922003743?via%3Dihub)
