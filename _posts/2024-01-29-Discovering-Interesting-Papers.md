@@ -413,3 +413,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The expanding horizons of network neuroscience: From description to prediction and control - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1053811922003743?via%3Dihub)
 
 [Modular Brain Networks](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122414-033634)
+
+**7.31**
+
+[Organic electrochemical neurons and synapses with ion mediated spiking](https://www.nature.com/articles/s41467-022-28483-6)
