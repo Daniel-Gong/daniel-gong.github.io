@@ -417,3 +417,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **7.31**
 
 [Organic electrochemical neurons and synapses with ion mediated spiking](https://www.nature.com/articles/s41467-022-28483-6)
+
+**8.2**
+
+[Stephen Wolfram: A New Kind of Science](https://www.wolframscience.com/nks/)
