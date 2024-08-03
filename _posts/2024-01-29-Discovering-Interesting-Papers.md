@@ -421,3 +421,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **8.2**
 
 [Stephen Wolfram: A New Kind of Science](https://www.wolframscience.com/nks/)
+
+**8.3**
+
+[Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/abs/2407.19325#)
