@@ -425,3 +425,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **8.3**
 
 [Do Language Models Have a Critical Period for Language Acquisition?](https://arxiv.org/abs/2407.19325#)
+
+**8.5**
+
+[Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
