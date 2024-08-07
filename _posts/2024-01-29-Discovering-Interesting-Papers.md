@@ -429,3 +429,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **8.5**
 
 [Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs](https://arxiv.org/abs/2408.00114)
+
+**8.7**
+
+[From Analog to Digital Computing: Is Homo sapiens’ Brain on Its Way to Become a Turing Machine?](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.796413/full)
