@@ -433,3 +433,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **8.7**
 
 [From Analog to Digital Computing: Is Homo sapiens’ Brain on Its Way to Become a Turing Machine?](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.796413/full)
+
+**8.13**
+
+[The brain and its time: intrinsic neural timescales are key for input processing](https://www.nature.com/articles/s42003-021-02483-6)
