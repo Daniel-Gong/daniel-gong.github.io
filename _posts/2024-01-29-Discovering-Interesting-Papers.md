@@ -437,3 +437,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **8.13**
 
 [The brain and its time: intrinsic neural timescales are key for input processing](https://www.nature.com/articles/s42003-021-02483-6)
+
+**8.28**
+
+[Neural circuits as computational dynamical systems](https://www.sciencedirect.com/science/article/pii/S0959438814000166)
