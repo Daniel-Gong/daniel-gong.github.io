@@ -460,7 +460,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Systematic Generalization and Emergent Structures in Transformers Trained on Structured Tasks](https://arxiv.org/abs/2210.00400)
 
-[Abstract representations emerge in human hippocampal neurons during inference | Nature](https://www.nature.com/articles/s41586-024-07799-x)
+[Abstract representations emerge in human hippocampal neurons during inference](https://www.nature.com/articles/s41586-024-07799-x)
 
 [Reconciling Shared versus Context-Specific Information in a Neural Network Model of Latent Causes](https://arxiv.org/abs/2312.08519)
 
