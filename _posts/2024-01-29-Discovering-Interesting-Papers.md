@@ -520,6 +520,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Manifolds: A Gentle Introduction](https://bjlkeng.io/posts/manifolds/)
 
-[Dimension Reduction using Isomap](https://medium.com/data-science-in-your-pocket/dimension-reduction-using-isomap-72ead0411de
+[Dimension Reduction using Isomap](https://medium.com/data-science-in-your-pocket/dimension-reduction-using-isomap-72ead0411de)
 
 [A simple weight decay can...](https://proceedings.neurips.cc/paper/1991/file/8eefcfdf5990e441f0fb6f3fad709e21-Paper.pdf)
