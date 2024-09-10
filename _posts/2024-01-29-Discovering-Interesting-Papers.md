@@ -483,3 +483,41 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Scaffolding cooperation in human groups with deep reinforcement learning | Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01686-7)
 
 [Sequential Memory with Temporal Predictive Coding](https://arxiv.org/pdf/2305.11982)
+
+[COGNITIVE MODELING OF SEMANTIC FLUENCY USING TRANSFORMERS](https://arxiv.org/pdf/2208.09719)
+
+[[2107.12979] Predictive Coding: a Theoretical and Experimental Review](https://arxiv.org/abs/2107.12979)
+
+[arxiv.org/pdf/2305.11772](https://arxiv.org/pdf/2305.11772)
+
+[Toward the Emergence of Intelligent Control: Episodic Generalization and Optimization](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00143/121081/Toward-the-Emergence-of-Intelligent-Control)
+
+[Machine learning Notation](https://nthu-datalab.github.io/ml/slides/Notation.pdf)
+
+[Accelerating generative models and nonconvex optimisation](https://www.turing.ac.uk/research/theory-and-method-challenge-fortnights/accelerating-generative-models-and-nonconvex)
+
+[Representation and computation in visual working memory | Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01871-2?fromPaywallRec=false)
+
+[Nonlinear difference equations](https://math.dartmouth.edu/opencalc2/dcsbook/c1pdf/sec15.pdf)
+
+[Dynamical Systems Approaches to Cognition](https://dynamicfieldtheory.org/upload/file/1678900855_6d313f335a2edf61ad6d/Schoner2022_proofs.pdf)
+
+[Attention Mechanisms and Their Applications to Complex Systems - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996841/)
+
+[Learning differential equations](https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/chap_DifferentialEquations.html)
+
+[Context-dependent computation by recurrent dynamics in prefrontal cortex | Nature](https://www.nature.com/articles/nature12742)
+
+[Evidence of a predictive coding hierarchy in the human brain listening to speech | Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01516-2)
+
+[Using higher-order Markov models to reveal flow-based communities in networks | Scientific Reports](https://www.nature.com/articles/srep23194#Fig1)
+
+[[1803.03635] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+
+[The neuron as a direct data-driven controller | PNAS](https://www.pnas.org/doi/10.1073/pnas.2311893121)
+
+[Seminar course: Bridging Language in Machines and Language in the Brain](https://bridge-ai-neuro.github.io/)
+
+[Manifolds: A Gentle Introduction](https://bjlkeng.io/posts/manifolds/)
+
+[Dimension Reduction using Isomap](https://medium.com/data-science-in-your-pocket/dimension-reduction-using-isomap-72ead0411dec)
