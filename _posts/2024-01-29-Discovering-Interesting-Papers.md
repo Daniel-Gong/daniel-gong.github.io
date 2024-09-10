@@ -459,3 +459,13 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)
 
 [Systematic Generalization and Emergent Structures in Transformers Trained on Structured Tasks](https://arxiv.org/abs/2210.00400)
+
+[Abstract representations emerge in human hippocampal neurons during inference | Nature](https://www.nature.com/articles/s41586-024-07799-x)
+
+[Reconciling Shared versus Context-Specific Information in a Neural Network Model of Latent Causes](https://arxiv.org/abs/2312.08519)
+
+[Lecture Notes on Infinite-Width Limits of Neural Networks](https://pehlevan.seas.harvard.edu/sites/projects.iq.harvard.edu/files/pehlevan/files/princeton_lecture_notes.pdf)
+
+[Scaling and renormalization in high-dimensional regression](https://arxiv.org/pdf/2405.00592)
+
+[Curriculum Learning with Infant Egocentric Videos](https://openreview.net/pdf?id=zkfyOkBVpz)
