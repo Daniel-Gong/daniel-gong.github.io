@@ -469,3 +469,17 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Scaling and renormalization in high-dimensional regression](https://arxiv.org/pdf/2405.00592)
 
 [Curriculum Learning with Infant Egocentric Videos](https://openreview.net/pdf?id=zkfyOkBVpz)
+
+[[2209.11895] In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)
+
+[Natural and Artificial Intelligence: A brief introduction to the interplay between AI and neuroscience research - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0893608021003683)
+
+[Reasoning ability is (little more than) working-memory capacity?! - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0160289605800121)
+
+[A formal model of capacity limits in working memory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0749596X06000982#fig6)
+
+[Prefrontal cortex as a meta-reinforcement learning system | Nature Neuroscience](https://www.nature.com/articles/s41593-018-0147-8)
+
+[Scaffolding cooperation in human groups with deep reinforcement learning | Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01686-7)
+
+[Sequential Memory with Temporal Predictive Coding](https://arxiv.org/pdf/2305.11982)
