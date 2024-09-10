@@ -13,9 +13,7 @@ Before transferring to Yale, I started my PhD at the University of Oxford funded
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
-I am updating a list of [interesting {NeuroAI/CompNeuro/LLM-Cognition/miscellaneous} readings](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
-
-My PhD research currently focuses on the neural mechanisms underlying human visual attention and memory, especially how they interact to allow flexible and adaptive human behavior.
+I am updating a list of [interesting {NeuroAI/CompNeuro/miscellaneous} readings](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
 
 Before graduate school, I received my degree of Bachelor of Science from [Tsinghua University](https://www.tsinghua.edu.cn/en/) with [highest honors](https://mp.weixin.qq.com/s/sPpt0fUmPgi2dTujhMV3Ww). During my undergraduate years, I was supervised by Professor [Pei Sun](http://www.psych.tsinghua.edu.cn/xlxxen/info/1073/1132.htm) and Professor [Nihong Chen](http://www.psych.tsinghua.edu.cn/xlxxen/info/1072/1100.htm) at Tsinghua. In Summer 2019, I visited [Whitney lab](https://whitneylab.berkeley.edu/) at UC Berkeley. In Winter 2019, I visited Professor [Jan Theeuwes](https://research.vu.nl/en/persons/jan-theeuwes/)'s lab at VU Amsterdam. In Summer 2020, I worked with Professor [Jeremy Wolfe](https://eye.hms.harvard.edu/jeremywolfe), who leads the [Visual Attention Lab](https://search.bwh.harvard.edu/new/index.html) at Harvard Medical School.
 
