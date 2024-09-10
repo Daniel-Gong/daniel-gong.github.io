@@ -441,3 +441,21 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **8.28**
 
 [Neural circuits as computational dynamical systems](https://www.sciencedirect.com/science/article/pii/S0959438814000166)
+
+**9.9**
+
+[Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/doi/full/10.1073/pnas.2014196118)
+
+[Emotional Intelligence of Large Language Models](https://arxiv.org/abs/2307.09042)
+
+[No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit](https://openreview.net/pdf?id=mxi1xKzNFrb)
+
+[CEBRA: Learnable latent embeddings for joint behavioral and neural analysis](https://arxiv.org/pdf/2204.00673)
+
+[DevBench: A multimodal developmental benchmark for language learning](https://arxiv.org/abs/2406.10215)
+
+[Running cognitive evaluations on large language models: The do's and the don'ts](https://arxiv.org/abs/2312.01276)
+
+[Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)
+
+[Systematic Generalization and Emergent Structures in Transformers Trained on Structured Tasks](https://arxiv.org/abs/2210.00400)
