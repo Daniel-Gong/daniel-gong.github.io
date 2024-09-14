@@ -470,25 +470,25 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Curriculum Learning with Infant Egocentric Videos](https://openreview.net/pdf?id=zkfyOkBVpz)
 
-[[2209.11895] In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)
+[In-context Learning and Induction Heads](https://arxiv.org/abs/2209.11895)
 
 [Natural and Artificial Intelligence: A brief introduction to the interplay between AI and neuroscience research - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0893608021003683)
 
-[Reasoning ability is (little more than) working-memory capacity?! - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0160289605800121)
+[Reasoning ability is (little more than) working-memory capacity?!](https://www.sciencedirect.com/science/article/pii/S0160289605800121)
 
-[A formal model of capacity limits in working memory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0749596X06000982#fig6)
+[A formal model of capacity limits in working memory](https://www.sciencedirect.com/science/article/pii/S0749596X06000982#fig6)
 
-[Prefrontal cortex as a meta-reinforcement learning system | Nature Neuroscience](https://www.nature.com/articles/s41593-018-0147-8)
+[Prefrontal cortex as a meta-reinforcement learning system](https://www.nature.com/articles/s41593-018-0147-8)
 
-[Scaffolding cooperation in human groups with deep reinforcement learning | Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01686-7)
+[Scaffolding cooperation in human groups with deep reinforcement learning](https://www.nature.com/articles/s41562-023-01686-7)
 
 [Sequential Memory with Temporal Predictive Coding](https://arxiv.org/pdf/2305.11982)
 
 [COGNITIVE MODELING OF SEMANTIC FLUENCY USING TRANSFORMERS](https://arxiv.org/pdf/2208.09719)
 
-[[2107.12979] Predictive Coding: a Theoretical and Experimental Review](https://arxiv.org/abs/2107.12979)
+[Predictive Coding: a Theoretical and Experimental Review](https://arxiv.org/abs/2107.12979)
 
-[arxiv.org/pdf/2305.11772](https://arxiv.org/pdf/2305.11772)
+[Neural Foundations of Mental Simulation: Future Prediction of Latent Representations on Dynamic Scenes](https://arxiv.org/pdf/2305.11772)
 
 [Toward the Emergence of Intelligent Control: Episodic Generalization and Optimization](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00143/121081/Toward-the-Emergence-of-Intelligent-Control)
 
@@ -512,7 +512,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Using higher-order Markov models to reveal flow-based communities in networks](https://www.nature.com/articles/srep23194#Fig1)
 
-[[1803.03635] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+[he Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 
 [The neuron as a direct data-driven controller](https://www.pnas.org/doi/10.1073/pnas.2311893121)
 
