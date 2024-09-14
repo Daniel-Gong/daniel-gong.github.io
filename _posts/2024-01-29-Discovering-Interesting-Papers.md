@@ -496,7 +496,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Accelerating generative models and nonconvex optimisation](https://www.turing.ac.uk/research/theory-and-method-challenge-fortnights/accelerating-generative-models-and-nonconvex)
 
-[Representation and computation in visual working memory | Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01871-2?fromPaywallRec=false)
+[Representation and computation in visual working memory](https://www.nature.com/articles/s41562-024-01871-2?fromPaywallRec=false)
 
 [Nonlinear difference equations](https://math.dartmouth.edu/opencalc2/dcsbook/c1pdf/sec15.pdf)
 
@@ -506,15 +506,15 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Learning differential equations](https://www.sfu.ca/math-coursenotes/Math%20158%20Course%20Notes/chap_DifferentialEquations.html)
 
-[Context-dependent computation by recurrent dynamics in prefrontal cortex | Nature](https://www.nature.com/articles/nature12742)
+[Context-dependent computation by recurrent dynamics in prefrontal cortex](https://www.nature.com/articles/nature12742)
 
-[Evidence of a predictive coding hierarchy in the human brain listening to speech | Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01516-2)
+[Evidence of a predictive coding hierarchy in the human brain listening to speech](https://www.nature.com/articles/s41562-022-01516-2)
 
-[Using higher-order Markov models to reveal flow-based communities in networks | Scientific Reports](https://www.nature.com/articles/srep23194#Fig1)
+[Using higher-order Markov models to reveal flow-based communities in networks](https://www.nature.com/articles/srep23194#Fig1)
 
 [[1803.03635] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 
-[The neuron as a direct data-driven controller | PNAS](https://www.pnas.org/doi/10.1073/pnas.2311893121)
+[The neuron as a direct data-driven controller](https://www.pnas.org/doi/10.1073/pnas.2311893121)
 
 [Seminar course: Bridging Language in Machines and Language in the Brain](https://bridge-ai-neuro.github.io/)
 
