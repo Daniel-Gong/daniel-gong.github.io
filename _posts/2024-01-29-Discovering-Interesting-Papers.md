@@ -523,3 +523,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Dimension Reduction using Isomap](https://medium.com/data-science-in-your-pocket/dimension-reduction-using-isomap-72ead0411de)
 
 [A simple weight decay can...](https://proceedings.neurips.cc/paper/1991/file/8eefcfdf5990e441f0fb6f3fad709e21-Paper.pdf)
+
+[Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering](https://arxiv.org/pdf/2408.17322)
+
+[Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/abs/2406.00509)
