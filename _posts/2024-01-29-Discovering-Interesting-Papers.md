@@ -592,7 +592,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers](https://arxiv.org/abs/2108.12284)
 
-[Natural constraints explain working memory capacity limitations in sensory-cognitive models | bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.30.534982v1.full)
+[Natural constraints explain working memory capacity limitations in sensory-cognitive models](https://www.biorxiv.org/content/10.1101/2023.03.30.534982v1.full)
 
 [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 
