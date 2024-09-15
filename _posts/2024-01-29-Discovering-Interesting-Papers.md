@@ -613,3 +613,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Code repo: Transformer_walkthrough](https://github.com/markriedl/transformer-walkthrough/blob/main/Transformer_walkthrough.ipynb)
 
 [PsychRNN: An Accessible and Flexible Python Package for Training Recurrent Neural Network Models on Cognitive Tasks](https://www.eneuro.org/content/8/1/ENEURO.0427-20.2020)
+
+[Self-backpropagation of synaptic modifications elevates the efficiency of spiking and artificial neural networks](https://www.science.org/doi/10.1126/sciadv.abh0146)
