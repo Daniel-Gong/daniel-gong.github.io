@@ -611,3 +611,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [How should the architecture of a transformer be scaled? : r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/17g1il0/dr_how_should_the_architecture_of_a_transformer/)
 
 [Code repo: Transformer_walkthrough](https://github.com/markriedl/transformer-walkthrough/blob/main/Transformer_walkthrough.ipynb)
+
+[PsychRNN: An Accessible and Flexible Python Package for Training Recurrent Neural Network Models on Cognitive Tasks](https://www.eneuro.org/content/8/1/ENEURO.0427-20.2020)
