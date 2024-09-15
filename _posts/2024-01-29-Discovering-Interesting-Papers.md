@@ -527,3 +527,55 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Investigating Neuron Ablation in Attention Heads: The Case for Peak Activation Centering](https://arxiv.org/pdf/2408.17322)
 
 [Empirical influence functions to understand the logic of fine-tuning](https://arxiv.org/abs/2406.00509)
+
+**9.14**
+
+[The Impact of Positional Encoding on Length Generalization in Transformers](https://arxiv.org/abs/2305.19466)
+
+**9.15**
+
+[How Attention works in Deep Learning: understanding the attention mechanism in sequence models](https://theaisummer.com/attention/)
+
+[Explainable AI: Visualizing Attention in Transformers - Comet](https://www.comet.com/site/blog/explainable-ai-for-transformers/)
+
+[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+
+[A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+
+[Transformers: a Primer](https://www.columbia.edu/~jsl2239/transformers.html)
+
+[Code repo: Word-level Language Modeling using RNN and Transformer](https://github.com/pytorch/examples/tree/main/word_language_model)
+
+[Code repo: Transformer as a hippocampal memory consolidation model based on NMDAR-inspired nonlinearity](https://github.com/kdkyum/transformer_memory_consolidation)
+
+[Code repo: The Tolman-Eichenbaum Machine](https://github.com/djcrw/generalising-structural-knowledge)
+
+[Adaptive chunking improves effective working memory capacity in a prefrontal cortex and basal ganglia circuit](https://www.biorxiv.org/content/10.1101/2024.03.24.586455v1.full)
+
+[Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/10136140)
+
+[Analogous computations in working memory input, output and motor gating: Electrophysiological and computational modeling evidence](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008971)
+
+[Exposing Attention Glitches with Flip-Flop Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2023/hash/510ad3018bbdc5b6e3b10646e2e35771-Abstract-Conference.html)
+
+[Opening the Black Box: Low-Dimensional Dynamics in High-Dimensional Recurrent Neural Networks](https://direct.mit.edu/neco/article-abstract/25/3/626/7854/Opening-the-Black-Box-Low-Dimensional-Dynamics-in?redirectedFrom=fulltext)
+
+[Context-dependent computation by recurrent dynamics in prefrontal cortex](https://www.nature.com/articles/nature12742)
+
+[A survey of transformers](https://www.sciencedirect.com/science/article/pii/S2666651022000146#b137)
+
+[Gradient-based learning drives robust representations in recurrent neural networks by balancing compression and expansion](https://www.nature.com/articles/s42256-022-00498-0)
+
+[Population codes enable learning from few examples by shaping inductive bias](https://elifesciences.org/articles/78606#content)
+
+[What is In-context Learning, and how does it work: The Beginner’s Guide](https://www.lakera.ai/blog/what-is-in-context-learning)
+
+[The Curse of Dimensionality](https://medium.com/@m.chellaa/the-curse-of-dimensionality-974e60b09835)
+
+[A generative model of memory construction and consolidation](https://www.nature.com/articles/s41562-023-01799-z)
+
+[The Neurobiology of Semantic Memory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350748/)
+
+[The precision of visual working memory is set by allocation of a shared resource](https://jov.arvojournals.org/article.aspx?articleid=2122354)
+
+[The capacity of visual working memory for features and conjunctions](https://www.nature.com/articles/36846)
