@@ -579,3 +579,35 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The precision of visual working memory is set by allocation of a shared resource](https://jov.arvojournals.org/article.aspx?articleid=2122354)
 
 [The capacity of visual working memory for features and conjunctions](https://www.nature.com/articles/36846)
+
+[Timescales of learning in prefrontal cortex](https://www.nature.com/articles/s41583-024-00836-8)
+
+[The Distributed Nature of Working Memory](https://www.sciencedirect.com/science/article/pii/S1364661316302170)
+
+[Geometry of neural computation unifies working memory and planning](https://www.pnas.org/doi/full/10.1073/pnas.2115610119)
+
+[Transformer Mechanisms Mimic Frontostriatal Gating Operations When Trained on Human Working Memory Tasks](https://arxiv.org/abs/2402.08211)
+
+[Wide Attention Is The Way Forward For Transformers?](https://arxiv.org/abs/2210.00640)
+
+[The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers](https://arxiv.org/abs/2108.12284)
+
+[Natural constraints explain working memory capacity limitations in sensory-cognitive models | bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.30.534982v1.full)
+
+[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+
+[The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/pdf/2006.12467)
+
+[A mathematical perspective on Transformers](https://arxiv.org/abs/2312.10794)
+
+[TOWARDS SMALLER, FASTER DECODER-ONLY TRANSFORMERS: ARCHITECTURAL VARIANTS AND THEIR IMPLICATIONS](https://arxiv.org/pdf/2404.14462)
+
+[Upper and lower memory capacity bounds of transformers for next-token prediction](https://arxiv.org/abs/2405.13718)
+
+[How Powerful are Decoder-Only Transformer Neural Models?](https://arxiv.org/abs/2305.17026)
+
+[Mastering Decoder-Only Transformer: A Comprehensive Guide](https://www.analyticsvidhya.com/blog/2024/04/mastering-decoder-only-transformer-a-comprehensive-guide/#:~:text=Typically%2C%20scaling%20up%20a%20decoder,heads%20within%20each%20attention%20layer.)
+
+[How should the architecture of a transformer be scaled? : r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/17g1il0/dr_how_should_the_architecture_of_a_transformer/)
+
+[Code repo: Transformer_walkthrough](https://github.com/markriedl/transformer-walkthrough/blob/main/Transformer_walkthrough.ipynb)
