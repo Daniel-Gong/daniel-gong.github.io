@@ -87,14 +87,20 @@ Peer reviewer, [2023 Conference on Cognitive Computational Neuroscience](https:/
 
 # Teaching Experience
 
-* Tutor for Undergraduates, University of Oxford
+Teaching Fellow, NSCI 160/PSYC 160: The Human Brain, Yale University
 
-  * Oct 2022 - Dec 2022
-  * Tutored undergraduate students for *Cognition* course (Attention, Memory, and Learning)
-* Teaching Assistant at the Perception Science Program, UC Berkeley
+* Fall 2024
+* Led discussion groups and moderate quizzes
 
-  * Summer 2019
-  * Tutored high school students in experimental design and MATLAB programming
+Tutor for Undergraduates, University of Oxford
+
+* Oct 2022 - Dec 2022
+* Tutored undergraduate students for *Cognition* course (Attention, Memory, and Learning)
+
+Teaching Assistant at the Perception Science Program, UC Berkeley
+
+* Summer 2019
+* Tutored high school students in experimental design and MATLAB programming
 
 Skills
 ======
