@@ -77,6 +77,8 @@ Funding and Grants
 
 # Academic Service
 
+Peer reviewer, [NeurIPS 2024 Workshop on Behavioral Machine Learning](https://sites.google.com/view/behavioralml)
+
 Peer reviewer, [ICML 2024 Workshop on LLMs and Cognition](https://llm-cognition.github.io/)
 
 Peer reviewer, *[Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)*, Journal by Elsevier
