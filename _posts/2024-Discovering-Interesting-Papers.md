@@ -1,3 +1,11 @@
+---
+title: 'Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers'
+date: 2024-01-29
+permalink: /posts/2024/01/readings/
+tags:
+  - research
+---
+
 Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers
 
 **1.29.2024**
