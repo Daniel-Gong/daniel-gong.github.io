@@ -22,6 +22,7 @@ In my leisure time, I enjoy cooking, running, travelling, and hiking. I also lov
 ---
 
 # **News**
+**- 2024.9** A new [workshop paper](https://arxiv.org/abs/2409.10715) is under review!
 
 **- 2024.6** I was selected as a participant for the [2024 Analytical Connectionism Summer School](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)! The summer school only admits ~38 participants. I have also been awarded a travel scholarship to attend the summer school.
 
