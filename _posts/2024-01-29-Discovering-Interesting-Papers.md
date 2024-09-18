@@ -625,3 +625,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Schrodinger's Memory: Large Language Models](https://arxiv.org/abs/2409.10482)
 
 [From Cognition to Computation: A Comparative Review of Human Attention and Transformer Architectures](https://arxiv.org/abs/2407.01548)
+
+[Neuroscience + Artificial Intelligence = NeuroAI](https://zuckermaninstitute.columbia.edu/neuroscience-artificial-intelligence-neuroai)
