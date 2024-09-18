@@ -627,3 +627,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [From Cognition to Computation: A Comparative Review of Human Attention and Transformer Architectures](https://arxiv.org/abs/2407.01548)
 
 [Neuroscience + Artificial Intelligence = NeuroAI](https://zuckermaninstitute.columbia.edu/neuroscience-artificial-intelligence-neuroai)
+
+[Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e1cf57f1e104c6c05e31894c15a65e99-Abstract-Conference.html)
