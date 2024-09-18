@@ -13,7 +13,7 @@ Before transferring to Yale, I was a PhD at the University of Oxford. I moved to
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
-I am updating a list of [interesting {NeuroAI/CompNeuro/miscellaneous} readings](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
+I am updating a list of [interesting NeuroAI/CompNeuro/miscellaneous readings](https://daniel-gong.github.io/Discovering-Interesting-Papers/).
 
 Before graduate school, I studied psychology and computer science (minor) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with [highest honors](https://mp.weixin.qq.com/s/sPpt0fUmPgi2dTujhMV3Ww).
 
