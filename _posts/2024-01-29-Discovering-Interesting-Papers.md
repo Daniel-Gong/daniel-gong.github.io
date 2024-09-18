@@ -615,3 +615,13 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [PsychRNN: An Accessible and Flexible Python Package for Training Recurrent Neural Network Models on Cognitive Tasks](https://www.eneuro.org/content/8/1/ENEURO.0427-20.2020)
 
 [Self-backpropagation of synaptic modifications elevates the efficiency of spiking and artificial neural networks](https://www.science.org/doi/10.1126/sciadv.abh0146)
+
+**9.17**
+
+[[2405.16376] STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making](https://arxiv.org/abs/2405.16376)
+
+[Automated construction of cognitive maps with visual predictive coding | Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00863-1)
+
+[Schrodinger's Memory: Large Language Models](https://arxiv.org/abs/2409.10482)
+
+[From Cognition to Computation: A Comparative Review of Human Attention and Transformer Architectures](https://arxiv.org/abs/2407.01548)
