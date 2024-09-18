@@ -4,10 +4,8 @@ date: 2024-01-29
 permalink: /posts/2024/01/readings/
 tags:
   - research
+
 ---
-
-Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers
-
 **1.29.2024**
 
 [Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3), *Nature Reviews Neuroscience*, 2021
@@ -460,7 +458,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [DevBench: A multimodal developmental benchmark for language learning](https://arxiv.org/abs/2406.10215)
 
-[Running cognitive evaluations on large language models: The do's and the don'ts](https://arxiv.org/abs/2312.01276)
+[Running cognitive evaluations on large language models: The do&#39;s and the don&#39;ts](https://arxiv.org/abs/2312.01276)
 
 [Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)
 
@@ -628,7 +626,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Automated construction of cognitive maps with visual predictive coding](https://www.nature.com/articles/s42256-024-00863-1)
 
-[Schrodinger's Memory: Large Language Models](https://arxiv.org/abs/2409.10482)
+[Schrodinger&#39;s Memory: Large Language Models](https://arxiv.org/abs/2409.10482)
 
 [From Cognition to Computation: A Comparative Review of Human Attention and Transformer Architectures](https://arxiv.org/abs/2407.01548)
 
