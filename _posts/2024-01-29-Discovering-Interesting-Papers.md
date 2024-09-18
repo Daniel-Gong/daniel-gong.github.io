@@ -630,6 +630,10 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Transformer-based Working Memory for Multiagent Reinforcement Learning with Action Parsing](https://proceedings.neurips.cc/paper_files/paper/2022/hash/e1cf57f1e104c6c05e31894c15a65e99-Abstract-Conference.html)
 
+[[2402.12875] Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875)
+
+[[2103.03404] Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](https://arxiv.org/abs/2103.03404)
+
 **9.18**
 
 [InversionView: A General-Purpose Method for Reading Information from Neural Activations](https://arxiv.org/abs/2405.17653)
@@ -637,3 +641,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in)
 
 [TransformerFAM: Feedback attention is working memory](https://arxiv.org/abs/2404.09173)
+
+[A resource-rational model of human processing of recursive linguistic structure](https://www.pnas.org/doi/10.1073/pnas.2122602119)
