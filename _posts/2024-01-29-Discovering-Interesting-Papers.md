@@ -642,6 +642,8 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [InversionView: A General-Purpose Method for Reading Information from Neural Activations](https://arxiv.org/abs/2405.17653)
 
+[Divergent Recruitment of Developmentally Defined Neuronal Ensembles Supports Memory Dynamics.]
+
 [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in)
 
 [TransformerFAM: Feedback attention is working memory](https://arxiv.org/abs/2404.09173)
