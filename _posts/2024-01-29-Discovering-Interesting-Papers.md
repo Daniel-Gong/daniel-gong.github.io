@@ -650,7 +650,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [A resource-rational model of human processing of recursive linguistic structure](https://www.pnas.org/doi/10.1073/pnas.2122602119)
 
-*9.19**
+**9.19**
 
 [Empirical Capacity Model for Self-Attention Neural Networks](https://arxiv.org/pdf/2407.15425)
 
