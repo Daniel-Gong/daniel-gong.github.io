@@ -655,3 +655,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Empirical Capacity Model for Self-Attention Neural Networks](https://arxiv.org/pdf/2407.15425)
 
 [Self-attention Does Not Need $O(n^2)$ Memory](https://arxiv.org/abs/2112.05682)
+
+**9.20**
+
+[Imitating and exploring the human brain's resting and task-performing states via brain computing: scaling and architecture](https://academic.oup.com/nsr/article/11/5/nwae080/7617698)
