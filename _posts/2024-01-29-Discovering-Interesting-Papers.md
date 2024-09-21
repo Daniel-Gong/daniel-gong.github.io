@@ -659,3 +659,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **9.20**
 
 [Imitating and exploring the human brain's resting and task-performing states via brain computing: scaling and architecture](https://academic.oup.com/nsr/article/11/5/nwae080/7617698)
+
+[Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](https://arxiv.org/pdf/1512.08756)
