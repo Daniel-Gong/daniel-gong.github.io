@@ -661,3 +661,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Imitating and exploring the human brain's resting and task-performing states via brain computing: scaling and architecture](https://academic.oup.com/nsr/article/11/5/nwae080/7617698)
 
 [Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](https://arxiv.org/pdf/1512.08756)
+
+[Emulating the Attention Mechanism in Transformer Models with a Fully Convolutional Network](https://developer.nvidia.com/blog/emulating-the-attention-mechanism-in-transformer-models-with-a-fully-convolutional-network/)
