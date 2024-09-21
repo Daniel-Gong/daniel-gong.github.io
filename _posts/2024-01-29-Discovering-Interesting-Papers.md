@@ -663,3 +663,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](https://arxiv.org/pdf/1512.08756)
 
 [Emulating the Attention Mechanism in Transformer Models with a Fully Convolutional Network](https://developer.nvidia.com/blog/emulating-the-attention-mechanism-in-transformer-models-with-a-fully-convolutional-network/)
+
+**9.21**
+
+[Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)
