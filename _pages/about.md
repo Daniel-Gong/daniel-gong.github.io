@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, I'm Dongyu Gong! I am currently a PhD student studying neuroscience at Yale University.
 
-Before transferring to Yale, I was a PhD at the University of Oxford. I moved to Yale after my advisor (Professor Kia Nobre) got her new position at Yale.
+Before transferring to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor (Professor Kia Nobre) got her new position at Yale.
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
@@ -22,6 +22,7 @@ In my leisure time, I enjoy cooking, running, travelling, and hiking. I also lov
 ---
 
 # **News**
+
 **- 2024.9** A new [workshop paper](https://arxiv.org/abs/2409.10715) is under review!
 
 **- 2024.6** I was selected as a participant for the [2024 Analytical Connectionism Summer School](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)! The summer school only admits ~38 participants. I have also been awarded a travel scholarship to attend the summer school.
