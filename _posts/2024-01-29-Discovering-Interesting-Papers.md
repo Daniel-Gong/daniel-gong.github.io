@@ -667,3 +667,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **9.21**
 
 [Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)
+
+**9.25**
+
+[The Dimensions of dimensionality](https://www.sciencedirect.com/science/article/pii/S136466132400189X)
