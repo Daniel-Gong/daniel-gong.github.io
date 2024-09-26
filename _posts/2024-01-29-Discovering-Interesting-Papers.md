@@ -679,3 +679,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **9.26**
 
 [A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(24)00460-4)
+
+[A Quantitative Approach to Predicting Representational Learning and Performance in Neural Networks](https://arxiv.org/abs/2307.07575)
