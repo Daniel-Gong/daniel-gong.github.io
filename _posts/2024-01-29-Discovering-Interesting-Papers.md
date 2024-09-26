@@ -675,3 +675,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [RNNs Implicitly Implement Tensor Product Representations](https://arxiv.org/abs/1812.08718)
 
 [Tensor product variable binding and the representation of symbolic structures in connectionist systems](https://www.sciencedirect.com/science/article/pii/000437029090007M#:~:text=The%20representation%20rests%20on%20a,bindings%20in%20parallel%3B%20it%20extends)
+
+**9.26**
+
+[A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(24)00460-4)
