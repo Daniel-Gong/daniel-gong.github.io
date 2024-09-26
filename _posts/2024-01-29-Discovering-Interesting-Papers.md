@@ -671,3 +671,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **9.25**
 
 [The Dimensions of dimensionality](https://www.sciencedirect.com/science/article/pii/S136466132400189X)
+
+[RNNs Implicitly Implement Tensor Product Representations](https://arxiv.org/abs/1812.08718)
+
+[Tensor product variable binding and the representation of symbolic structures in connectionist systems](https://www.sciencedirect.com/science/article/pii/000437029090007M#:~:text=The%20representation%20rests%20on%20a,bindings%20in%20parallel%3B%20it%20extends)
