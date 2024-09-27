@@ -90,7 +90,7 @@ Reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023
 Teaching Fellow, NSCI 160/PSYC 160: The Human Brain, Yale University
 
 * Fall 2024
-* Led discussion groups and moderate quizzes
+* Led discussion groups and moderated quizzes
 
 Tutor for Undergraduates, University of Oxford
 
