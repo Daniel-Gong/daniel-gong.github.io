@@ -1,5 +1,5 @@
 ---
-title: 'Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers'
+title: 'Interesting NeuroAI/CompNeuro/LLM Cognition/Embodied AI/miscellaneous papers'
 date: 2024-01-29
 permalink: /posts/2024/neuroai-readings/
 tags:
