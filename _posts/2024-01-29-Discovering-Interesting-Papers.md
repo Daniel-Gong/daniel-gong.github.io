@@ -682,3 +682,13 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [A Quantitative Approach to Predicting Representational Learning and Performance in Neural Networks](https://arxiv.org/abs/2307.07575)
 
 [Mechanistic Interpretability for AI Safety -- A Review](https://arxiv.org/abs/2404.14082)
+
+**9.28**
+
+[Flexible control of sequence working memory in the macaque frontal cortex](https://www.sciencedirect.com/science/article/pii/S0896627324005695?dgcid=author), _Science_, 2024
+
+[Mental programming of spatial sequences in working memory in the macaque frontal cortex](https://www.science.org/doi/10.1126/science.adp6091)
+
+[Geometry of sequence working memory in macaque prefrontal cortex](https://www.science.org/doi/full/10.1126/science.abm0204), _Science_, 2022
+
+[Nonlinear classification of neural manifolds with contextual information](https://arxiv.org/pdf/2405.06851)
