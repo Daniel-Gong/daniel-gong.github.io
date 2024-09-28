@@ -1,10 +1,9 @@
 ---
 title: 'Interesting NeuroAI/LLM Cognition/Emobodied AI/miscellaneous papers'
 date: 2024-01-29
-permalink: /posts/2024/01/readings/
+permalink: /posts/2024/neuroai-readings/
 tags:
   - research
-
 ---
 **1.29.2024**
 
@@ -658,7 +657,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **9.20**
 
-[Imitating and exploring the human brain's resting and task-performing states via brain computing: scaling and architecture](https://academic.oup.com/nsr/article/11/5/nwae080/7617698)
+[Imitating and exploring the human brain&#39;s resting and task-performing states via brain computing: scaling and architecture](https://academic.oup.com/nsr/article/11/5/nwae080/7617698)
 
 [Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](https://arxiv.org/pdf/1512.08756)
 
