@@ -685,9 +685,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **9.28**
 
-[Flexible control of sequence working memory in the macaque frontal cortex](https://www.sciencedirect.com/science/article/pii/S0896627324005695?dgcid=author), _Science_, 2024
+[Flexible control of sequence working memory in the macaque frontal cortex](https://www.sciencedirect.com/science/article/pii/S0896627324005695?dgcid=author)
 
-[Mental programming of spatial sequences in working memory in the macaque frontal cortex](https://www.science.org/doi/10.1126/science.adp6091)
+[Mental programming of spatial sequences in working memory in the macaque frontal cortex](https://www.science.org/doi/10.1126/science.adp6091), _Science_, 2024
 
 [Geometry of sequence working memory in macaque prefrontal cortex](https://www.science.org/doi/full/10.1126/science.abm0204), _Science_, 2022
 
