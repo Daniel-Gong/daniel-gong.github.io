@@ -725,8 +725,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [From Human Attention to Computational Attention: A Multidisciplinary Approach](https://link.springer.com/book/10.1007/978-1-4939-3435-5)
 
-[arxiv.org/pdf/2405.16727](https://arxiv.org/pdf/2405.16727)
-
 [Disentangling and Integrating Relational and Sensory Information in Transformer Architectures](https://arxiv.org/abs/2405.16727)
 
 [Accurate Path Integration in Continuous Attractor Network Models of Grid Cells](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000291)
