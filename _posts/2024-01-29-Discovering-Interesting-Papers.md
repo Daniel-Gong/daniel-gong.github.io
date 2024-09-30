@@ -692,3 +692,39 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Geometry of sequence working memory in macaque prefrontal cortex](https://www.science.org/doi/full/10.1126/science.abm0204), _Science_, 2022
 
 [Nonlinear classification of neural manifolds with contextual information](https://arxiv.org/pdf/2405.06851)
+
+**9.29**
+
+[A theory of consciousness from a theoretical computer science perspective: Insights from the Conscious Turing Machine](https://www.pnas.org/doi/full/10.1073/pnas.2115934119)
+
+[[2012.14601] Emergent Symbols through Binding in External Memory](https://arxiv.org/abs/2012.14601)
+
+[[2001.11027] The Tensor Brain: Semantic Decoding for Perception and Memory](https://arxiv.org/abs/2001.11027)
+
+[Network attractors and nonlinear dynamics of neural computation - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0959438823001435)
+
+[An attractor network in the hippocampus: Theory and neurophysiology](https://learnmem.cshlp.org/content/14/11/714)
+
+[Learning Attractor Dynamics for Generative Memory](https://proceedings.neurips.cc/paper_files/paper/2018/file/6e4243f5511fd6ef0f03e9f386d54403-Paper.pdf)
+
+[What is remembered? Role of attention on the encoding and retrieval of hippocampal representations - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2718243/#)
+
+[Attractor dynamics with activity-dependent plasticity capture human working memory across time scales](https://www.nature.com/articles/s44271-023-00027-8)
+
+[attractor networks](https://www.oxcns.org/papers/476%20Rolls%20Attractor%20Networks%202010.pdf)
+
+[Acetylcholine-mediated top-down attention improves the response to bottom-up inputs by deformation of the attractor landscape](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223592#pone.0223592.ref001)
+
+[The Consciousness Prior](https://arxiv.org/abs/1709.08568)
+
+[Bayesian surprise attracts human attention](https://www.sciencedirect.com/science/article/pii/S0042698908004380)
+
+[[1902.10186] Attention is not Explanation](https://arxiv.org/abs/1902.10186)
+
+[[1908.04626] Attention is not not Explanation](https://arxiv.org/abs/1908.04626)
+
+[From Human Attention to Computational Attention: A Multidisciplinary Approach](https://link.springer.com/book/10.1007/978-1-4939-3435-5)
+
+[arxiv.org/pdf/2405.16727](https://arxiv.org/pdf/2405.16727)
+
+[Disentangling and Integrating Relational and Sensory Information in Transformer Architectures](https://arxiv.org/abs/2405.16727)
