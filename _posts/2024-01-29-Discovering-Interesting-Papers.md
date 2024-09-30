@@ -728,3 +728,19 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [arxiv.org/pdf/2405.16727](https://arxiv.org/pdf/2405.16727)
 
 [Disentangling and Integrating Relational and Sensory Information in Transformer Architectures](https://arxiv.org/abs/2405.16727)
+
+[Accurate Path Integration in Continuous Attractor Network Models of Grid Cells](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000291)
+
+[A map of spatial navigation for neuroscience - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763423001690#fig0025)
+
+[Viewpoints: how the hippocampus contributes to memory, navigation and cognition - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5943637/)
+
+[[1805.09042] Generalisation of structural knowledge in the hippocampal-entorhinal system](https://arxiv.org/abs/1805.09042)
+
+[Can We Reconcile the Declarative Memory and Spatial Navigation Views on Hippocampal Function?: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(14)00643-6)
+
+[Using Fast Weights to Attend to the Recent Past](https://proceedings.neurips.cc/paper_files/paper/2016/file/9f44e956e3a2b7b5598c625fcc802c36-Paper.pdf)
+
+[Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)
+
+[R-Transformer: Recurrent Neural Network Enhanced Transformer](https://arxiv.org/abs/1907.05572)
