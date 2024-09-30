@@ -742,3 +742,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)
 
 [R-Transformer: Recurrent Neural Network Enhanced Transformer](https://arxiv.org/abs/1907.05572)
+
+[Abstract representations emerge in human hippocampal neurons during inference](https://www.nature.com/articles/s41586-024-07799-x)
