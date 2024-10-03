@@ -744,3 +744,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [R-Transformer: Recurrent Neural Network Enhanced Transformer](https://arxiv.org/abs/1907.05572)
 
 [Abstract representations emerge in human hippocampal neurons during inference](https://www.nature.com/articles/s41586-024-07799-x)
+
+**10.2**
+
+[PhD Thesis: Exploring the role of (self-)attention in cognitive and computer vision architecture](https://arxiv.org/abs/2306.14650)
