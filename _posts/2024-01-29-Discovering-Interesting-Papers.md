@@ -748,3 +748,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.2**
 
 [PhD Thesis: Exploring the role of (self-)attention in cognitive and computer vision architecture](https://arxiv.org/abs/2306.14650)
+
+**10.6**
+
+[A rubric for human-like agents and NeuroAI](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0446)
