@@ -756,3 +756,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Memory Networks: Towards Fully Biologically Plausible Learning](https://arxiv.org/abs/2409.17282)
 
 [Textbook: Introduction to Machine Learning](https://arxiv.org/abs/2409.02668)
+
+**10.7**
+
+[Language in Brains, Minds, and Machines](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-120623-101142)
