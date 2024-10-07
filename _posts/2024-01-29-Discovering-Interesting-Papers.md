@@ -754,3 +754,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [A rubric for human-like agents and NeuroAI](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0446)
 
 [Memory Networks: Towards Fully Biologically Plausible Learning](https://arxiv.org/abs/2409.17282)
+
+[Textbook: Introduction to Machine Learning](https://arxiv.org/abs/2409.02668)
