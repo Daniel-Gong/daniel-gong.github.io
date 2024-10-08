@@ -760,3 +760,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.7**
 
 [Language in Brains, Minds, and Machines](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-120623-101142)
+
+**10.7**
+
+[Statistical Mechanics of Deep Learning | Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031119-050745)
