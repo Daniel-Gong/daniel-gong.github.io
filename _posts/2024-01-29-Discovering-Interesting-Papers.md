@@ -766,3 +766,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Statistical Mechanics of Deep Learning | Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031119-050745)
 
 [It’s about time: Linking dynamical systems with human neuroimaging to understand the brain | Network Neuroscience | MIT Press](https://direct.mit.edu/netn/article/6/4/960/109066/It-s-about-time-Linking-dynamical-systems-with)
+
+[RNNs implicitly implement tensor-product representations](https://openreview.net/forum?id=BJx0sjC5FX)
+
+[Tensor product decomposition network](https://rtmccoy.com/tpdn/tpr_demo.html#:~:text=Nonetheless%2C%20Tensor%20Product%20Representations%20are,need%20to%20represent%20compositional%20structure.)
+
+[Basic Reasoning with Tensor Product Representations](https://arxiv.org/abs/1601.02745)
