@@ -776,3 +776,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.9**
 
 [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
+
+[Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
