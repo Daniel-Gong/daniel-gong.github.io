@@ -772,3 +772,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Tensor product decomposition network](https://rtmccoy.com/tpdn/tpr_demo.html#:~:text=Nonetheless%2C%20Tensor%20Product%20Representations%20are,need%20to%20represent%20compositional%20structure.)
 
 [Basic Reasoning with Tensor Product Representations](https://arxiv.org/abs/1601.02745)
+
+**10.9**
+
+[Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
