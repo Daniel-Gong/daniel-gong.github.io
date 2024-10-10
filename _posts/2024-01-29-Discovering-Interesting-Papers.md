@@ -787,4 +787,8 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
 
+**10.10**
+
 [Probability theory notes](https://bookdown.org/hezhijian/book/)
+
+[Tensor Decomposition via Variational Auto-Encoder](https://arxiv.org/pdf/1611.00866)
