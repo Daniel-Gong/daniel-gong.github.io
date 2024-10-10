@@ -754,3 +754,41 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [A rubric for human-like agents and NeuroAI](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0446)
 
 [Memory Networks: Towards Fully Biologically Plausible Learning](https://arxiv.org/abs/2409.17282)
+
+[Textbook: Introduction to Machine Learning](https://arxiv.org/abs/2409.02668)
+
+**10.7**
+
+[Language in Brains, Minds, and Machines](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-120623-101142)
+
+**10.8**
+
+[Statistical Mechanics of Deep Learning | Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031119-050745)
+
+[It’s about time: Linking dynamical systems with human neuroimaging to understand the brain | Network Neuroscience | MIT Press](https://direct.mit.edu/netn/article/6/4/960/109066/It-s-about-time-Linking-dynamical-systems-with)
+
+[RNNs implicitly implement tensor-product representations](https://openreview.net/forum?id=BJx0sjC5FX)
+
+[Tensor product decomposition network](https://rtmccoy.com/tpdn/tpr_demo.html#:~:text=Nonetheless%2C%20Tensor%20Product%20Representations%20are,need%20to%20represent%20compositional%20structure.)
+
+[Basic Reasoning with Tensor Product Representations](https://arxiv.org/abs/1601.02745)
+
+**10.9**
+
+[Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
+
+[Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+
+[Geometric constraints on human brain function](https://www.nature.com/articles/s41586-023-06098-1)
+
+[The brain wave equation: a model for the EEG](https://www.sciencedirect.com/science/article/abs/pii/0025556474900200)
+
+[Traveling Waves Encode the Recent Past and Enhance Sequence Learning](https://arxiv.org/abs/2309.08045)
+
+[Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+
+**10.10**
+
+[Probability theory notes](https://bookdown.org/hezhijian/book/)
+
+[Tensor Decomposition via Variational Auto-Encoder](https://arxiv.org/pdf/1611.00866)
