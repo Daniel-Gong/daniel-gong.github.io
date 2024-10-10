@@ -778,3 +778,13 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Were RNNs All We Needed?](https://arxiv.org/abs/2410.01201)
 
 [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+
+[Geometric constraints on human brain function](https://www.nature.com/articles/s41586-023-06098-1)
+
+[The brain wave equation: a model for the EEG](https://www.sciencedirect.com/science/article/abs/pii/0025556474900200)
+
+[Traveling Waves Encode the Recent Past and Enhance Sequence Learning](https://arxiv.org/abs/2309.08045)
+
+[Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
+
+
