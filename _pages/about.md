@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, I'm Dongyu Gong! I am currently a PhD student studying neuroscience at Yale University.
 
-Before transferring to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor (Professor Kia Nobre) got her new position at Yale.
+Before transferring to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor got a new position at Yale.
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
