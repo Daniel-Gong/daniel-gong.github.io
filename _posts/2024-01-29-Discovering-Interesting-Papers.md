@@ -785,8 +785,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Traveling Waves Encode the Recent Past and Enhance Sequence Learning](https://arxiv.org/abs/2309.08045)
 
-[Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
-
 **10.10**
 
 [Probability theory notes](https://bookdown.org/hezhijian/book/)
