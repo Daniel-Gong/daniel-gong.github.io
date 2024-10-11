@@ -15,7 +15,7 @@ I am interested in both human intelligence and machine intelligence, especially 
 
 I am updating a list of [interesting NeuroAI/CompNeuro/miscellaneous readings](https://daniel-gong.github.io/posts/2024/neuroai-readings/).
 
-Before graduate school, I studied psychology and computer science (minor) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with highest honors.
+Before graduate school, I studied psychology and computer science at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with highest honors.
 
 In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I also love sci-fi, photography, and piano music.
 
