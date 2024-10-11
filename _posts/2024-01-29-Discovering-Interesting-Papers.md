@@ -763,9 +763,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **10.8**
 
-[Statistical Mechanics of Deep Learning | Annual Reviews](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031119-050745)
+[Statistical Mechanics of Deep Learning](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031119-050745)
 
-[It’s about time: Linking dynamical systems with human neuroimaging to understand the brain | Network Neuroscience | MIT Press](https://direct.mit.edu/netn/article/6/4/960/109066/It-s-about-time-Linking-dynamical-systems-with)
+[It’s about time: Linking dynamical systems with human neuroimaging to understand the brain](https://direct.mit.edu/netn/article/6/4/960/109066/It-s-about-time-Linking-dynamical-systems-with)
 
 [RNNs implicitly implement tensor-product representations](https://openreview.net/forum?id=BJx0sjC5FX)
 
