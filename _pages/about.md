@@ -25,9 +25,7 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 
 **- 2024.10** [A paper](https://openreview.net/forum?id=dXjQgm9kAr) is accepted by NeurIPS 2024 Workshop on Behavioral Machine Learning!
 
-**- 2024.9** A new [workshop paper](https://arxiv.org/abs/2409.10715) is under review!
-
-**- 2024.6** I was selected as a participant for the [2024 Analytical Connectionism Summer School](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)! The summer school only admits ~38 participants. I have also been awarded a travel scholarship to attend the summer school.
+**- 2024.6** I was selected as a participant for the [2024 Analytical Connectionism Summer School](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)!
 
 **- 2024.4** I gave a [talk](https://www.cogneurosociety.org/documents/CNS_2024_Program_Booklet.pdf) at CNS Annual Meeting!
 
