@@ -791,6 +791,12 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Tensor Decomposition via Variational Auto-Encoder](https://arxiv.org/pdf/1611.00866)
 
+**10.11**
+
 [Neural knowledge assembly in humans and neural networks: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273\(23\)00118-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627323001186%3Fshowall%3Dtrue)
 
-[Reproducibility in Computational Neuroscience Models and Simulations | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/7428867)
+[Reproducibility in Computational Neuroscience Models and Simulations](https://ieeexplore.ieee.org/document/7428867)
+
+[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
+
+[GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162/)
