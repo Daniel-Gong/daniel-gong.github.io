@@ -800,3 +800,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
 
 [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162/)
+
+[Learning by thinking in natural and artificial minds: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00191-8)
