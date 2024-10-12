@@ -805,4 +805,4 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
 
-[Intelligence emerges at the edge of chaos]
+[Intelligence at the Edge of Chaos](https://www.arxiv.org/abs/2410.02536)
