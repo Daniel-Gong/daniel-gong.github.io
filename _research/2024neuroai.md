@@ -3,7 +3,7 @@ title: "NeuroAI"
 collection: research
 type: "PhD Student"
 permalink: /research/2024-neuroai
-venue: "Brain and Cognition Lab, Yale University"
+venue: "Yale University"
 date: 2024-06-05
 location: "New Haven, CT, United States"
 ---
