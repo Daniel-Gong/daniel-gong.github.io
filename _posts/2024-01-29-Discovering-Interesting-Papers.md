@@ -806,3 +806,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
 
 [Intelligence at the Edge of Chaos](https://www.arxiv.org/abs/2410.02536)
+
+**10.13**
+
+[Why the simplest explanation isn’t always the best](https://www.pnas.org/doi/10.1073/pnas.2319169120)
