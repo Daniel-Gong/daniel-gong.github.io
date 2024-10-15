@@ -818,3 +818,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Interpretable Recurrent Neural Networks in Continuous-time Control Environments](https://repositum.tuwien.at/bitstream/20.500.12708/1068/2/Hasani%20Ramin%20-%202020%20-%20Interpretable%20recurrent%20neural%20networks%20in%20continuous-time...pdf)
 
 [From Liquid Neural Networks to Liquid Foundation Models](https://www.liquid.ai/blog/liquid-neural-networks-research)
+
+[Humans actively reconfigure neural task states](https://www.biorxiv.org/content/10.1101/2024.09.29.615736v3)
+
