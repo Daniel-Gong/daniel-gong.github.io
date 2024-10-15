@@ -824,3 +824,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [OptPDE: Discovering Novel Integrable Systems via AI-Human Collaboration](https://arxiv.org/abs/2405.04484)
 
 [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7)
+
+**10.15**
+
+[The relational bottleneck as an inductive bias for efficient abstraction: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00080-9)
