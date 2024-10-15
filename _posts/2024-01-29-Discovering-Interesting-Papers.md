@@ -828,3 +828,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.15**
 
 [The relational bottleneck as an inductive bias for efficient abstraction: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00080-9)
+
+[Turning large language models into cognitive models](https://openreview.net/forum?id=eiC4BKypf1)
+
+[Comunication-Efficient Algorithms for Statistical Optimization](https://arxiv.org/abs/1209.4129)
