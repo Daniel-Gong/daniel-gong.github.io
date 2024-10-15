@@ -832,3 +832,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Turning large language models into cognitive models](https://openreview.net/forum?id=eiC4BKypf1)
 
 [Comunication-Efficient Algorithms for Statistical Optimization](https://arxiv.org/abs/1209.4129)
+
+[Compositionality Decomposed: How do Neural Networks Generalise?](https://jair.org/index.php/jair/article/view/11674/26576)
+
+[Visualisation and 'Diagnostic Classifiers' Reveal How Recurrent and Recursive Neural Networks Process Hierarchical Structure](https://jair.org/index.php/jair/article/view/11196/26408)
