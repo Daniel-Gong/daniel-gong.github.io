@@ -821,3 +821,4 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Humans actively reconfigure neural task states](https://www.biorxiv.org/content/10.1101/2024.09.29.615736v3)
 
+[OptPDE: Discovering Novel Integrable Systems via AI-Human Collaboration](https://arxiv.org/abs/2405.04484)
