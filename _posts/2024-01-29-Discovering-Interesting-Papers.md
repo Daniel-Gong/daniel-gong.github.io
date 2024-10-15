@@ -810,3 +810,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.13**
 
 [Why the simplest explanation isn’t always the best](https://www.pnas.org/doi/10.1073/pnas.2319169120)
+
+**10.14**
+
+[Meta Movie Gen](https://ai.meta.com/static-resource/movie-gen-research-paper)
+
+[Interpretable Recurrent Neural Networks in Continuous-time Control Environments](https://repositum.tuwien.at/bitstream/20.500.12708/1068/2/Hasani%20Ramin%20-%202020%20-%20Interpretable%20recurrent%20neural%20networks%20in%20continuous-time...pdf)
+
+[From Liquid Neural Networks to Liquid Foundation Models](https://www.liquid.ai/blog/liquid-neural-networks-research)
