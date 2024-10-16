@@ -842,3 +842,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects](https://arxiv.org/abs/2410.06405)
 
 [Nature Portfolio collection: Nobel Prize in Physics 2024](https://www.nature.com/collections/ehbjaifcgc)
+
+[Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling](https://arxiv.org/abs/2410.06366)
