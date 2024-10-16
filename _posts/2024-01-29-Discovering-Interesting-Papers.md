@@ -836,3 +836,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Compositionality Decomposed: How do Neural Networks Generalise?](https://jair.org/index.php/jair/article/view/11674/26576)
 
 [Visualisation and 'Diagnostic Classifiers' Reveal How Recurrent and Recursive Neural Networks Process Hierarchical Structure](https://jair.org/index.php/jair/article/view/11196/26408)
+
+[What have we learned about artificial intelligence from studying the brain?](https://link.springer.com/article/10.1007/s00422-024-00983-2#:~:text=It%20has%20been%20argued%20that,mostly%20in%20the%20other%20direction.)
