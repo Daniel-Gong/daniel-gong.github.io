@@ -837,10 +837,12 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Visualisation and 'Diagnostic Classifiers' Reveal How Recurrent and Recursive Neural Networks Process Hierarchical Structure](https://jair.org/index.php/jair/article/view/11196/26408)
 
-[What have we learned about artificial intelligence from studying the brain?](https://link.springer.com/article/10.1007/s00422-024-00983-2#:~:text=It%20has%20been%20argued%20that,mostly%20in%20the%20other%20direction.)
+[NeuroAI critique: What have we learned about artificial intelligence from studying the brain?](https://link.springer.com/article/10.1007/s00422-024-00983-2#:~:text=It%20has%20been%20argued%20that,mostly%20in%20the%20other%20direction.)
 
 [Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects](https://arxiv.org/abs/2410.06405)
 
 [Nature Portfolio collection: Nobel Prize in Physics 2024](https://www.nature.com/collections/ehbjaifcgc)
 
 [Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling](https://arxiv.org/abs/2410.06366)
+
+[Everything You Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
