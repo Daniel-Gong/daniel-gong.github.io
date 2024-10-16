@@ -840,3 +840,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [What have we learned about artificial intelligence from studying the brain?](https://link.springer.com/article/10.1007/s00422-024-00983-2#:~:text=It%20has%20been%20argued%20that,mostly%20in%20the%20other%20direction.)
 
 [Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects](https://arxiv.org/abs/2410.06405)
+
+[Nature Portfolio collection: Nobel Prize in Physics 2024](https://www.nature.com/collections/ehbjaifcgc)
