@@ -847,4 +847,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Everything You Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 
+**10.16**
+
 [Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models](https://arxiv.org/abs/2307.03762)
