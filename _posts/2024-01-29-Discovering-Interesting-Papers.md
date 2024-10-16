@@ -850,3 +850,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.16**
 
 [Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models](https://arxiv.org/abs/2307.03762)
+
+[Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
