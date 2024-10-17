@@ -854,3 +854,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
 
 [Neuronal sequences in population bursts encode information in human cortex](https://www.nature.com/articles/s41586-024-08075-8)
+
+[When Does Perceptual Alignment Benefit Vision Representations?](https://arxiv.org/abs/2410.10817)
