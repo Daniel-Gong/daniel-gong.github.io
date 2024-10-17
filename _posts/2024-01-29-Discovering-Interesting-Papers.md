@@ -852,3 +852,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models](https://arxiv.org/abs/2307.03762)
 
 [Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
+
+[Neuronal sequences in population bursts encode information in human cortex](https://www.nature.com/articles/s41586-024-08075-8)
