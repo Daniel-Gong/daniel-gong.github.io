@@ -855,4 +855,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Neuronal sequences in population bursts encode information in human cortex](https://www.nature.com/articles/s41586-024-08075-8)
 
+**10.17**
+
 [When Does Perceptual Alignment Benefit Vision Representations?](https://arxiv.org/abs/2410.10817)
