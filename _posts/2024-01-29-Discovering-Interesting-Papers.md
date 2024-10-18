@@ -862,3 +862,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.18**
 
 [Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543)
+
+[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
