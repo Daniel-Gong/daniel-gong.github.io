@@ -858,3 +858,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.17**
 
 [When Does Perceptual Alignment Benefit Vision Representations?](https://arxiv.org/abs/2410.10817)
+
+**10.18**
+
+[Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543)
