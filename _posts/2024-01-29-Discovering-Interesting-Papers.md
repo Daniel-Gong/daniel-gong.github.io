@@ -864,3 +864,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543)
 
 [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
+
+[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)
+
+[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)
+
+[Donders is dead: cortical traveling waves and the limits of mental chronometry in cognitive neuroscience](https://link.springer.com/article/10.1007/s10339-015-0662-4)
