@@ -806,3 +806,55 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2410.05229)
 
 [Intelligence at the Edge of Chaos](https://www.arxiv.org/abs/2410.02536)
+
+**10.13**
+
+[Why the simplest explanation isn’t always the best](https://www.pnas.org/doi/10.1073/pnas.2319169120)
+
+**10.14**
+
+[Meta Movie Gen](https://ai.meta.com/static-resource/movie-gen-research-paper)
+
+[Interpretable Recurrent Neural Networks in Continuous-time Control Environments](https://repositum.tuwien.at/bitstream/20.500.12708/1068/2/Hasani%20Ramin%20-%202020%20-%20Interpretable%20recurrent%20neural%20networks%20in%20continuous-time...pdf)
+
+[From Liquid Neural Networks to Liquid Foundation Models](https://www.liquid.ai/blog/liquid-neural-networks-research)
+
+[Humans actively reconfigure neural task states](https://www.biorxiv.org/content/10.1101/2024.09.29.615736v3)
+
+[OptPDE: Discovering Novel Integrable Systems via AI-Human Collaboration](https://arxiv.org/abs/2405.04484)
+
+[Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7)
+
+**10.15**
+
+[The relational bottleneck as an inductive bias for efficient abstraction: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00080-9)
+
+[Turning large language models into cognitive models](https://openreview.net/forum?id=eiC4BKypf1)
+
+[Comunication-Efficient Algorithms for Statistical Optimization](https://arxiv.org/abs/1209.4129)
+
+[Compositionality Decomposed: How do Neural Networks Generalise?](https://jair.org/index.php/jair/article/view/11674/26576)
+
+[Visualisation and 'Diagnostic Classifiers' Reveal How Recurrent and Recursive Neural Networks Process Hierarchical Structure](https://jair.org/index.php/jair/article/view/11196/26408)
+
+[NeuroAI critique: What have we learned about artificial intelligence from studying the brain?](https://link.springer.com/article/10.1007/s00422-024-00983-2#:~:text=It%20has%20been%20argued%20that,mostly%20in%20the%20other%20direction.)
+
+[Tackling the Abstraction and Reasoning Corpus with Vision Transformers: the Importance of 2D Representation, Positions, and Objects](https://arxiv.org/abs/2410.06405)
+
+[Nature Portfolio collection: Nobel Prize in Physics 2024](https://www.nature.com/collections/ehbjaifcgc)
+
+[Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling](https://arxiv.org/abs/2410.06366)
+
+[Everything You Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+
+**10.16**
+
+[Brain in a Vat: On Missing Pieces Towards Artificial General Intelligence in Large Language Models](https://arxiv.org/abs/2307.03762)
+
+[Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
+
+[Neuronal sequences in population bursts encode information in human cortex](https://www.nature.com/articles/s41586-024-08075-8)
+
+**10.17**
+
+[When Does Perceptual Alignment Benefit Vision Representations?](https://arxiv.org/abs/2410.10817)
