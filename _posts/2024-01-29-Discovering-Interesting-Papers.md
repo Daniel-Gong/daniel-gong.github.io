@@ -872,3 +872,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.19**
 
 [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
+
+**10.21**
+
+[Not-So-CLEVR: learning same–different relations strains feedforward neural networks](https://royalsocietypublishing.org/doi/10.1098/rsfs.2018.0011)
