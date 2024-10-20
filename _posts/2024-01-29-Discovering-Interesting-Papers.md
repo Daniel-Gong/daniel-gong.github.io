@@ -882,3 +882,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Measuring abstract reasoning in neural networks](https://arxiv.org/abs/1807.04225)
 
 [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741)
+
+[Interpretable statistical representations of neural population dynamics and geometry](https://arxiv.org/abs/2304.03376v4)
