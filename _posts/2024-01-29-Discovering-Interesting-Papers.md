@@ -878,3 +878,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Not-So-CLEVR: learning same–different relations strains feedforward neural networks](https://royalsocietypublishing.org/doi/10.1098/rsfs.2018.0011)
 
 [Hierarchical Working Memory and a New Magic Number](https://arxiv.org/abs/2408.07637)
+
+[Measuring abstract reasoning in neural networks](https://arxiv.org/abs/1807.04225)
+
+[RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741)
