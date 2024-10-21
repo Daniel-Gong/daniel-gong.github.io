@@ -890,3 +890,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Neural mechanisms of binding in the hippocampus and neocortex: Insights from computational models](https://academic.oup.com/book/34733/chapter-abstract/296519678?redirectedFrom=fulltext)
 
 [Tensor product variable binding and the representation of symbolic structures in connectionist systems](https://www.sciencedirect.com/science/article/abs/pii/000437029090007M)
+
+[Is Activity Silent Working Memory Simply Episodic Memory?: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(21\)00005-X)
