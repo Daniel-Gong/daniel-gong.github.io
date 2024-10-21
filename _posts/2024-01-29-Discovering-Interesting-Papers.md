@@ -873,7 +873,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
 
-**10.21**
+**10.20**
 
 [Not-So-CLEVR: learning same–different relations strains feedforward neural networks](https://royalsocietypublishing.org/doi/10.1098/rsfs.2018.0011)
 
@@ -898,3 +898,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System | Journal of Computational Neuroscience](https://link.springer.com/article/10.1023/A:1011233530729)
 
 [Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape](https://arxiv.org/abs/2402.01258)
+
+**10.21**
+
+[Possible principles for aligned structure learning agents](https://arxiv.org/abs/2410.00258)
+
+["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI](https://arxiv.org/abs/2410.08526)
