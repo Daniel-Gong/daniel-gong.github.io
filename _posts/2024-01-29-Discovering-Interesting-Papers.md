@@ -858,3 +858,43 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.17**
 
 [When Does Perceptual Alignment Benefit Vision Representations?](https://arxiv.org/abs/2410.10817)
+
+**10.18**
+
+[Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543)
+
+[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
+
+[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)
+
+[Donders is dead: cortical traveling waves and the limits of mental chronometry in cognitive neuroscience](https://link.springer.com/article/10.1007/s10339-015-0662-4)
+
+**10.19**
+
+[Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
+
+**10.21**
+
+[Not-So-CLEVR: learning same–different relations strains feedforward neural networks](https://royalsocietypublishing.org/doi/10.1098/rsfs.2018.0011)
+
+[Hierarchical Working Memory and a New Magic Number](https://arxiv.org/abs/2408.07637)
+
+[Measuring abstract reasoning in neural networks](https://arxiv.org/abs/1807.04225)
+
+[RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741)
+
+[Interpretable statistical representations of neural population dynamics and geometry](https://arxiv.org/abs/2304.03376v4)
+
+[An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307)
+
+[Neural mechanisms of binding in the hippocampus and neocortex: Insights from computational models](https://academic.oup.com/book/34733/chapter-abstract/296519678?redirectedFrom=fulltext)
+
+[Tensor product variable binding and the representation of symbolic structures in connectionist systems](https://www.sciencedirect.com/science/article/abs/pii/000437029090007M)
+
+[Is Activity Silent Working Memory Simply Episodic Memory?: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(21\)00005-X)
+
+[Discovering neural policies to drive behaviour by integrating deep reinforcement learning agents with biological neural networks](https://www.nature.com/articles/s42256-024-00854-2)
+
+[A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System | Journal of Computational Neuroscience](https://link.springer.com/article/10.1023/A:1011233530729)
+
+[Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape](https://arxiv.org/abs/2402.01258)
