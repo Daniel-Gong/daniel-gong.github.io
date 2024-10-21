@@ -886,3 +886,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Interpretable statistical representations of neural population dynamics and geometry](https://arxiv.org/abs/2304.03376v4)
 
 [An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307)
+
+[Neural mechanisms of binding in the hippocampus and neocortex: Insights from computational models](https://academic.oup.com/book/34733/chapter-abstract/296519678?redirectedFrom=fulltext)
+
+[Tensor product variable binding and the representation of symbolic structures in connectionist systems](https://www.sciencedirect.com/science/article/abs/pii/000437029090007M)
