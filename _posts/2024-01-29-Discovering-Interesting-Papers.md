@@ -894,3 +894,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Is Activity Silent Working Memory Simply Episodic Memory?: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(21\)00005-X)
 
 [Discovering neural policies to drive behaviour by integrating deep reinforcement learning agents with biological neural networks](https://www.nature.com/articles/s42256-024-00854-2)
+
+[A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System | Journal of Computational Neuroscience](https://link.springer.com/article/10.1023/A:1011233530729)
+
+[Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape](https://arxiv.org/abs/2402.01258)
