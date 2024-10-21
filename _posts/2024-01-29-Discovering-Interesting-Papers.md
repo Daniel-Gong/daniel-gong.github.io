@@ -892,3 +892,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Tensor product variable binding and the representation of symbolic structures in connectionist systems](https://www.sciencedirect.com/science/article/abs/pii/000437029090007M)
 
 [Is Activity Silent Working Memory Simply Episodic Memory?: Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(21\)00005-X)
+
+[Discovering neural policies to drive behaviour by integrating deep reinforcement learning agents with biological neural networks](https://www.nature.com/articles/s42256-024-00854-2)
