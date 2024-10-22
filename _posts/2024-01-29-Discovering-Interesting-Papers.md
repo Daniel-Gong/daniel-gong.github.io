@@ -906,3 +906,21 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI](https://arxiv.org/abs/2410.08526)
 
 [Probabilistic Principles for Biophysics and Neuroscience: Entropy Production, Bayesian Mechanics & the Free-Energy Principle](https://arxiv.org/abs/2410.11735)
+
+**10.22**
+
+[Some properties of an associative memory model using the Boltzmann machine learning | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/714271)
+
+[Synaptic Mechanisms and Network Dynamics Underlying Spatial Working Memory in a Cortical Network Model](https://academic.oup.com/cercor/article-abstract/10/9/910/289091?redirectedFrom=fulltext&login=false#no-access-message#no-access-message)
+
+[Statistical Mechanics, Neural Networks, and Artificial Intelligence: Using Powerful Brain Strategies to Improve AI](https://themesis.com/Downloads/Chpt-9-Intro-Hopfield-and-Boltzmann-machine-2024-01-08.pdf)
+
+[Continuous attractors for dynamic memories](https://elifesciences.org/articles/69499#content)
+
+[Artificial Neural Networks for Neuroscientists: A Primer](https://www.cell.com/neuron/fulltext/S0896-6273\(20\)30705-4)
+
+[Deep Boltzmann Machines](https://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
+
+[optimal perceptual inference](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b89e9f0cef5ace08946a7c07bf7284854c418445)
+
+[Notes on Quadratic Forms](https://rmi.tsu.ge/~kade/LecturesT.Kadeishvili/MathEconomics/Term3/Week3QuadraticLEC.pdf)
