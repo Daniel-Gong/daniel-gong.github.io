@@ -904,3 +904,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Possible principles for aligned structure learning agents](https://arxiv.org/abs/2410.00258)
 
 ["I Am the One and Only, Your Cyber BFF": Understanding the Impact of GenAI Requires Understanding the Impact of Anthropomorphic AI](https://arxiv.org/abs/2410.08526)
+
+[Probabilistic Principles for Biophysics and Neuroscience: Entropy Production, Bayesian Mechanics & the Free-Energy Principle](https://arxiv.org/abs/2410.11735)
