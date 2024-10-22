@@ -926,3 +926,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Notes on Quadratic Forms](https://rmi.tsu.ge/~kade/LecturesT.Kadeishvili/MathEconomics/Term3/Week3QuadraticLEC.pdf)
 
 [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+
+[Position: Maximizing Neural Regression Scores May Not Identify Good Models of the Brain](https://openreview.net/forum?id=vbtj05J68r#discussion)
