@@ -924,3 +924,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [optimal perceptual inference](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b89e9f0cef5ace08946a7c07bf7284854c418445)
 
 [Notes on Quadratic Forms](https://rmi.tsu.ge/~kade/LecturesT.Kadeishvili/MathEconomics/Term3/Week3QuadraticLEC.pdf)
+
+[On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
