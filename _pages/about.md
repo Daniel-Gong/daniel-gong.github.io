@@ -13,9 +13,9 @@ Before transferring to Yale, I was a PhD student at the University of Oxford. I 
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
-I am updating a list of [interesting NeuroAI/CompNeuro/miscellaneous readings](https://daniel-gong.github.io/posts/2024/neuroai-readings/).
+I am updating a list of [interesting NeuroAI/CompNeuro readings](https://daniel-gong.github.io/posts/2024/neuroai-readings/).
 
-Before graduate school, I studied psychology and computer science at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with highest honors.
+Before graduate school, I studied psychology and computer science at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with highest honors. A book chapter about me can be found in [Youth Profiles of Tsinghua](https://www.amazon.com/%E6%B8%85%E5%8D%8E%E5%B0%91%E5%B9%B4%E8%AF%B4-%E7%AC%AC6%E8%BE%91-%E5%8C%BF%E5%90%8D/dp/7302591709). An interview can be found on the [website of Tsinghua University News](https://www.tsinghua.edu.cn/info/1181/85313.htm).
 
 In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I also love sci-fi, photography, and piano music.
 
