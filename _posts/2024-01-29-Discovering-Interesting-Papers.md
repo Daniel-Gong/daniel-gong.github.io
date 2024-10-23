@@ -930,3 +930,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Position: Maximizing Neural Regression Scores May Not Identify Good Models of the Brain](https://openreview.net/forum?id=vbtj05J68r#discussion)
 
 [Artificial and Natural Intelligence: From Invention to Discovery](https://www.sciencedirect.com/science/article/pii/S0896627320300404)
+
+[A Phenomenological AI Foundation Model for Physical Signals](https://cdn.prod.website-files.com/669fb9b0365257a2d64b9744/671062d53917e78989931495_Phenomenological%20AI%20Foundation%20Model%202024.pdf)
