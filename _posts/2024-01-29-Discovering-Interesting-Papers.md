@@ -928,3 +928,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 
 [Position: Maximizing Neural Regression Scores May Not Identify Good Models of the Brain](https://openreview.net/forum?id=vbtj05J68r#discussion)
+
+[Artificial and Natural Intelligence: From Invention to Discovery](https://www.sciencedirect.com/science/article/pii/S0896627320300404)
