@@ -932,3 +932,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Artificial and Natural Intelligence: From Invention to Discovery](https://www.sciencedirect.com/science/article/pii/S0896627320300404)
 
 [A Phenomenological AI Foundation Model for Physical Signals](https://cdn.prod.website-files.com/669fb9b0365257a2d64b9744/671062d53917e78989931495_Phenomenological%20AI%20Foundation%20Model%202024.pdf)
+
+**10.23**
+
+[Vector Calculus Notes](https://www.damtp.cam.ac.uk/user/tong/vc/vc.pdf)
+
+[Generating realistic neurophysiological time series with denoising diffusion probabilistic models](https://www.cell.com/patterns/fulltext/S2666-3899\(24\)00189-2)
+
+[What Matters in Transformers? Not All Attention is Needed](https://arxiv.org/abs/2406.15786)
