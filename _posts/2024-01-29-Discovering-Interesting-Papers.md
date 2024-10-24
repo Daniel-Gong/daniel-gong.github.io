@@ -946,3 +946,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Looking Inward: Language Models Can Learn About Themselves by Introspection](https://arxiv.org/abs/2410.13787)
 
 [Modern Quantum Mechanics.pdf](https://www.fisica.net/mecanica-quantica/Sakurai%20-%20Modern%20Quantum%20Mechanics.pdf)
+
+[Adaptation in Natural and Artificial Systems](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
