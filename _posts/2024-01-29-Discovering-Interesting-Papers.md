@@ -950,3 +950,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Adaptation in Natural and Artificial Systems](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
 
 [Building machines that learn and think with people](https://www.nature.com/articles/s41562-024-01991-9)
+
+[Network model with internal complexity bridges artificial intelligence and neuroscience](https://www.nature.com/articles/s43588-024-00674-9)
