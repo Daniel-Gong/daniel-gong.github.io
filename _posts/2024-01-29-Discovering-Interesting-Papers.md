@@ -940,3 +940,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Generating realistic neurophysiological time series with denoising diffusion probabilistic models](https://www.cell.com/patterns/fulltext/S2666-3899\(24\)00189-2)
 
 [What Matters in Transformers? Not All Attention is Needed](https://arxiv.org/abs/2406.15786)
+
+[Can the brain do backpropagation?---exact implementation of backpropagation in predictive coding networks](https://www.mrcbndu.ox.ac.uk/sites/default/files/Song%20et%20al%202020%20Adv%20Neural%20Inf%20Proceess%20Syst_NeurIPS-2020.pdf)
+
+[Looking Inward: Language Models Can Learn About Themselves by Introspection](https://arxiv.org/abs/2410.13787)
+
+[Modern Quantum Mechanics.pdf](https://www.fisica.net/mecanica-quantica/Sakurai%20-%20Modern%20Quantum%20Mechanics.pdf)
