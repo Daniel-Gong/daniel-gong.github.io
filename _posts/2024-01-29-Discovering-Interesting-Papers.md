@@ -948,3 +948,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Modern Quantum Mechanics.pdf](https://www.fisica.net/mecanica-quantica/Sakurai%20-%20Modern%20Quantum%20Mechanics.pdf)
 
 [Adaptation in Natural and Artificial Systems](https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/)
+
+[Building machines that learn and think with people](https://www.nature.com/articles/s41562-024-01991-9)
