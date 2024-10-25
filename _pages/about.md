@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Dongyu Gong! I am currently a PhD student studying neuroscience at Yale University.
+Hi, I'm Dongyu Gong! I am currently a PhD student at Yale University.
 
 Before transferring to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor got a new position at Yale.
 
