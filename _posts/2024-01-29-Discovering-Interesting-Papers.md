@@ -962,3 +962,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328v1)
 
 [OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
+
+[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)
