@@ -960,3 +960,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Deep learning and renormalization group](https://re-ra.xyz/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%92%8C%E9%87%8D%E6%95%B4%E5%8C%96%E7%BE%A4/)
 
 [Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328v1)
+
+[OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
