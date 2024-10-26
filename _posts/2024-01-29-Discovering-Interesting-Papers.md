@@ -956,3 +956,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.25**
 
 [Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck](https://arxiv.org/abs/2306.14838)
+
+[Deep learning and renormalization group](https://re-ra.xyz/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%92%8C%E9%87%8D%E6%95%B4%E5%8C%96%E7%BE%A4/)
