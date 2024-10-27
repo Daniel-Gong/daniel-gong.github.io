@@ -974,3 +974,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck](https://arxiv.org/pdf/2306.14838)
 
 [Information decomposition and the informational architecture of the brain](https://www.sciencedirect.com/science/article/pii/S136466132300284X?via%3Dihub)
+
+[The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+
+[explained.ai](https://explained.ai/)
