@@ -895,7 +895,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Discovering neural policies to drive behaviour by integrating deep reinforcement learning agents with biological neural networks](https://www.nature.com/articles/s42256-024-00854-2)
 
-[A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System | Journal of Computational Neuroscience](https://link.springer.com/article/10.1023/A:1011233530729)
+[A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System](https://link.springer.com/article/10.1023/A:1011233530729)
 
 [Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape](https://arxiv.org/abs/2402.01258)
 
@@ -909,7 +909,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **10.22**
 
-[Some properties of an associative memory model using the Boltzmann machine learning | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/714271)
+[Some properties of an associative memory model using the Boltzmann machine learning](https://ieeexplore.ieee.org/document/714271)
 
 [Synaptic Mechanisms and Network Dynamics Underlying Spatial Working Memory in a Cortical Network Model](https://academic.oup.com/cercor/article-abstract/10/9/910/289091?redirectedFrom=fulltext&login=false#no-access-message#no-access-message)
 
