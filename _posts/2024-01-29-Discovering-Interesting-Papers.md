@@ -968,3 +968,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.26**
 
 [Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers](https://www.nature.com/articles/s41467-024-53375-2)
+
+[The new NeuroAI](https://www.nature.com/articles/s42256-024-00826-6)
