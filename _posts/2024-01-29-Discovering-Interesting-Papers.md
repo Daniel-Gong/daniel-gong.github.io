@@ -978,3 +978,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
 
 [explained.ai](https://explained.ai/)
+
+**10.27**
+
+[Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
