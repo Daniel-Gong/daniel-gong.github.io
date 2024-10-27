@@ -964,3 +964,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
 
 [Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)
+
+**10.26**
+
+[Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers](https://www.nature.com/articles/s41467-024-53375-2)
