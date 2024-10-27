@@ -970,3 +970,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers](https://www.nature.com/articles/s41467-024-53375-2)
 
 [The new NeuroAI](https://www.nature.com/articles/s42256-024-00826-6)
+
+[Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck](https://arxiv.org/pdf/2306.14838)
+
+[Information decomposition and the informational architecture of the brain](https://www.sciencedirect.com/science/article/pii/S136466132300284X?via%3Dihub)
