@@ -982,3 +982,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.27**
 
 [Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
+
+[Future views on neuroscience and AI](https://www.cell.com/cell/fulltext/S0092-8674\(24\)01089-4)
