@@ -992,3 +992,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Interpretable Recurrent Neural Networks in Continuous-time Control Environments](https://www.raminhasani.com/wp-content/uploads/2020/06/Interpretable-Recurrent-Neural-Networks-in-Continuous-time-Control-Environments.pdf)
 
 [The physics of representation](https://link.springer.com/article/10.1007/s11229-020-02793-y)
+
+**10.29**
+
+[A prescriptive theory for brain-like inference](https://arxiv.org/abs/2410.19315)
