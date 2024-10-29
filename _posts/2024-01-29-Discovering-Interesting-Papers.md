@@ -986,3 +986,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Future views on neuroscience and AI](https://www.cell.com/cell/fulltext/S0092-8674\(24\)01089-4)
 
 [LeanAgent: Lifelong Learning for Formal Theorem Proving](https://arxiv.org/abs/2410.06209)
+
+**10.28**
+
+[Interpretable Recurrent Neural Networks in Continuous-time Control Environments](https://www.raminhasani.com/wp-content/uploads/2020/06/Interpretable-Recurrent-Neural-Networks-in-Continuous-time-Control-Environments.pdf)
+
+[The physics of representation](https://link.springer.com/article/10.1007/s11229-020-02793-y)
