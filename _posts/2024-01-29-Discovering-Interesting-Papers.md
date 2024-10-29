@@ -895,7 +895,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Discovering neural policies to drive behaviour by integrating deep reinforcement learning agents with biological neural networks](https://www.nature.com/articles/s42256-024-00854-2)
 
-[A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System | Journal of Computational Neuroscience](https://link.springer.com/article/10.1023/A:1011233530729)
+[A Neurodynamical Model of Visual Attention: Feedback Enhancement of Spatial Resolution in a Hierarchical System](https://link.springer.com/article/10.1023/A:1011233530729)
 
 [Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape](https://arxiv.org/abs/2402.01258)
 
@@ -909,7 +909,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 **10.22**
 
-[Some properties of an associative memory model using the Boltzmann machine learning | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/714271)
+[Some properties of an associative memory model using the Boltzmann machine learning](https://ieeexplore.ieee.org/document/714271)
 
 [Synaptic Mechanisms and Network Dynamics Underlying Spatial Working Memory in a Cortical Network Model](https://academic.oup.com/cercor/article-abstract/10/9/910/289091?redirectedFrom=fulltext&login=false#no-access-message#no-access-message)
 
@@ -952,3 +952,43 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Building machines that learn and think with people](https://www.nature.com/articles/s41562-024-01991-9)
 
 [Network model with internal complexity bridges artificial intelligence and neuroscience](https://www.nature.com/articles/s43588-024-00674-9)
+
+**10.25**
+
+[Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck](https://arxiv.org/abs/2306.14838)
+
+[Deep learning and renormalization group](https://re-ra.xyz/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%92%8C%E9%87%8D%E6%95%B4%E5%8C%96%E7%BE%A4/)
+
+[Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328v1)
+
+[OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
+
+[Robust agents learn causal world models](https://arxiv.org/abs/2402.10877)
+
+**10.26**
+
+[Trainees’ perspectives and recommendations for catalyzing the next generation of NeuroAI researchers](https://www.nature.com/articles/s41467-024-53375-2)
+
+[The new NeuroAI](https://www.nature.com/articles/s42256-024-00826-6)
+
+[Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck](https://arxiv.org/pdf/2306.14838)
+
+[Information decomposition and the informational architecture of the brain](https://www.sciencedirect.com/science/article/pii/S136466132300284X?via%3Dihub)
+
+[The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+
+[explained.ai](https://explained.ai/)
+
+**10.27**
+
+[Averaging is a convenient fiction of neuroscience](https://www.thetransmitter.org/neural-coding/averaging-is-a-convenient-fiction-of-neuroscience/)
+
+[Future views on neuroscience and AI](https://www.cell.com/cell/fulltext/S0092-8674\(24\)01089-4)
+
+[LeanAgent: Lifelong Learning for Formal Theorem Proving](https://arxiv.org/abs/2410.06209)
+
+**10.28**
+
+[Interpretable Recurrent Neural Networks in Continuous-time Control Environments](https://www.raminhasani.com/wp-content/uploads/2020/06/Interpretable-Recurrent-Neural-Networks-in-Continuous-time-Control-Environments.pdf)
+
+[The physics of representation](https://link.springer.com/article/10.1007/s11229-020-02793-y)
