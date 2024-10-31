@@ -1024,3 +1024,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning](https://arxiv.org/abs/2109.02869)
 
 [Statistical mechanics of complex neural systems and high dimensional data](https://arxiv.org/abs/1301.7115)
+
+[Centaur: a foundation model of human cognition](https://arxiv.org/abs/2410.20268)
