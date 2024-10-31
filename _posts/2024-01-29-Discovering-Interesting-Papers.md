@@ -1020,3 +1020,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Understanding Transformer Reasoning Capabilities via Graph Algorithms](https://arxiv.org/abs/2405.18512)
 
 [Transformers, parallel computation, and logarithmic depth](https://arxiv.org/pdf/2402.09268)
+
+[The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning](https://arxiv.org/abs/2109.02869)
+
+[Statistical mechanics of complex neural systems and high dimensional data](https://arxiv.org/abs/1301.7115)
