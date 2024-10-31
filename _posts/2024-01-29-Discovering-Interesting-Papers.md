@@ -1012,3 +1012,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.31**
 
 [Towards Understanding Grokking: An Effective Theory of Representation Learning](https://arxiv.org/abs/2205.10343)
+
+[Theoretical Limitations of Self-Attention in Neural Sequence Models](https://aclanthology.org/2020.tacl-1.11/)
+
+[Representational Strengths and Limitations of Transformers](https://openreview.net/forum?id=36DxONZ9bA)
+
+[Understanding Transformer Reasoning Capabilities via Graph Algorithms](https://arxiv.org/abs/2405.18512)
+
+[Transformers, parallel computation, and logarithmic depth](https://arxiv.org/pdf/2402.09268)
