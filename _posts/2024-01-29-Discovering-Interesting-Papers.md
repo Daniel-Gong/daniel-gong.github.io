@@ -1004,3 +1004,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Supervised Fine-tuning: customizing LLMs](https://medium.com/mantisnlp/supervised-fine-tuning-customizing-llms-a2c1edbf22c3)
 
 [Continuous Attractor Neural Networks: Candidate of a Canonical Model for Neural Information Representation](https://www.semanticscholar.org/reader/9bd6f45364067c8ebf296fc374087f8f7f797fa4)
+
+[Cross-Entropy Is All You Need To Invert the Data Generating Process](https://arxiv.org/abs/2410.21869)
