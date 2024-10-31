@@ -1006,3 +1006,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Continuous Attractor Neural Networks: Candidate of a Canonical Model for Neural Information Representation](https://www.semanticscholar.org/reader/9bd6f45364067c8ebf296fc374087f8f7f797fa4)
 
 [Cross-Entropy Is All You Need To Invert the Data Generating Process](https://arxiv.org/abs/2410.21869)
+
+[Toward Generalizing Visual Brain Decoding to Unseen Subjects](https://arxiv.org/abs/2410.14445)
