@@ -996,3 +996,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.29**
 
 [A prescriptive theory for brain-like inference](https://arxiv.org/abs/2410.19315)
+
+**10.30**
+
+[Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
+
+[Supervised Fine-tuning: customizing LLMs](https://medium.com/mantisnlp/supervised-fine-tuning-customizing-llms-a2c1edbf22c3)
