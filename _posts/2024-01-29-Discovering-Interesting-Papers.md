@@ -1008,3 +1008,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Cross-Entropy Is All You Need To Invert the Data Generating Process](https://arxiv.org/abs/2410.21869)
 
 [Toward Generalizing Visual Brain Decoding to Unseen Subjects](https://arxiv.org/abs/2410.14445)
+
+**10.31**
+
+[Towards Understanding Grokking: An Effective Theory of Representation Learning](https://arxiv.org/abs/2205.10343)
