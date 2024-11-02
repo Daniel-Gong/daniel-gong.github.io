@@ -1030,3 +1030,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.1**
 
 [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
+
+[A neural machine code and programming framework for the reservoir computer](https://www.nature.com/articles/s42256-023-00668-8)
