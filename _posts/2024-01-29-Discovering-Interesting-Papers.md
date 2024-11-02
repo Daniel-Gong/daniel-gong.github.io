@@ -1026,3 +1026,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Statistical mechanics of complex neural systems and high dimensional data](https://arxiv.org/abs/1301.7115)
 
 [Centaur: a foundation model of human cognition](https://arxiv.org/abs/2410.20268)
+
+**11.1**
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
