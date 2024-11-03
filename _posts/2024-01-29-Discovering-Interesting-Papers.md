@@ -1041,3 +1041,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Large Language Models as Markov Chains](https://arxiv.org/abs/2410.02724)
 
 [The Ghost in the Quantum Turing Machine](https://arxiv.org/abs/1306.0159)
+
+[Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis](https://arxiv.org/abs/2406.13762)
