@@ -1034,4 +1034,8 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.2**
 [A neural machine code and programming framework for the reservoir computer](https://www.nature.com/articles/s42256-023-00668-8)
 
-[internal world model](https://www.cell.com/neuron/abstract/S0896-6273(24)00454-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324004549%3Fshowall%3Dtrue)
+**11.3**
+
+[Internal world models in humans, animals, and AI](https://www.cell.com/neuron/abstract/S0896-6273(24)00454-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324004549%3Fshowall%3Dtrue)
+
+[Large Language Models as Markov Chains](https://arxiv.org/abs/2410.02724)
