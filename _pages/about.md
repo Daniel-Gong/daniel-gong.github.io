@@ -15,7 +15,7 @@ I am interested in both human intelligence and machine intelligence, especially 
 
 If you are also interested in NeuroAI (neuroscience for AI and AI for neuroscience), you might be interested in this list of [NeuroAI/CompNeuro readings](https://daniel-gong.github.io/posts/2024/neuroai-readings/) that I am updating regularly.
 
-Before graduate school, I studied psychology and computer science at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with highest honors. A book chapter about me can be found in [Youth Profiles of Tsinghua（《清华少年说》第六辑）](https://www.amazon.com/%E6%B8%85%E5%8D%8E%E5%B0%91%E5%B9%B4%E8%AF%B4-%E7%AC%AC6%E8%BE%91-%E5%8C%BF%E5%90%8D/dp/7302591709). An interview can be found on the [website of Tsinghua University News](https://www.tsinghua.edu.cn/info/1181/85313.htm).
+Before graduate school, I studied psychology and computer science at [Tsinghua University](https://www.tsinghua.edu.cn/en/) and graduated with highest honors. A book chapter about me can be found in [Youth Profiles of Tsinghua](https://www.amazon.com/%E6%B8%85%E5%8D%8E%E5%B0%91%E5%B9%B4%E8%AF%B4-%E7%AC%AC6%E8%BE%91-%E5%8C%BF%E5%90%8D/dp/7302591709). An interview can be found on the [website of Tsinghua University News](https://www.tsinghua.edu.cn/info/1181/85313.htm).
 
 In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I also love sci-fi, photography, and piano music.
 
