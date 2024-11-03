@@ -996,3 +996,39 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **10.29**
 
 [A prescriptive theory for brain-like inference](https://arxiv.org/abs/2410.19315)
+
+**10.30**
+
+[Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
+
+[Supervised Fine-tuning: customizing LLMs](https://medium.com/mantisnlp/supervised-fine-tuning-customizing-llms-a2c1edbf22c3)
+
+[Continuous Attractor Neural Networks: Candidate of a Canonical Model for Neural Information Representation](https://www.semanticscholar.org/reader/9bd6f45364067c8ebf296fc374087f8f7f797fa4)
+
+[Cross-Entropy Is All You Need To Invert the Data Generating Process](https://arxiv.org/abs/2410.21869)
+
+[Toward Generalizing Visual Brain Decoding to Unseen Subjects](https://arxiv.org/abs/2410.14445)
+
+**10.31**
+
+[Towards Understanding Grokking: An Effective Theory of Representation Learning](https://arxiv.org/abs/2205.10343)
+
+[Theoretical Limitations of Self-Attention in Neural Sequence Models](https://aclanthology.org/2020.tacl-1.11/)
+
+[Representational Strengths and Limitations of Transformers](https://openreview.net/forum?id=36DxONZ9bA)
+
+[Understanding Transformer Reasoning Capabilities via Graph Algorithms](https://arxiv.org/abs/2405.18512)
+
+[Transformers, parallel computation, and logarithmic depth](https://arxiv.org/pdf/2402.09268)
+
+[The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning](https://arxiv.org/abs/2109.02869)
+
+[Statistical mechanics of complex neural systems and high dimensional data](https://arxiv.org/abs/1301.7115)
+
+[Centaur: a foundation model of human cognition](https://arxiv.org/abs/2410.20268)
+
+**11.1**
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
+
+[A neural machine code and programming framework for the reservoir computer](https://www.nature.com/articles/s42256-023-00668-8)
