@@ -1043,3 +1043,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The Ghost in the Quantum Turing Machine](https://arxiv.org/abs/1306.0159)
 
 [Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis](https://arxiv.org/abs/2406.13762)
+
+**11.4**
+
+[Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://books.google.com/books/about/Infinite_Powers.html?id=WJlPuQEACAAJ)
