@@ -1056,3 +1056,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.5**
 
 [So You Want to Be a Physicist: A 22 Part Guide](https://www.physicsforums.com/threads/so-you-want-to-be-a-physicist-a-22-part-guide.240792/)
+
+[In search of problems: Mu-Ming Poo](https://www.sciencedirect.com/science/article/pii/S0092867424010353)
