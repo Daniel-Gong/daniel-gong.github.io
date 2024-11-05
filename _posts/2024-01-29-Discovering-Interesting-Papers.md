@@ -1048,3 +1048,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.4**
 
 [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://books.google.com/books/about/Infinite_Powers.html?id=WJlPuQEACAAJ)
+
+[Foundation model of neural activity predicts response to new stimulus types and anatomy](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v4)
