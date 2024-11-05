@@ -1052,3 +1052,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Foundation model of neural activity predicts response to new stimulus types and anatomy](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v4)
 
 [The little book of deep learning](https://fleuret.org/public/lbdl.pdf)
+
+**11.5**
+
+[So You Want to Be a Physicist: A 22 Part Guide](https://www.physicsforums.com/threads/so-you-want-to-be-a-physicist-a-22-part-guide.240792/)
