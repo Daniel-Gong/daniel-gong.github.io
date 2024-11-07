@@ -1058,3 +1058,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [So You Want to Be a Physicist: A 22 Part Guide](https://www.physicsforums.com/threads/so-you-want-to-be-a-physicist-a-22-part-guide.240792/)
 
 [In search of problems: Mu-Ming Poo](https://www.sciencedirect.com/science/article/pii/S0092867424010353)
+
+**11.6**
+
+[Letter on: A Natural AI Based on The Science of Computational Physics, Biology and Neuroscience: Policy and Societal Significance](https://bostonglobalforum.org/news/letter-on-a-natural-ai-based-on-the-science-of-computational-physics-biology-and-neuroscience-policy-and-societal-significance/)
