@@ -1062,3 +1062,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.6**
 
 [Letter on: A Natural AI Based on The Science of Computational Physics, Biology and Neuroscience: Policy and Societal Significance](https://bostonglobalforum.org/news/letter-on-a-natural-ai-based-on-the-science-of-computational-physics-biology-and-neuroscience-policy-and-societal-significance/)
+
+[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
+
+[Neural Ordinary Differential Equations](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)
