@@ -1082,3 +1082,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Offline ensemble co-reactivation links memories across days](https://www.nature.com/articles/s41586-024-08168-4)
 
 [Physical computing: a category theoretic perspective on physical computation and system compositionality](https://iopscience.iop.org/article/10.1088/2632-072X/ad6051)
+
+[Book Of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
+
+[A cellular basis for mapping behavioural structure](https://www.nature.com/articles/s41586-024-08145-x)
