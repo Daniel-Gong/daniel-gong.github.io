@@ -1066,3 +1066,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
 
 [Neural Ordinary Differential Equations](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)
+
+**11.7**
+
+[Imagining and building wise machines: The centrality of AI metacognition](https://arxiv.org/abs/2411.02478)
+
+[Understanding cognitive processes across spatial scales of the brain](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00252-3)
