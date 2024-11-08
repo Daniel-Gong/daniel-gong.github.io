@@ -1078,3 +1078,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
 
 [Learning to Reason with Third-Order Tensor Products](https://arxiv.org/abs/1811.12143)
+
+[Offline ensemble co-reactivation links memories across days](https://www.nature.com/articles/s41586-024-08168-4)
+
+[Physical computing: a category theoretic perspective on physical computation and system compositionality](https://iopscience.iop.org/article/10.1088/2632-072X/ad6051)
