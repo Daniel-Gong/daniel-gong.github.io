@@ -1072,3 +1072,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Imagining and building wise machines: The centrality of AI metacognition](https://arxiv.org/abs/2411.02478)
 
 [Understanding cognitive processes across spatial scales of the brain](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00252-3)
+
+**11.8**
+
+[Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
