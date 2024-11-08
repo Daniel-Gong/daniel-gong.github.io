@@ -1086,3 +1086,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Book Of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
 
 [A cellular basis for mapping behavioural structure](https://www.nature.com/articles/s41586-024-08145-x)
+
+[Computational role of structure in neural activity and connectivity](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(24\)00056-1)
+
+[Visual attention methods in deep learning: An in-depth survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253524001957)
