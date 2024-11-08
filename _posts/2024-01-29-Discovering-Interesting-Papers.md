@@ -1076,3 +1076,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.8**
 
 [Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
+
+[Learning to Reason with Third-Order Tensor Products](https://arxiv.org/abs/1811.12143)
