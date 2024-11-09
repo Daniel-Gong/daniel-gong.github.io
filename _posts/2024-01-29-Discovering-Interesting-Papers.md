@@ -1090,3 +1090,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Computational role of structure in neural activity and connectivity](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(24\)00056-1)
 
 [Visual attention methods in deep learning: An in-depth survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253524001957)
+
+**11.9**
+
+[Beyond networks, towards adaptive systems](https://arxiv.org/abs/2411.03621)
