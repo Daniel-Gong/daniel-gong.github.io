@@ -1094,3 +1094,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.9**
 
 [Beyond networks, towards adaptive systems](https://arxiv.org/abs/2411.03621)
+
+[Artificial Intelligence, Scientific Discovery, and Product Innovation](https://aidantr.github.io/files/AI_innovation.pdf)
