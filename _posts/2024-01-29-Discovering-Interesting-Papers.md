@@ -1096,3 +1096,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Beyond networks, towards adaptive systems](https://arxiv.org/abs/2411.03621)
 
 [Artificial Intelligence, Scientific Discovery, and Product Innovation](https://aidantr.github.io/files/AI_innovation.pdf)
+
+[Certified Deductive Reasoning with Language Models](https://arxiv.org/abs/2306.04031)
+
+[Scaling Continuous Latent Variable Models as Probabilistic Integral Circuits](https://arxiv.org/pdf/2406.06494)
+
+[PhD Thesis: Exploring the role of (self-)attention in cognitive and computer vision architecture](https://arxiv.org/abs/2306.14650v2)
