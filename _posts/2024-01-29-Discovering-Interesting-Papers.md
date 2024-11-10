@@ -1102,3 +1102,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Scaling Continuous Latent Variable Models as Probabilistic Integral Circuits](https://arxiv.org/pdf/2406.06494)
 
 [PhD Thesis: Exploring the role of (self-)attention in cognitive and computer vision architecture](https://arxiv.org/abs/2306.14650v2)
+
+[Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification](https://arxiv.org/abs/2409.10944v1)
