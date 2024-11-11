@@ -1111,4 +1111,8 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Is Complexity an Illusion?](https://arxiv.org/abs/2404.07227)
 
-[The Surprising Effectiveness of Test-Time Training for Abstract Reasoning]
+[The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://ekinakyurek.github.io/papers/ttt.pdf)
+
+**11.11**
+
+[The Self-Assembling Brain: How Neural Networks Grow Smarter](https://books.google.com/books?id=DEgHEAAAQBAJ&printsec=copyright#v=onepage&q&f=false)
