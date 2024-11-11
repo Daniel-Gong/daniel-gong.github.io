@@ -1108,3 +1108,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.10**
 
 [Why Is Anything Conscious?](https://osf.io/preprints/osf/mtgn7)
+
+[Is Complexity an Illusion?](https://arxiv.org/abs/2404.07227)
+
+[The Surprising Effectiveness of Test-Time Training for Abstract Reasoning]
