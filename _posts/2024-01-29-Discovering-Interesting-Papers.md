@@ -1120,3 +1120,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.13**
 
 [Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics](https://arxiv.org/abs/2409.17693)
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
