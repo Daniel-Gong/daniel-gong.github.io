@@ -1126,3 +1126,9 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 
 [Analysis methods for large-scale neuronal recordings](https://www.science.org/doi/10.1126/science.adp7429)
+
+**11.14**
+
+[On principles of emergent organization - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0370157324001327)
+
+[Evidence for Quasicritical Brain Dynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098101)
