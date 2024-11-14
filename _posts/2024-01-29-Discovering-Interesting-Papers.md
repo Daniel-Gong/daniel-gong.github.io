@@ -1116,3 +1116,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.11**
 
 [The Self-Assembling Brain: How Neural Networks Grow Smarter](https://books.google.com/books?id=DEgHEAAAQBAJ&printsec=copyright#v=onepage&q&f=false)
+
+**11.13**
+
+[Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics](https://arxiv.org/abs/2409.17693)
