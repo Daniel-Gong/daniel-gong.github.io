@@ -1132,3 +1132,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [On principles of emergent organization - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0370157324001327)
 
 [Evidence for Quasicritical Brain Dynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098101)
+
+[Do language models need sensory grounding for meaning and understanding? – NYU Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/do-large-language-models-need-sensory-grounding-for-meaning-and-understanding/)
