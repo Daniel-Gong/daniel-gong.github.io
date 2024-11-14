@@ -1124,3 +1124,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
+
+[Analysis methods for large-scale neuronal recordings](https://www.science.org/doi/10.1126/science.adp7429)
