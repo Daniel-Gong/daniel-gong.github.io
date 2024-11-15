@@ -1031,4 +1031,106 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
 
+**11.2**
+
 [A neural machine code and programming framework for the reservoir computer](https://www.nature.com/articles/s42256-023-00668-8)
+
+**11.3**
+
+[Internal world models in humans, animals, and AI](https://www.cell.com/neuron/abstract/S0896-6273(24)00454-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324004549%3Fshowall%3Dtrue)
+
+[Large Language Models as Markov Chains](https://arxiv.org/abs/2410.02724)
+
+[The Ghost in the Quantum Turing Machine](https://arxiv.org/abs/1306.0159)
+
+[Unveiling the Hidden Structure of Self-Attention via Kernel Principal Component Analysis](https://arxiv.org/abs/2406.13762)
+
+**11.4**
+
+[Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://books.google.com/books/about/Infinite_Powers.html?id=WJlPuQEACAAJ)
+
+[Foundation model of neural activity predicts response to new stimulus types and anatomy](https://www.biorxiv.org/content/10.1101/2023.03.21.533548v4)
+
+[The little book of deep learning](https://fleuret.org/public/lbdl.pdf)
+
+**11.5**
+
+[So You Want to Be a Physicist: A 22 Part Guide](https://www.physicsforums.com/threads/so-you-want-to-be-a-physicist-a-22-part-guide.240792/)
+
+[In search of problems: Mu-Ming Poo](https://www.sciencedirect.com/science/article/pii/S0092867424010353)
+
+**11.6**
+
+[Letter on: A Natural AI Based on The Science of Computational Physics, Biology and Neuroscience: Policy and Societal Significance](https://bostonglobalforum.org/news/letter-on-a-natural-ai-based-on-the-science-of-computational-physics-biology-and-neuroscience-policy-and-societal-significance/)
+
+[On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
+
+[Neural Ordinary Differential Equations](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)
+
+**11.7**
+
+[Imagining and building wise machines: The centrality of AI metacognition](https://arxiv.org/abs/2411.02478)
+
+[Understanding cognitive processes across spatial scales of the brain](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00252-3)
+
+**11.8**
+
+[Human-level play in the game of Diplomacy by combining language models with strategic reasoning](https://www.science.org/doi/10.1126/science.ade9097)
+
+[Learning to Reason with Third-Order Tensor Products](https://arxiv.org/abs/1811.12143)
+
+[Offline ensemble co-reactivation links memories across days](https://www.nature.com/articles/s41586-024-08168-4)
+
+[Physical computing: a category theoretic perspective on physical computation and system compositionality](https://iopscience.iop.org/article/10.1088/2632-072X/ad6051)
+
+[Book Of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
+
+[A cellular basis for mapping behavioural structure](https://www.nature.com/articles/s41586-024-08145-x)
+
+[Computational role of structure in neural activity and connectivity](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(24\)00056-1)
+
+[Visual attention methods in deep learning: An in-depth survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253524001957)
+
+**11.9**
+
+[Beyond networks, towards adaptive systems](https://arxiv.org/abs/2411.03621)
+
+[Artificial Intelligence, Scientific Discovery, and Product Innovation](https://aidantr.github.io/files/AI_innovation.pdf)
+
+[Certified Deductive Reasoning with Language Models](https://arxiv.org/abs/2306.04031)
+
+[Scaling Continuous Latent Variable Models as Probabilistic Integral Circuits](https://arxiv.org/pdf/2406.06494)
+
+[PhD Thesis: Exploring the role of (self-)attention in cognitive and computer vision architecture](https://arxiv.org/abs/2306.14650v2)
+
+[Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification](https://arxiv.org/abs/2409.10944v1)
+
+**11.10**
+
+[Why Is Anything Conscious?](https://osf.io/preprints/osf/mtgn7)
+
+[Is Complexity an Illusion?](https://arxiv.org/abs/2404.07227)
+
+[The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://ekinakyurek.github.io/papers/ttt.pdf)
+
+**11.11**
+
+[The Self-Assembling Brain: How Neural Networks Grow Smarter](https://books.google.com/books?id=DEgHEAAAQBAJ&printsec=copyright#v=onepage&q&f=false)
+
+**11.13**
+
+[Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics](https://arxiv.org/abs/2409.17693)
+
+[The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
+
+[Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
+
+[Analysis methods for large-scale neuronal recordings](https://www.science.org/doi/10.1126/science.adp7429)
+
+**11.14**
+
+[On principles of emergent organization - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0370157324001327)
+
+[Evidence for Quasicritical Brain Dynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098101)
+
+[Do language models need sensory grounding for meaning and understanding? – NYU Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/do-large-language-models-need-sensory-grounding-for-meaning-and-understanding/)
