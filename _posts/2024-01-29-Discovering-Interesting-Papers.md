@@ -1134,3 +1134,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Evidence for Quasicritical Brain Dynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098101)
 
 [Do language models need sensory grounding for meaning and understanding? – NYU Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/do-large-language-models-need-sensory-grounding-for-meaning-and-understanding/)
+
+**11.16**
+
+["Ilya's Machine Learning Reading List"](https://mp.weixin.qq.com/s/7Bj_K1Vjp2FtfklfJsAMbQ)
