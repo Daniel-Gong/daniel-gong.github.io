@@ -1138,3 +1138,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.16**
 
 ["Ilya's Machine Learning Reading List"](https://mp.weixin.qq.com/s/7Bj_K1Vjp2FtfklfJsAMbQ)
+
+[Tracking the topology of neural manifolds across populations](https://www.pnas.org/doi/10.1073/pnas.2407997121)
