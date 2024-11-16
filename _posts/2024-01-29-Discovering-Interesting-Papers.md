@@ -1140,3 +1140,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 ["Ilya's Machine Learning Reading List"](https://mp.weixin.qq.com/s/7Bj_K1Vjp2FtfklfJsAMbQ)
 
 [Tracking the topology of neural manifolds across populations](https://www.pnas.org/doi/10.1073/pnas.2407997121)
+
+[A sequence bottleneck for animal intelligence and language? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364661324002699?via%3Dihub)
