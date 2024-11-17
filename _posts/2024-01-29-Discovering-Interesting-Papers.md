@@ -1142,3 +1142,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Tracking the topology of neural manifolds across populations](https://www.pnas.org/doi/10.1073/pnas.2407997121)
 
 [A sequence bottleneck for animal intelligence and language? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364661324002699?via%3Dihub)
+
+[Mental search of concepts is supported by egocentric vector representations and restructured grid maps](https://www.nature.com/articles/s41467-023-43831-w)
+
+[Handbook of Mathematics](https://link.springer.com/book/10.1007/978-3-662-46221-8#overview)
