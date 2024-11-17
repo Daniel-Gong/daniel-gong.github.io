@@ -1146,3 +1146,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Mental search of concepts is supported by egocentric vector representations and restructured grid maps](https://www.nature.com/articles/s41467-023-43831-w)
 
 [Handbook of Mathematics](https://link.springer.com/book/10.1007/978-3-662-46221-8#overview)
+
+[Neural waves and computation in a neural net model II: Data-like structures and the dynamics of episodic memory](https://link.springer.com/article/10.1007/s10827-024-00876-0)
