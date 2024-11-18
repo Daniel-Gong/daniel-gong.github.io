@@ -1150,3 +1150,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Neural waves and computation in a neural net model II: Data-like structures and the dynamics of episodic memory](https://link.springer.com/article/10.1007/s10827-024-00876-0)
 
 [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
+
+**11.17**
+
+[Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z)
