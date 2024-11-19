@@ -1154,3 +1154,13 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.17**
 
 [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z)
+
+**11.18**
+
+[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)
+
+[Shared Representational Geometry Across Neural Networks](https://arxiv.org/abs/1811.11684)
+
+[Geometric Methods for Sampling, Optimisation, Inference and Adaptive Agents](https://arxiv.org/abs/2203.10592)
+
+[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](https://arxiv.org/abs/2411.08590)
