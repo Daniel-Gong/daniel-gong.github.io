@@ -1164,3 +1164,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Geometric Methods for Sampling, Optimisation, Inference and Adaptive Agents](https://arxiv.org/abs/2203.10592)
 
 [Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](https://arxiv.org/abs/2411.08590)
+
+[Rethinking Softmax: Self-Attention with Polynomial Activations](https://arxiv.org/abs/2410.18613)
