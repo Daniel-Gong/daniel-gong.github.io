@@ -1166,3 +1166,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](https://arxiv.org/abs/2411.08590)
 
 [Rethinking Softmax: Self-Attention with Polynomial Activations](https://arxiv.org/abs/2410.18613)
+
+**11.19**
+
+[What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?](https://arxiv.org/abs/2411.07681)
