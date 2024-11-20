@@ -1172,3 +1172,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?](https://arxiv.org/abs/2411.07681)
 
 [Reasoning = working memory \neq attention](https://gwern.net/doc/dual-n-back/2005-buehner.pdf)
+
+[Why you don’t overfit, and don’t need Bayes if you only train for one epoch](https://laurencea.github.io/laurencea/dont_need_bayes_if_one_epoch.pdf)
