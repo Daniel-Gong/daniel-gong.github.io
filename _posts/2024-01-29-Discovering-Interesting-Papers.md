@@ -1170,3 +1170,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.19**
 
 [What Do Learning Dynamics Reveal About Generalization in LLM Reasoning?](https://arxiv.org/abs/2411.07681)
+
+[Reasoning = working memory \neq attention](https://gwern.net/doc/dual-n-back/2005-buehner.pdf)
