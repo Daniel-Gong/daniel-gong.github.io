@@ -1176,3 +1176,11 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Why you don’t overfit, and don’t need Bayes if you only train for one epoch](https://laurencea.github.io/laurencea/dont_need_bayes_if_one_epoch.pdf)
 
 [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+
+**11.25**
+
+(Related to my n-back paper:)
+
+[Exploring brain-behavior relationships in the N-back task](https://www.sciencedirect.com/science/article/pii/S1053811920301701)
+
+[N-back working memory paradigm: A meta-analysis of normative functional neuroimaging studies](https://onlinelibrary.wiley.com/doi/10.1002/hbm.20131)
