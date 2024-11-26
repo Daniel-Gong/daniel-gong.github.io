@@ -1184,3 +1184,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Exploring brain-behavior relationships in the N-back task](https://www.sciencedirect.com/science/article/pii/S1053811920301701)
 
 [N-back working memory paradigm: A meta-analysis of normative functional neuroimaging studies](https://onlinelibrary.wiley.com/doi/10.1002/hbm.20131)
+
+**11.26**
+
+[Spiking neural networks: Towards bio-inspired multimodal perception in robotics](https://arxiv.org/abs/2411.14147)
