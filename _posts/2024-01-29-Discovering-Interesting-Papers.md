@@ -1192,3 +1192,5 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **12.1**
 
 [Large language models surpass human experts in predicting neuroscience results](https://www.nature.com/articles/s41562-024-02046-9)
+
+[On prefrontal working memory and hippocampal episodic memory: Unifying memories stored in weights and activity slots](https://www.biorxiv.org/content/10.1101/2023.11.05.565662v2.full)
