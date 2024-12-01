@@ -1188,3 +1188,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **11.26**
 
 [Spiking neural networks: Towards bio-inspired multimodal perception in robotics](https://arxiv.org/abs/2411.14147)
+
+**12.1**
+
+[Large language models surpass human experts in predicting neuroscience results](https://www.nature.com/articles/s41562-024-02046-9)
