@@ -1198,3 +1198,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **12.4**
 
 [Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1)
+
+[Successor Representations – Julien Vitay](https://julien-vitay.net/post/successor_representations/)
+
+[Successor Representation Active Inference](https://arxiv.org/abs/2207.09897)
