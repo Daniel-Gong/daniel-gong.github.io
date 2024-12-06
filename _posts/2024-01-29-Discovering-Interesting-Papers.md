@@ -1202,3 +1202,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Successor Representations – Julien Vitay](https://julien-vitay.net/post/successor_representations/)
 
 [Successor Representation Active Inference](https://arxiv.org/abs/2207.09897)
+
+**12.6**
+
+[Dynamic Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9560049)
