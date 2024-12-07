@@ -1176,3 +1176,33 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 [Why you don’t overfit, and don’t need Bayes if you only train for one epoch](https://laurencea.github.io/laurencea/dont_need_bayes_if_one_epoch.pdf)
 
 [Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models](https://arxiv.org/abs/2411.12580)
+
+**11.25**
+
+(Related to my n-back paper:)
+
+[Exploring brain-behavior relationships in the N-back task](https://www.sciencedirect.com/science/article/pii/S1053811920301701)
+
+[N-back working memory paradigm: A meta-analysis of normative functional neuroimaging studies](https://onlinelibrary.wiley.com/doi/10.1002/hbm.20131)
+
+**11.26**
+
+[Spiking neural networks: Towards bio-inspired multimodal perception in robotics](https://arxiv.org/abs/2411.14147)
+
+**12.1**
+
+[Large language models surpass human experts in predicting neuroscience results](https://www.nature.com/articles/s41562-024-02046-9)
+
+[On prefrontal working memory and hippocampal episodic memory: Unifying memories stored in weights and activity slots](https://www.biorxiv.org/content/10.1101/2023.11.05.565662v2.full)
+
+**12.4**
+
+[Inferring neural activity before plasticity as a foundation for learning beyond backpropagation](https://www.nature.com/articles/s41593-023-01514-1)
+
+[Successor Representations – Julien Vitay](https://julien-vitay.net/post/successor_representations/)
+
+[Successor Representation Active Inference](https://arxiv.org/abs/2207.09897)
+
+**12.6**
+
+[Dynamic Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9560049)
