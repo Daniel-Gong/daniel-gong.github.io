@@ -1206,3 +1206,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **12.6**
 
 [Dynamic Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/9560049)
+
+**12.7**
+
+[Natural Language Reinforcement Learning](https://arxiv.org/abs/2402.07157)
