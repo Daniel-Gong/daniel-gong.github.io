@@ -63,11 +63,11 @@ Honors and Awards
 Funding and Grants
 ==================
 
-* Travel scholarship, [2024 Analytical Connectionism Summer School, Flatiron Institute](https://events.simonsfoundation.org/event/e070287e-741e-4809-adea-7269142737cb/summary)
+* Travel scholarship, [2024 Analytical Connectionism Summer School, Flatiron Institute](https://www.analytical-connectionism.net/)
 * Oxford-MRC DTP Supplementary Funding for High Cost Training
   * Amount: £ 10505
 * **Clarendon Fund Scholarship + Medical Research Council Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
-* **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.psych.tsinghua.edu.cn/info/1197/1031.htm)**
+* **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.pcs.tsinghua.edu.cn/info/1197/1031.htm)**
   * Awarded to only 10 undergraduates at Tsinghua each year.
   * Amount: ¥190,000 (over $28,000)
 * Grant for Undergraduate Overseas Studies, Tsinghua University, 2019
