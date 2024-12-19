@@ -1210,3 +1210,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **12.7**
 
 [Natural Language Reinforcement Learning](https://arxiv.org/abs/2402.07157)
+
+**12.20**
+
+[The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273\(24\)00808-0)
