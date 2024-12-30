@@ -1214,3 +1214,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **12.20**
 
 [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273\(24\)00808-0)
+
+**12.30**
+
+[Chaotic recurrent neural networks for brain modelling: A review](https://www.sciencedirect.com/science/article/pii/S0893608024010086)
