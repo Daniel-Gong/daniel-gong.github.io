@@ -1211,6 +1211,96 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [Natural Language Reinforcement Learning](https://arxiv.org/abs/2402.07157)
 
+**12.11-12.15**
+
+I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun and I learned a lot. Below are some of the interesting works I came across during the conference.
+
+[\[2402.14180\] Linear Transformers are Versatile In-Context Learners](https://arxiv.org/abs/2402.14180)
+
+[\[2410.10781\] When Attention Sink Emerges in Language Models: An Empirical View](https://arxiv.org/abs/2410.10781)
+
+[\[2305.13948\] Decoupled Kullback-Leibler Divergence Loss](https://arxiv.org/abs/2305.13948)
+
+[\[2312.16045\] Algebraic Positional Encodings](https://arxiv.org/abs/2312.16045)
+
+[\[2411.00205\] Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2411.00205)
+
+[\[2411.01801\] Bootstrapping Top-down Information for Self-modulating Slot Attention](https://arxiv.org/abs/2411.01801)
+
+[\[2405.18512\] Understanding Transformer Reasoning Capabilities via Graph Algorithms](https://arxiv.org/abs/2405.18512)
+
+[\[2406.01766\] How Does Gradient Descent Learn Features -- A Local Analysis for Regularized Two-Layer Neural Networks](https://arxiv.org/abs/2406.01766)
+
+[\[2405.18548\] Transformer Encoder Satisfiability: Complexity and Impact on Formal Reasoning](https://arxiv.org/abs/2405.18548)
+
+[\[2408.12186\] Transformers are Minimax Optimal Nonparametric In-Context Learners](https://arxiv.org/abs/2408.12186)
+
+[\[2410.23856\] Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?](https://arxiv.org/abs/2410.23856)
+
+[\[2406.01257\] What makes unlearning hard and what to do about it](https://arxiv.org/abs/2406.01257)
+
+[\[2412.01019\] Energy-Based Modelling for Discrete and Mixed Data via Heat Equations on Structured Spaces](https://arxiv.org/abs/2412.01019)
+
+[\[2406.08607\] Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference](https://arxiv.org/abs/2406.08607)
+
+[\[2310.13220\] Towards Understanding How Transformers Learn In-context Through a Representation Learning Lens](https://arxiv.org/abs/2310.13220)
+
+[Deep Homomorphism Networks](https://openreview.net/forum?id=KXUijdMFdG)
+
+[\[2402.17805\] Graph Neural Networks and Arithmetic Circuits](https://arxiv.org/abs/2402.17805)
+
+[\[2209.07924\] GNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks](https://arxiv.org/abs/2209.07924)
+
+[\[2405.04776\] Chain of Thoughtlessness? An Analysis of CoT in Planning](https://arxiv.org/abs/2405.04776)
+
+[GraphTrail: Translating GNN Predictions into Human-Interpretable Logical Rules](https://openreview.net/pdf?id=fzlMza6dRZ)
+
+[\[2405.14606\] Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats](https://arxiv.org/abs/2405.14606)
+
+[\[2406.02550\] Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks](https://arxiv.org/abs/2406.02550)
+
+[\[2405.05409\] Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing](https://arxiv.org/abs/2405.05409)
+
+[Great Minds Think Alike: The Universal Convergence Trend of Input Salience](https://openreview.net/forum?id=7PORYhql4V)
+
+[\[2405.19562\] Selective Explanations](https://arxiv.org/abs/2405.19562)
+
+[\[2409.03662\] The representation landscape of few-shot learning and fine-tuning in large language models](https://arxiv.org/abs/2409.03662)
+
+[\[2406.04271\] Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models](https://arxiv.org/abs/2406.04271)
+
+[\[2407.13623\] Scaling Laws with Vocabulary: Larger Models Deserve Larger Vocabularies](https://arxiv.org/abs/2407.13623)
+
+[\[2311.14601\] A Metalearned Neural Circuit for Nonparametric Bayesian Inference](https://arxiv.org/abs/2311.14601)
+
+[\[2410.17066\] Neuronal Competition Groups with Supervised STDP for Spike-Based Classification](https://arxiv.org/abs/2410.17066)
+
+[\[2407.08751\] Latent Diffusion for Neural Spiking Data](https://arxiv.org/abs/2407.08751)
+
+[Exploring the trade-off between deep-learning and explainable models for brain-machine interfaces](https://www.biorxiv.org/content/10.1101/2024.10.03.616126v1)
+
+[\[2402.15978\] Shaving Weights with Occam's Razor: Bayesian Sparsification for Neural Networks Using the Marginal Likelihood](https://arxiv.org/abs/2402.15978)
+
+[\[2409.13876\] Physics-Informed Variational State-Space Gaussian Processes](https://arxiv.org/abs/2409.13876)
+
+[\[2402.19072\] TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072)
+
+[\[2405.15124\] Scaling Law for Time Series Forecasting](https://arxiv.org/abs/2405.15124)
+
+[\[2410.07166\] Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://arxiv.org/abs/2410.07166)
+
+[\[2405.14728\] Intervention and Conditioning in Causal Bayesian Networks](https://arxiv.org/abs/2405.14728)
+
+[\[2408.16862\] Probabilistic Decomposed Linear Dynamical Systems for Robust Discovery of Latent Neural Dynamics](https://arxiv.org/abs/2408.16862)
+
+[The motion planning neural circuit in goal-directed navigation as Lie group operator search](https://openreview.net/forum?id=Qz7BfmWizk)
+
+[\[2406.18808\] Binding in hippocampal-entorhinal circuits enables compositionality in cognitive maps](https://arxiv.org/abs/2406.18808)
+
+[Structured flexibility in recurrent neural networks via neuromodulation | bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.26.605315v1)
+
+
+
 **12.20**
 
 [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273\(24\)00808-0)
