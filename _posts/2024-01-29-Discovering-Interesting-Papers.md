@@ -1299,7 +1299,41 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 
 [Structured flexibility in recurrent neural networks via neuromodulation | bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.26.605315v1)
 
+[\[2402.06025\] Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning](https://arxiv.org/abs/2402.06025)
 
+[\[2311.09308\] Divergences between Language Models and Human Brains](https://arxiv.org/abs/2311.09308)
+
+[A Unifying Normative Framework of Decision Confidence](https://openreview.net/forum?id=BRvGfN3Xfm)
+
+[Learning Place Cell Representations and Context-Dependent Remapping](https://openreview.net/forum?id=7ESHFpqjNO&noteId=F5hjJWYocY)
+
+[\[2410.23126\] Provably Optimal Memory Capacity for Modern Hopfield Models: Transformer-Compatible Dense Associative Memories as Spherical Codes](https://arxiv.org/abs/2410.23126)
+
+[\[2402.03864\] The Challenges of the Nonlinear Regime for Physics-Informed Neural Networks](https://arxiv.org/abs/2402.03864)
+
+[\[2306.09377\] Evaluating alignment between humans and neural network representations in image-based learning tasks](https://arxiv.org/abs/2306.09377)
+
+[\[2411.02544\] Pretrained transformer efficiently learns low-dimensional target functions in-context](https://arxiv.org/abs/2411.02544)
+
+[\[2411.03865\] AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making](https://arxiv.org/abs/2411.03865)
+
+[\[2405.17796\] Offline Oracle-Efficient Learning for Contextual MDPs via Layerwise Exploration-Exploitation Tradeoff](https://arxiv.org/abs/2405.17796)
+
+[\[2407.16975\] On the Parameter Identifiability of Partially Observed Linear Causal Models](https://arxiv.org/abs/2407.16975)
+
+[\[2405.05254\] You Only Cache Once: Decoder-Decoder Architectures for Language Models](https://arxiv.org/abs/2405.05254)
+
+[\[2406.07640\] When is an Embedding Model More Promising than Another?](https://arxiv.org/abs/2406.07640)
+
+[Learning Group Actions on Latent Representations](https://openreview.net/forum?id=HGNTcy4eEp)
+
+[\[2406.06484\] Parallelizing Linear Transformers with the Delta Rule over Sequence Length](https://arxiv.org/abs/2406.06484)
+
+[\[2410.13821v1\] Artificial Kuramoto Oscillatory Neurons](https://arxiv.org/abs/2410.13821v1)
+
+[A call for intrinsic learning](https://openreview.net/forum?id=SimFKxPelz)
+
+[NeurIPS 2024 Workshop NeuroAI](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/NeuroAI#tab-accept-spotlight)
 
 **12.20**
 
