@@ -1218,3 +1218,7 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 **12.30**
 
 [Chaotic recurrent neural networks for brain modelling: A review](https://www.sciencedirect.com/science/article/pii/S0893608024010086)
+
+**1.6**
+
+[Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075)
