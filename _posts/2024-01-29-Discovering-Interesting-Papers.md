@@ -1346,3 +1346,5 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 **1.6**
 
 [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075)
+
+[NeuroTorch: A Python library for neuroscience-oriented machine learning](https://www.biorxiv.org/content/10.1101/2024.12.29.630683v1)
