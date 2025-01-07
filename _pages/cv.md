@@ -89,7 +89,11 @@ Reviewer, *[Scientific Reports](https://www.nature.com/srep/)*, Journal by Sprin
 
 # Teaching Experience
 
-Teaching Fellow, NSCI 160/PSYC 160: The Human Brain, Yale University
+Teaching Fellow, CGSC 338: Minds, Brains, and Machines, Yale University
+
+* Spring 2025
+
+Teaching Fellow, NSCI 160: The Human Brain, Yale University
 
 * Fall 2024
 * Led discussion groups and moderated quizzes
