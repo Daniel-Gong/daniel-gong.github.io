@@ -1297,7 +1297,7 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 
 [\[2406.18808\] Binding in hippocampal-entorhinal circuits enables compositionality in cognitive maps](https://arxiv.org/abs/2406.18808)
 
-[Structured flexibility in recurrent neural networks via neuromodulation | bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.26.605315v1)
+[Structured flexibility in recurrent neural networks via neuromodulation](https://www.biorxiv.org/content/10.1101/2024.07.26.605315v1)
 
 [\[2402.06025\] Doing Experiments and Revising Rules with Natural Language and Probabilistic Reasoning](https://arxiv.org/abs/2402.06025)
 
