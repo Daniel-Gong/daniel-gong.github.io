@@ -124,7 +124,8 @@ Skills
 
 Leadership and Outreach
 =======================
-
+* AI Readiness Fellow, Tsai Center for Innovative Thinking, Yale University
+  * Jan 2025 -
 * Colloquium Committee Member of Department of Psychology, Yale University
   * Jun 2024 -
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.cn/info/1158/21603.htm)
