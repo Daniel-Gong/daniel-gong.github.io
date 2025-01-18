@@ -1348,3 +1348,9 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075)
 
 [NeuroTorch: A Python library for neuroscience-oriented machine learning](https://www.biorxiv.org/content/10.1101/2024.12.29.630683v1)
+
+**1.18**
+
+[A neural network model of when to retrieve and encode episodic memories](https://elifesciences.org/articles/74445v1)
+
+[\[2210.13382\] Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://arxiv.org/abs/2210.13382)
