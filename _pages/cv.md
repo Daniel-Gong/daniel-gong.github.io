@@ -76,6 +76,7 @@ Funding and Grants
   * Amount: ¥60,000 (over $9,000)
 
 # Academic Service
+Reviewer, [ICLR 2025 Workshop on Representational Alignment](https://representational-alignment.github.io/2025/)
 
 Reviewer, [NeurIPS 2024 Workshop on Behavioral Machine Learning](https://sites.google.com/view/behavioralml)
 
