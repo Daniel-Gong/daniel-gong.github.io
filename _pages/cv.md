@@ -38,12 +38,12 @@ Honors and Awards
 - New College Sporting and Cultural Award, University of Oxford, 2022
 - New College Travel Grant for GRC Neurobiology of Cognition, University of Oxford, 2022
 - Award Winner in 2022 Oxford-MRC DTP Supplementary Funding Competition, 2022
-- **[Clarendon Scholar](https://www.ox.ac.uk/clarendon), University of Oxford, 2021**
+- [Clarendon Scholar](https://www.ox.ac.uk/clarendon), University of Oxford, 2021
 - [Gates Cambridge Scholarship](https://en.wikipedia.org/wiki/Gates_Cambridge_Scholarship) (declined the offer), University of Cambridge, 2021
 - [Outstanding Undergraduate Thesis Award](https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=UNDERGRADUATE&sysId=815), Tsinghua University, 2021 (清华大学本科优秀毕业论文)
 - Outstanding Graduate at Tsinghua University (top 1 in the class), 2021 （清华大学优秀毕业生）
 - Outstanding Graduate among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
-- **[Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020** (清华大学特等奖学金)
+- [Tsinghua Top Grade Scholarship, Tsinghua University](https://www.tsinghua.edu.cn/info/2275/85312.htm), 2020 (清华大学特等奖学金)
 
   - *Presidential Award. Highest Honor for Undergraduates. Awarded to 10 undergraduates annually.*
 - China National Scholarship, 2020
@@ -76,6 +76,7 @@ Funding and Grants
   * Amount: ¥60,000 (over $9,000)
 
 # Academic Service
+
 Reviewer, [ICLR 2025 Workshop on Representational Alignment](https://representational-alignment.github.io/2025/)
 
 Reviewer, [NeurIPS 2024 Workshop on Behavioral Machine Learning](https://sites.google.com/view/behavioralml)
@@ -97,7 +98,6 @@ Teaching Fellow, CGSC 338: Minds, Brains, and Machines, Yale University
 Teaching Fellow, NSCI 160: The Human Brain, Yale University
 
 * Fall 2024
-* Led discussion groups and moderated quizzes
 
 Tutor for Undergraduates, University of Oxford
 
@@ -129,6 +129,7 @@ Skills
 
 Leadership and Outreach
 =======================
+
 * AI Readiness Fellow, Tsai Center for Innovative Thinking, Yale University
   * Jan 2025 -
 * Colloquium Committee Member of Department of Psychology, Yale University
