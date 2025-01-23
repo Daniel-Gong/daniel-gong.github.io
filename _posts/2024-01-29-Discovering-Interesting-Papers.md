@@ -1354,3 +1354,7 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 [A neural network model of when to retrieve and encode episodic memories](https://elifesciences.org/articles/74445v1)
 
 [\[2210.13382\] Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://arxiv.org/abs/2210.13382)
+
+**1.23**
+
+[\[2310.10899\] Instilling Inductive Biases with Subnetworks](https://arxiv.org/abs/2310.10899)
