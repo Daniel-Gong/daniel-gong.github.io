@@ -1358,3 +1358,7 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 **1.23**
 
 [\[2310.10899\] Instilling Inductive Biases with Subnetworks](https://arxiv.org/abs/2310.10899)
+
+**1.25**
+
+[\[2403.15796\] Understanding Emergent Abilities of Language Models from the Loss Perspective](https://arxiv.org/abs/2403.15796)
