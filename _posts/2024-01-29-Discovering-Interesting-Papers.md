@@ -1362,3 +1362,9 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 **1.25**
 
 [\[2403.15796\] Understanding Emergent Abilities of Language Models from the Loss Perspective](https://arxiv.org/abs/2403.15796)
+
+**1.29**
+
+[\[1803.03635\] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+
+Horray! I've been updating this list for a year!
