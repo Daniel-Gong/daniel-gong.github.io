@@ -1382,3 +1382,7 @@ Horray! I've been updating this list for a year!
 [\[2402.03300\] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
 [\[2501.12948\] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+
+**2.3**
+
+[Information decomposition and the informational architecture of the brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(23\)00284-X)
