@@ -1386,3 +1386,5 @@ Horray! I've been updating this list for a year!
 **2.3**
 
 [Information decomposition and the informational architecture of the brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(23\)00284-X)
+
+Alright from today on the updates will be moved to the new repo [NeuroAI-Readings](https://github.com/Daniel-Gong/NeuroAI-Readings). Hooraay!
