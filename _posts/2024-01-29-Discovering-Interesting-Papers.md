@@ -1358,3 +1358,31 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 **1.23**
 
 [\[2310.10899\] Instilling Inductive Biases with Subnetworks](https://arxiv.org/abs/2310.10899)
+
+**1.25**
+
+[\[2403.15796\] Understanding Emergent Abilities of Language Models from the Loss Perspective](https://arxiv.org/abs/2403.15796)
+
+**1.29**
+
+[\[1803.03635\] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+
+Horray! I've been updating this list for a year!
+
+**2.1**
+
+[\[2408.05798\] Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences](https://arxiv.org/abs/2408.05798)
+
+[Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning | Nature Communications](https://www.nature.com/articles/s41467-025-56297-9)
+
+[\[2501.10465\] The Mathematics of Artificial Intelligence](https://arxiv.org/abs/2501.10465)
+
+[\[2408.05798\] Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences](https://arxiv.org/abs/2408.05798)
+
+[\[2402.03300\] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+
+[\[2501.12948\] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
+
+**2.3**
+
+[Information decomposition and the informational architecture of the brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(23\)00284-X)
