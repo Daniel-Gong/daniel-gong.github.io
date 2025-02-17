@@ -2,7 +2,7 @@
 title: "Focusing attention in human working memory and long-term memory: benefits through dissociable processes"
 collection: publications
 permalink: /publication/2023-04-18-retrocueing-wm-and-ltm
-excerpt: 'Under review at Nature Communications'
+excerpt: 'Accepted at Nature Communications'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2023.05.20.541594v1.full'
 ---
 **This paper is about attentional focusing in human working memory (WM) and long-term memory (LTM).**
