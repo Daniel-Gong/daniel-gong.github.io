@@ -43,7 +43,7 @@ Honors and Awards
 - [Outstanding Undergraduate Thesis Award](https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=UNDERGRADUATE&sysId=815), Tsinghua University, 2021 (清华大学本科优秀毕业论文)
 - Outstanding Graduate at Tsinghua University (top 1 in the class), 2021 （清华大学优秀毕业生）
 - Outstanding Graduate among College Students in Beijing, 2021 （北京地区高等学校优秀毕业生）
-- [Tsinghua Top Grade Scholarship, Tsinghua University](https://mp.weixin.qq.com/s/iEbIbvhj_Rtmihr-ICV1DAhttps://www.tsinghua.edu.cn/info/2275/85312.htm), 2020 (清华大学特等奖学金)
+- [Tsinghua Top Grade Scholarship, Tsinghua University](https://mp.weixin.qq.com/s/iEbIbvhj_Rtmihr-ICV1DA), 2020 (清华大学特等奖学金)
 
   - *Presidential Award. Highest Honor for Undergraduates. Awarded to 10 undergraduates annually.*
 - China National Scholarship, 2020
