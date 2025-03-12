@@ -23,6 +23,8 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 
 # **News**
 
+**- 2025.2** A [paper](https://www.biorxiv.org/content/10.1101/2023.05.20.541594v2.full) submitted in 2023 is finally in principle accepted by *Nature Communications*! Hope to see it out soon!
+
 **- 2024.10** [A paper](https://openreview.net/forum?id=dXjQgm9kAr) is accepted by NeurIPS 2024 Workshop on Behavioral Machine Learning!
 
 **- 2024.6** I was selected as a participant for the [2024 Analytical Connectionism Summer School](https://www.analytical-connectionism.net/school/2024/)!
