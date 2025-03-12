@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Dongyu Gong! I am currently a PhD student at Yale University.
+Hi, I'm Dongyu Gong! I am currently a PhD student in Neuroscience working with Prof. Ilker Yildirim and Prof. Kia Nobre at Yale University.
 
 Before coming to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor got a new position at Yale.
 
