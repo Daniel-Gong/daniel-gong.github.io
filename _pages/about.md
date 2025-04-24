@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Dongyu Gong! I am currently a PhD student in Neuroscience working with Prof. Ilker Yildirim and Prof. Kia Nobre at Yale University.
+Hi, I'm Dongyu Gong! I am currently a PhD student in Neuroscience working in the [Cognitive and Neural Computation Lab](https://cncl.yale.edu/) and the [Brain and Cognition Lab](https://brainandcognition.org/) at Yale University.
 
 Before coming to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor got a new position at Yale.
 
@@ -22,6 +22,8 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 ---
 
 # **News**
+
+**- 2025.4** I will be presenting a new project on "An Algorithmic Model of Working Memory Based on Sparse Variational Gaussian Process" at this year's CCN conference in Amsterdam!
 
 **- 2025.2** A [paper](https://www.biorxiv.org/content/10.1101/2023.05.20.541594v2.full) submitted in 2023 is finally in principle accepted by *Nature Communications*! Hope to see it out soon!
 
