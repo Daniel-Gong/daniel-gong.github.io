@@ -23,6 +23,8 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 
 # **News**
 
+**- 2025.5** The [Nature Communications paper](https://www.nature.com/articles/s41467-025-59359-0) is finally out!
+
 **- 2025.4** I will be presenting a new project on "An Algorithmic Model of Working Memory Based on Sparse Variational Gaussian Process" at this year's CCN conference in Amsterdam!
 
 **- 2025.2** A [paper](https://www.biorxiv.org/content/10.1101/2023.05.20.541594v2.full) submitted in 2023 is finally in principle accepted by *Nature Communications*! Hope to see it out soon!
