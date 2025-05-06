@@ -1,7 +1,7 @@
 ---
 title: "Focusing attention in working and long-term memory through dissociable mechanisms"
 collection: publications
-permalink: /publication/2023-04-18-retrocueing-wm-and-ltm
+permalink: /publication/2025-05-03-retrocueing-wm-and-ltm
 excerpt: 'Nature Communications'
 paperurl: 'https://nature.com/articles/s41467-022-31217-3'
 ---
