@@ -3,7 +3,7 @@ title: "Focusing attention in working and long-term memory through dissociable m
 collection: publications
 permalink: /publication/2023-04-18-retrocueing-wm-and-ltm
 excerpt: 'Nature Communications'
-paperurl: 'nature.com/articles/s41467-022-31217-3'
+paperurl: 'https://nature.com/articles/s41467-022-31217-3'
 ---
 
 We investigated how attention operates differently in human working memory (WM) and long-term memory (LTM). The study reveals that while attentional cues enhance retrieval performance in both WM and LTM, the mechanisms and observable effects differ between the two. Specifically, attentional orienting in WM is associated with significant gaze shifts and microsaccades, indicating a more pronounced and perhaps more automatic engagement of attention. In contrast, such gaze biases are absent in LTM, suggesting a different mode of attentional engagement. For cognitive science and neuroscience researchers, I believe this paper can provide valuable insights into the nuanced ways attention interacts with different memory systems in humans.
