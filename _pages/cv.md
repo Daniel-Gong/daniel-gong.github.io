@@ -12,27 +12,18 @@ redirect_from:
 
 Education
 =========
-
 * PhD student, Neuroscience, Yale University, 2023 -
-* PhD student, Cognitive Neuroscience, University of Oxford, 2021 - 2023 (Moved to Yale with my advisor in 2023)
+* PhD student, Cognitive Neuroscience, University of Oxford, 2021 - 2023 (Moved to Yale in 2023)
 * Bachelor of Science, Psychology (Minor in Computer Science), Tsinghua University, 2021 ([graduated with highest honors](https://mp.weixin.qq.com/s/iEbIbvhj_Rtmihr-ICV1DA), GPA ranked #1)
 
-# Publications
-
+Publications
+============
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Presentations
-=============
-
-<ul>{% for post in site.presentations reversed %}
-    {% include archive-single-presentation-cv.html %}
-  {% endfor %}</ul>
-
 Honors and Awards
 =================
-
 - GSA Conference Travel Fellowship, Yale University, 2024
 - AAAI-24 Student Scholarship and Volunteer Award, 2023
 - New College Sporting and Cultural Award, University of Oxford, 2022
@@ -62,7 +53,6 @@ Honors and Awards
 
 Funding and Grants
 ==================
-
 * Travel scholarship, [2024 Analytical Connectionism Summer School, Flatiron Institute](https://www.analytical-connectionism.net/)
 * Oxford-MRC DTP Supplementary Funding for High Cost Training
   * Amount: £ 10505
@@ -111,7 +101,6 @@ Teaching Assistant at the Perception Science Program, UC Berkeley
 
 Skills
 ======
-
 * Programming
   * Python
   * MATLAB
@@ -129,7 +118,8 @@ Skills
 
 Leadership and Outreach
 =======================
-
+* Organizer and moderator for the Panel Discussion on “The Present and Future of Artificial Intelligence” at 2025 Yale US-China Forum
+  * Dec 2024 - Apr 2025
 * Colloquium Committee Member of Department of Psychology, Yale University
   * Jun 2024 - Jan 2025
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.cn/info/1158/21603.htm)
