@@ -120,7 +120,7 @@ Leadership and Outreach
 =======================
 * Organizer and moderator for the Panel Discussion on “The Present and Future of Artificial Intelligence” at 2025 Yale US-China Forum
   * Dec 2024 - Apr 2025
-* Colloquium Committee Member of Department of Psychology, Yale University
+* Committee Member of Neuroscience Area Colloquium, Department of Psychology, Yale University
   * Jun 2024 - Jan 2025
 * Committee Member of [UK Tsinghua Association](https://www.tsinghua.org.cn/info/1158/21603.htm)
   * Jan 2022 - Aug 2023
