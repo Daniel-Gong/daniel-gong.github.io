@@ -57,7 +57,7 @@ Funding and Grants
 * Oxford-MRC DTP Supplementary Funding for High Cost Training
   * Amount: £ 10505
 * **Clarendon Fund Scholarship + Medical Research Council Studentship + New College-Yeotown Scholarship, University of Oxford, 2021-2025**
-* **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.pcs.tsinghua.edu.cn/info/1197/1031.htm)**
+* **[Future Scholar Grant for Undergraduate Research, Tsinghua University, 2020-2021](https://www.pcs.tsinghua.edu.cn/info/1037/1287.htm)**
   * Awarded to only 10 undergraduates at Tsinghua each year.
   * Amount: ¥190,000 (over $28,000)
 * Grant for Undergraduate Overseas Studies, Tsinghua University, 2019
@@ -80,6 +80,10 @@ Reviewer, *[Robotics and Computer-Integrated Manufacturing](https://www.scienced
 Reviewer, *[Scientific Reports](https://www.nature.com/srep/)*, Journal by Springer Nature
 
 # Teaching Experience
+
+Teaching Fellow, CGSC 1100: Introduction to Cognitive Science
+
+* Fall 2025
 
 Teaching Fellow, CGSC 338: Minds, Brains, and Machines, Yale University
 
