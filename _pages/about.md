@@ -11,7 +11,7 @@ Hi, I'm Dongyu Gong! I am currently a PhD student in Neuroscience working in the
 
 Before coming to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor got a new position at Yale.
 
-I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cogntive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
+I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cognitive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.
 
 If you are also interested in NeuroAI (neuroscience for AI and AI for neuroscience), you might be interested in this list of [NeuroAI/CompNeuro readings](https://github.com/Daniel-Gong/NeuroAI-Readings) that I am updating regularly.
 
