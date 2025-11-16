@@ -130,6 +130,8 @@ Skills
 Leadership and Outreach
 =======================
 
+* Mentor for the [Yale Undergraduate-Graduate Mentorship Initiative](https://campuspress.yale.edu/yuragumi/)
+  * Oct 2025 - Now
 * Organizer and moderator for the Panel Discussion on “The Present and Future of Artificial Intelligence” at 2025 Yale US-China Forum
   * Dec 2024 - Apr 2025
 * Committee Member of Neuroscience Area Colloquium, Department of Psychology, Yale University
