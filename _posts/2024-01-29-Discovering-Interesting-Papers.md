@@ -1373,7 +1373,7 @@ Horray! I've been updating this list for a year!
 
 [\[2408.05798\] Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences](https://arxiv.org/abs/2408.05798)
 
-[Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning | Nature Communications](https://www.nature.com/articles/s41467-025-56297-9)
+[Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning](https://www.nature.com/articles/s41467-025-56297-9)
 
 [\[2501.10465\] The Mathematics of Artificial Intelligence](https://arxiv.org/abs/2501.10465)
 
