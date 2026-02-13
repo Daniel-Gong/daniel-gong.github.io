@@ -9,6 +9,8 @@ redirect_from:
 ---
 Hi, I'm Dongyu Gong! I am currently a PhD student in Neuroscience working in the [Cognitive and Neural Computation Lab](https://cncl.yale.edu/) and the [Brain and Cognition Lab](https://brainandcognition.org/) at Yale University.
 
+I am also the founder of [Oria AI](https://theother.me), an AI application building evolvable digital selves for life insights and meaningful connections.
+
 Before coming to Yale, I was a PhD student at the University of Oxford. I moved to Yale after my advisor got a new position at Yale.
 
 I am interested in both human intelligence and machine intelligence, especially how intelligence emerges from biological systems and artificial systems. I believe neuroscience and cognitive science will provide valuable insights for the development of [autonomous machine intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) with human-level cognitive abilities.

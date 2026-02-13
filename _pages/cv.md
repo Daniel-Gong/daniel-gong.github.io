@@ -73,6 +73,8 @@ Funding and Grants
 
 Program Committee Member, [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 
+Reviewer, [CogSci 2026](https://cognitivesciencesociety.org/cogsci-2026/)
+
 Reviewer, [ICLR 2025 Workshop on Representational Alignment](https://representational-alignment.github.io/2025/)
 
 Reviewer, [NeurIPS 2024 Workshop on Behavioral Machine Learning](https://sites.google.com/view/behavioralml)
@@ -83,9 +85,15 @@ Reviewer, [2023 Conference on Cognitive Computational Neuroscience](https://2023
 
 Reviewer, *[Robotics and Computer-Integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)*, Journal by Elsevier
 
+Reviewer, *[Information Fusion](https://www.sciencedirect.com/journal/information-fusion)*, Journal by Elsevier
+
 Reviewer, *[Scientific Reports](https://www.nature.com/srep/)*, Journal by Springer Nature
 
 # Teaching Experience
+
+Teaching Fellow, CGSC 1390: Mental Lives of Babies and Animals
+
+* Spring 2026
 
 Teaching Fellow, CGSC 1100: Introduction to Cognitive Science
 
@@ -130,6 +138,8 @@ Skills
 Leadership and Outreach
 =======================
 
+* Organizer, [Building LLMs from Scratch Workshop Series](https://github.com/Daniel-Gong/LLM-Workshop-Materials), WTI Center for Neurocomputation and Machine Intelligence
+  * Jan 2026 - Now
 * Mentor for the [Yale Undergraduate-Graduate Mentorship Initiative](https://campuspress.yale.edu/yuragumi/)
   * Oct 2025 - Now
 * Organizer and moderator for the Panel Discussion on “The Present and Future of Artificial Intelligence” at 2025 Yale US-China Forum
