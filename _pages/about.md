@@ -24,6 +24,9 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 ---
 
 # **News**
+**- 2026.2** I am honored to have received the [Rothberg Build Fund](https://ventures.yale.edu/student-opportunities/rothberg-build-fund) to support the development of [Oria AI](https://oria.me)!
+
+**- 2026.1** I am organizing an "Building LLMs from scratch" workshop series at Yale this semester! Check out the materials [here](https://github.com/Daniel-Gong/LLM-Workshop-Materials) if you are interested!
 
 **- 2025.5** The [Nature Communications paper](https://www.nature.com/articles/s41467-025-59359-0) is finally out!
 
