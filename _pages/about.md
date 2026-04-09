@@ -24,6 +24,8 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 ---
 
 # **News**
+**- 2026.3** I will be giving two talks at VSS ([main session](https://www.visionsciences.org/) and [the MODVIS workshop](https://www.modvis.org/)) this year on **Adaptive Computation in Working Memory: Goal-Conditioned Sparse Variational Gaussian Process Explains Retro-Cue Benefits and Interference Dynamics**.
+
 **- 2026.2** I am honored to have received the Rothberg Build Fund from [Yale Ventures](https://ventures.yale.edu) to support the development of [Oria AI](https://oria.me)!
 
 **- 2026.1** I am organizing an "Building LLMs from scratch" workshop series at Yale this semester! Check out the materials [here](https://github.com/Daniel-Gong/LLM-Workshop-Materials) if you are interested!
