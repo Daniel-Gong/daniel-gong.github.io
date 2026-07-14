@@ -24,6 +24,7 @@ In my leisure time, I enjoy playing tennis, running, travelling, and hiking. I a
 ---
 
 # **News**
+**- 2026.7** I will be attending the [YC Startup School](https://events.ycombinator.com/startup-school-2026) in San Francisco this year! I am excited to learn from the amazing founders and investors in the YC community.
 
 **- 2026.3** I will be giving two talks at VSS ([main session](https://www.visionsciences.org/) and [the MODVIS workshop](https://www.modvis.org/)) this year on **Adaptive Computation in Working Memory: Goal-Conditioned Sparse Variational Gaussian Process Explains Retro-Cue Benefits and Interference Dynamics**.
 
